@@ -1,0 +1,133 @@
+"E. Bryan et al.","/ Water Research 170 (2020) 115301
+5"
+"transmissivity (Jurgens et al., 2012; Katz et al., 2009; Long and","4. Results"
+"Putnam, 2006). The models were run for ﬁve wells (6e90, 3e77,",""
+"4e83,1e83and16e90)wheretime-series<s>3</s>Hdatawascollected","Groundwater levels were measured from dedicated monitoring"
+"overthestudyperiod.Thetracers<s>3</s>Hand<s>18</s>Owereusedincom-","wells as indicated in Fig. 1A and were responsive to tidal oscillations"
+"bination and then separately for each model.","causing large daily ﬂuctuations. The average ﬁltered groundwater"
+"The<s>3</s>Hand<s>18</s>Omonthlyrainfallfrom1962to2020areusedas","levels
+reveal
+the
+seasonal
+trends better
+(Fig. 2A). All
+locations"
+"inputdatatothemodel.The<s>3</s>Hinputdatawasfromthe<s>3</s>Hin","showing the same characteristic water level ﬂuctuations over time,"
+"rainfall measured by the Global Network of Isotope in Precipitation","which appear to be heavily dependent on rainfall and a return to"
+"(GNIP) and ANSTO on a monthly basis since the 1960s at Perth,","near
+sea level during low rainfall periods
+(Fig. 2B): The highest"
+"Western Australia, which is
+in close proximity (<50 km)
+to the","water
+levels are observed in the austral winter months
+(~0.5 m"
+"study site. Pre-bomb atmospheric concentrations and atmospheric","above mean sea level) which are characterised by high rainfall,"
+"concentrations, since November 2016 (when rainfall data was no","while lower water levels (near 0 m AHD) are observed in the austral"
+"longer available) were assumed to be 2 TU. Where data was absent,","summer months (Fig. 2B). The wells sampled for this study were"
+"<s>3</s>Hvalueswereestimatedbyinterpolation.An<s>18</s>Oinputfunction","production wells used to abstract groundwater.
+It was found that"
+"was also used, with Perth rainfall
+<s>18</s>Ovaluesfrom GNIP (IAEA/","the decrease in rainfall since the 1970s had a greater inﬂuence on"
+"WMO, 2016) utilised where available. Where data was absent, a","water
+levels
+than groundwater abstraction volume (Bryan et al.,"
+"monthly average
+value was
+calculated based on existing data.","2016)."
+"Valuesford<s>18</s>Oingroundwaterwerealsoincludedinthemodelling","The annual mean actual evapotranspiration (AET) for Rottnest"
+"because they are a useful model constraint for rainfall recharge in","Island
+using
+the Australian Water Availability
+Project
+(AWAP)"
+"theLMPs.The<s>18</s>Orainfalltimeserieswereconstructedfromdata","dataset
+is 615 ± 57 mm, with soil evaporation and transpiration"
+"from the nearby GNIP monitoring station at Perth, supplemented","accounting
+for
+171 ± 29 mm
+and
+444 ± 30 mm,
+respectively"
+"by data collected as part of
+this study from Rottnest
+Island from","(Raupach et al., 2009, 2012). An average annual potential recharge"
+"2014 to 2016. Missing data and data prior to GNIP monitoring was","of
+280 ± 10 mm during
+the
+study period was
+calculated using"
+"interpolated based on the monthly mean.","rainfall
+and modelled AET
+data,
+ranging
+from a minimum of"
+"Composite rainfall samples were collected on Rottnest Island on","265 mm in 2014 to a maximum of 295 mm in 2015, which are"
+"a weekly basis from May 2014 in a rainfall collector designed to","consistent with previously calculated recharge estimates of be-"
+"collect
+samples
+for
+isotopic analysis by preventing evaporation.","tween 147 and 245 mm per year calculated using the renewal rate"
+"Besides rainfall data, we utilise modelled climate parameters for","calculationwith<s>3</s>Hastherainfallinputandgroundwateragetracer"
+"the
+study
+site
+location
+from the Australian Water Availability","(Bryan et al., 2016)."
+"Project
+(AWAP) dataset
+(Raupach et
+al., 2009, 2012). Modelled",""
+"AWAP weekly
+climate
+parameters
+from nineteen
+sites
+around",""
+"","4.1.
+Environmental tracers"
+"Perth, WA, were used to calculate average values that were sub-",""
+"sequently utilised in calculations for Rottnest Island, as the AWAP",""
+"","The average rainfall Cl concentration over the study period is"
+"model domain does not extend to Rottnest Island (Fig. 2B and C). A",""
+"","1.9 ± 1.8 mmol/L, while
+average
+groundwater
+Cl
+concentrations"
+"cumulative water budget was calculated using Bureau of meteo-",""
+"","range from 4.5 ± 0.7 to 9.1 ± 4.3 mmol/L (Table 1). Groundwater Cl"
+"rology rainfall (BOM, 2017) and modelled actual evapotranspiration",""
+"","concentrations range between 4.0 and 20.0 mmol/L (with a smaller"
+"(AET) data to obtain the total recharge to the freshwater lens for",""
+"","range detected in most wells)
+(Fig. 3B). Higher Cl values were"
+"each year of the study (2013e2016). Weekly modelled AET is sub-",""
+"","measured in the austral summer and early autumn months, when"
+"tracted from weekly
+rainfall
+totals
+(P)
+to determine
+the water",""
+"","limited rainfall occurs, with average groundwater Cl concentrations"
+"budget (i.e. P e AET). Potential recharge is then calculated from all",""
+"","ranging from 7.8 ± 2.6 to 9.1 ± 4.3 mmol/L (Table 1, Fig. 3B). Average"
+"positive monthly water budgets (monthly excess rainfall). The total",""
+"","groundwater Cl values in the higher-rainfall austral winter months"
+"sum of all monthly excess water for each year gives the potential",""
+"","range from 4.8 ± 0.8 to 5.2 ± 1.1 mmol/L. Moreover, greater vari-"
+"inﬁltration for that particular year.",""
+"","ability
+is
+observed
+in the
+austral
+summer months, while
+less"
+"Table 1",""
+"Summary of hydrochemistry and isotopic data of rainfall and fresh groundwaters from production wells.",""
+"Date
+Cl
+d<s>2</s>H","d<s>18</s>Od-excess
+<s>3</s>H"

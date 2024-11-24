@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+contribute a sig-,,,,,
+Catchment (Fig. 1),Drainage area,Drainage density,Forest cover,Average slope,Runoff coefficient
+,,,(%),,(%)
+,(km2),(mm−2),,(◦),
+Upper Lardners (UL),20.0,,92,11.0,
+,,1.0×10−3,,,nc∗
+Lardners Gauge (LG),51.6,,91,11.0,33.0
+,,1.1×10−3,,,
+,81.0,,95,11.3,39.0
+,,9.2×10−4,,,
+Porcupine Creek (PC),33.6,,88,5.9,11.4
+,,9.5×10−4,,,
+Ten Mile Creek (TC),9.6,,88,5.7,12.0
+,,8.8×10−4,,,
+Yahoo Creek (YC),16.6,,95,8.6,10.5
+,,8.7×10−4,,,
+Love Creek Kawarren (LK),74.4,,82,6.4,10.6
+,,9.3×10−4,,,
+Love Creek Wonga (LW),91.7,,78,6.7,8.6
+,,9.2×10−4,,,
+∗ Not calculated.,,,,,

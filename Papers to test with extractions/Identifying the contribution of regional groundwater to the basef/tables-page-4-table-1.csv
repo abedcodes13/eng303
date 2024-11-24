@@ -1,0 +1,126 @@
+"110
+B.D. Smerdon et al. / Journal of Hydrology 464–465 (2012) 107–115"
+"@Q
+Concentrations of
+<s>4</s>He,<s>20</s>Ne,<s>40</s>Ar,<s>36</s>Ar,andN<s>2</s>weremeasured"
+"¼ I (cid:2) L (cid:2) Ew
+ð2Þ"
+"(Poole et al., 1997) with a Stanford Research Instruments RGA200
+@x"
+"quadrupole mass spectrometer, either from gas collected in the dif-"
+"where I, L, and E are rates of
+inﬂow,
+losses, and evaporation."
+"fusion samplers or gas stripped and collected under vacuum from"
+"Longitudinal river concentration (c) with distance (x) is expressed"
+"the copper tubes."
+"as:"
+"@c
+khwh
+c<s>hwh</s>"
+"Q
+c
+(cid:2)
+ð3Þ
+(cid:2)Iðc<s>i</s>(cid:2)cÞþwEc(cid:2)kwc(cid:2)dwkcþ3.2. Estimation of terrigenic helium and noble gas fractions"
+"@x
+1þkt<s>h</s>1þkt<s>h</s>"
+"wherec<s>i</s>isthegroundwaterconcentration,disthemeandepth,Themeasuredconcentrationof<s>4</s>Heingroundwaterincludesthe"
+"<s>kisthegasexchangevelocity,kisthedecaycoefﬁcient,</s>c<s>ispro-</s>atmospheric helium at the time of recharge, additional helium due"
+"duction in the hyporheic zone, h is the mean hyporheic zone depth,
+to excess air entrainment during recharge, and helium acquired in"
+"t<s>h</s>istheresidencetimeinthehyporheiczone,andhisthehypor-thesubsurface(<s>4</s>He<s>terr</s>)fromalphadecayofcrustalmaterialsand"
+"heic zone porosity. Eqs. (2) and (3) were solved numerically by ex-
+ﬂuxes of deep crustal and mantle derived helium. Measured dis-"
+"plicit ﬁnite difference in a spreadsheet for the river length (60 km)"
+"solvedconcentrationsof<s>20</s>Ne,<s>40</s>Ar,andN<s>2</s>wereﬁtwiththeclosed"
+"shown in Fig. 3. For
+speciﬁed river dimensions and ﬂow,
+tracer
+equilibrium model of Aeschbach-Hertig et al.
+(2000)
+to estimate"
+"characteristics,
+and measurements
+of
+tracer
+concentrations
+in"
+"theexcessairandatmosphericcomponents,and<s>4</s>He<s>terr</s>wasthen"
+"groundwater,
+a
+longitudinal proﬁle of groundwater
+inﬂow was
+calculatedfromthemeasuredconcentrationsof<s>4</s>He."
+"determined."
+"Inadditiontonoblegasand<s>4</s>He<s>terr</s>concentrations,noblegas"
+"Model parameters were based on values measured in the pres-
+fractionation factors were calculated to facilitate interpretation be-"
+"ent study (e.g., river geometry, tracer concentrations) and those re-"
+"concentrations have low values and a large range
+cause<s>4</s>He<s>terr</s>"
+"ported by Cook et al. (2003) for the previous study of the Daly River
+(Gardner et al., 2011a). Fractionation factors for the ith gas were"
+"(e.g., gas transfer velocity). The present study incorporates mea-
+determined by:"
+"sured groundwater data heretofore unknown, an additional time-"
+"frame
+with
+a
+higher
+river
+discharge,
+and
+additional"
+"ði=<s>40</s>ArÞ<s>samp</s>"
+"FðiÞ ¼
+ð1Þ
+environmental
+tracers. Speciﬁc details of
+the hyporheic zone of"
+"ði=<s>40</s>ArÞ<s>atm</s>the Daly River are unknown and difﬁcult to measure given the an-"
+"nual ﬂooding. However, Cook et al. (2006) found that exclusion of a"
+"where the mole fraction of He and Ne in the head space in equilib-"
+"hyporheic zone led to an overestimate of groundwater discharge."
+"riumwiththewaterarerepresentedby<s>samp</s>,and<s>atm</s>indicatesmoleFor this study a hyporheic zone of 1.0 m depth, 0.4 porosity, and"
+"fractions
+in the
+atmosphere.
+For water
+in equilibrium with the"
+"having a residence time of 0.25 days was assumed. This assump-"
+"atmosphere, the fractionation factor would be 1."
+"tionyieldedasmallamountof<s>222</s>Rnproductionalongthelength"
+"of river studied similar to Gardner et al. (2011a) and had no effect"
+"on other environmental tracers."
+"3.3. Modelling"
+"4. Results
+Cook et al. (2006) describe a method for quantifying groundwa-"
+"ter discharge to rivers by using in-river ﬁeld measurements and a"
+"4.1.<s>222</s>Rnone-dimensional advective transport model that determines longi-"
+"tudinal
+in-river concentrations of environmental
+tracer. The ap-"
+"Radon activities are shown on Table 1. In groundwater samples,
+proach involves calculating the change in river concentration for"
+"radon activities varied from 0.7 to 18.0 Bq/L, with mean values of
+any environmental tracer, taking into consideration river discharge"
+"9.1 and 7.4 Bq/L for November 2009 and May 2010, respectively.
+and physical dimensions, as well as the speciﬁc characteristics of"
+"Radon activity decreased from approximately 10 Bq/L in ground-
+each tracer (e.g., radioactive decay, solubility, gas exchange with"
+"water samples near
+the river
+to 5 Bq/L at distances greater
+than
+the atmosphere). Complete details on the derivation of the model"
+"1 km from the river. Radon activity measured at the spring vents
+and underlying assumptions are described in Cook et al.
+(2006)."
+"was found to span a narrower range than groundwater collected
+For a given river width (w), change in river ﬂow (Q) is expressed as:"
+"Table 1"
+"Environmental tracer concentrations."
+"Sample Location
+November 2009
+May 2010"

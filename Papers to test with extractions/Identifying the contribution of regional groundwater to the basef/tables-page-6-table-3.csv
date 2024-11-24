@@ -1,0 +1,55 @@
+"Fig. 6.","(a) Noble gas","fractionation factors","for
+<s>20</s>Neand<s>4</s>Herelativetowaterin","","","",""
+"","equilibriumwiththeatmosphere.(b)Terrigenichelium(<s>4</s>He<s>terr</s>)calculatedfroma","","","","","",""
+"","","","","Table 3","","",""
+"","closedequilibriummodelversusfractionationfactorfor<s>4</s>He.F(<s>4</s>He)greaterthan1","","","","","",""
+"","","","","","Parameters for the groundwater discharge model.","",""
+"(e.g.,","springs)","indicate
+increased","concentration with
+travel
+time,
+revealing
+a","","","",""
+"","component of regional-scale groundwater.","","","","","",""
+"","","","","Symbol","Description","November","May"
+"","","","","","","2009","2010"
+"","","","","Q<s>0</s>","Riverﬂow(m<s>3</s>s<s>(cid:2)1</s>)","10.2","22.0"
+"4.5. Groundwater discharge modelling","","","","E","Evaporation(mmd<s>(cid:2)1</s>)","7","5"
+"","","","","w","River Width (m)","50","55"
+"","","","","d","River depth (m)","1.5","2.0"
+"","Modelling was","completed","for
+low ﬂow conditions
+during","","","",""
+"","","","","h","Hyporheic zone depth (m)","1.0","1.0"
+"November2009(10.2m<s>3</s>/s)andtheMay2010samplingperiod","","","","","","",""
+"","","","","h","Hyporheic zone porosity","0.4","0.4"
+"","athigherﬂowconditions(22.0m<s>3</s>/s).Thegroundwaterdischarge","","","t<s>h</s>","Hyporheic zone residence time (d)","0.25","0.25"
+"","was modelled by achieving a visual best-ﬁt for measured in-river","","","c","Hyporheiczone<s>222</s>Rnproduction","0.2","0.2"
+"","","","","","(BqL<s>(cid:2)1</s>d<s>(cid:2)1</s>)","",""
+"","environmental","tracer","concentrations
+(<s>222</s>Rn,CFC-12,
+and
+SF<s>6</s>,","","","",""
+"","","","","c<s>0-RN</s>","Initial<s>222</s>Rnactivity","0.5","0.5"
+"","F(<s>4</s>He))byadjustingtherateofgroundwaterinﬂow.Groundwater","","","","","",""
+"","","","","c<s>0-CFC</s>","InitialCFC-12concentration(pgkg<s>(cid:2)1</s>)","135","135"
+"","inﬂow concentrations were speciﬁed from values measured (Ta-","","","c<s>0-SF6</s>","InitialSF<s>6</s>concentration(pgkg<s>(cid:2)1</s>)","–","0.15"
+"","bles 1 and 2). Each tracer used in this study was used for a different","","","c<s>0-HE</s>","InitialF(<s>4</s>He)","–","1.0"
+"","","","","k<s>RN</s>","<s>222</s>Rngastransfervelocity(md<s>(cid:2)1</s>)","1.0","1.0"
+"","purpose:<s>222</s>Rnidentiﬁedinﬂowlocations,CFC-12andSF<s>6</s>identi-","","","","","",""
+"","","","","k<s>CFC</s>","CFC-12gastransfervelocity(md<s>(cid:2)1</s>)","1.0","1.0"
+"","ﬁedmodernwatersources,and<s>4</s>Heidentiﬁedolderregional-scale","","","","","",""
+"","","","","k<s>SF6</s>","SF<s>6</s>gastransfervelocity(md<s>(cid:2)1</s>)","–","0.9"
+"","sources.Modelledgroundwaterdischarge,reportedhereasm<s>3</s>per","","","","","",""
+"","","","","k<s>HE</s>","F(<s>4</s>He)gastransfervelocity(md<s>(cid:2)1</s>)","–","2.5"
+"","day,perlinearm(m<s>3</s>/d/m),istheresultofbalancingtheestimated","","","k","<s>222</s>Rndecay(d<s>(cid:2)1</s>)","0.181","0.181"
+"","groundwater inﬂow rate, measured concentrations of environmen-","","","Q<s>1</s>","Tributary inﬂow at 32.8 km (Stray","0.6","1.2"
+"","","","","","Creek;m<s>3</s>s<s>(cid:2)1</s>)","",""
+"","tal tracers, and an approximation of in-river processes (e.g., evap-","","","","","",""
+"","","","","c<s>1-RN</s>","Tributary<s>222</s>Rnactivity(BqL<s>(cid:2)1</s>)","1","1"
+"oration,","gas","exchange,","and<s>222</s>Rnproductioninthehyporheic","","","",""
+"","","","","c<s>1-CFC</s>","TributaryCFC-12(pgkg<s>(cid:2)1</s>)","135","135"
+"zone).","","","","c<s>1-SF6</s>","TributarySF<s>6</s>(pgkg<s>(cid:2)1</s>)","–","0.15"
+"","Local-scalegroundwaterinﬂowwasassigneda<s>222</s>Rnactivityof","","","c<s>1-HE</s>","TributaryF(<s>4</s>He)","–","1.0"
+"","4 Bq/L, CFC-12 concentration of 25 pg/kg,","","concentration of
+SF<s>6</s>","","","",""

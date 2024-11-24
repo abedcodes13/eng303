@@ -1,0 +1,265 @@
+"24
+I. Cartwright et al. / Journal of Hydrology 557 (2018) 16–29"
+"5.2. Mean transit times
+2"
+"Based on the above conceptualisation of how the ﬂow system"
+"1.8"
+"responds to rainfall, mean transit times were calculated assuming"
+"that single ﬂow system contributes to the stream at all ﬂow condi-"
+"tions.
+If
+there were some inﬂow of
+recent
+rainfall,
+this approach
+1.6"
+"yields the minimum transit time of the baseﬂow component. The
+σ<s>2</s>ln(K)"
+"<s>3</s>H (TU)estimated mean transit times calculated using the suite of lumped"
+"Hom"
+"1.4"
+"parameter models are between 7 and 62 years (Table 2, Fig. 9). The"
+"0.3"
+"range of mean transit
+times
+from the various models
+increases"
+"1 2
+with the
+<s>3</s>Hactivity(Fig.9a);however,the
+relative difference
+.5"
+"1.2"
+"decreases.Forexample,meantransittimesforawaterwitha<s>3</s>H4"
+"Exponential LPM"
+"activity of 2 TU are between 9.6 and 14.2 years (or ±19%). For a"
+"1"
+"waterwitha<s>3</s>Hactivityof1.5TU,they are between 28.0 and"
+"0
+20
+40
+60
+80"
+"41.9 years (±13%)."
+"Mean Transit Time (yr)"
+"For the two low streamﬂow sampling periods, the mean transit"
+"times
+in the upper Yarra subcatchments are 28–62 years
+(April"
+"Fig. 8.
+<s>3</s>Hactivitiesvs.meantransittimesatthemodeloutletforvaryingdegreesof"
+"2015) and 20–53 years (March 2016), whereas the mean transit
+heterogeneity in K. Hom is the homogeneous FEFLOW model. Arrowed line shows"
+"<s>3</s>Hactivityof
+1.5
+TU. Dashed
+line
+is
+the
+range
+of mean transit
+times
+for
+a
+times in the upper Latrobe subcatchments are 16–42 years (April"
+"exponential mixing model from TracerLPM for reference."
+"2015) and 16–41 years (March 2016). The Tooronga River
+in the"
+"upper
+Latrobe
+catchment has
+the
+shortest mean transit
+times"
+"(16–26 years) and Cockatoo Creek in the upper Yarra catchment"
+"has the longest mean transit
+times
+(42–62 years). At
+the higher"
+"5. Discussion"
+"streamﬂows, the mean transit times in the upper Latrobe subcatch-"
+"ments are 7–24 years (August 2015) and 13–36 years (November"
+"The combination of major
+ion geochemistry,
+streamﬂows,
+<s>3</s>H"
+"2015). At the corresponding times, the mean transit times in the"
+"activities, and catchment attributes allow aspects of the hydroge-"
+"upper Yarra subcatchments are 13–37 years
+(August 2015) and"
+"ology of
+the upper
+Latrobe
+and upper Yarra
+catchments
+to be"
+"16–46 years (November 2015). As at
+low streamﬂows,
+the mean"
+"understood. This
+section addresses
+the prime objectives of
+the"
+"transit
+times are shortest
+in the Tooronga River
+(9–13 years
+in"
+"study, namely:
+the range of mean transit
+times; whether mean"
+"August 2015 and 13–20 years in November 2015) and longest at"
+"transit times can be predicted from catchment attributes or geo-"
+"Cockatoo Creek (26–37 years in August 2015 and 37–46 years in"
+"chemical data; and the uncertainties in the calculated mean tran-"
+"November 2015)."
+"sit
+times."
+"5.3. Uncertainties"
+"Propagating
+the
+analytical
+uncertainty
+in
+5.1. Changing stores of water at different streamﬂows
+<s>3</s>Hactivities"
+"(Table A1)
+results in uncertainties in mean transit
+times of 1–2"
+"There
+is
+strong
+seasonality
+to
+southeast Australian
+rainfall
+years. Compared with the other uncertainties, this has only a minor"
+"(Bureau of Meteorology, 2017) and streams are generally domi-
+impact. Mixing of water with different mean transit times within a"
+"nated by baseﬂow during summer (Cartwright et al., 2014). Thus,
+subcatchment
+(aggregation)
+results
+in
+calculated mean
+transit"
+"baseﬂow probably contributes the vast majority of water
+to the
+times being lower
+than the actual mean transit
+time (Suckow,"
+"streams in April 2015 and March 2016 when streamﬂows were
+2014; Kirchner, 2016; Stewart et al., 2017). The aggregation error"
+"low (Fig. 2). Higher winter
+streamﬂows
+can conceivably reﬂect
+is difﬁcult
+to assess but
+it
+reduces as an increasing number of"
+"the progressive mobilisation of
+shallower younger water
+stores
+waters are mixed. This is because ﬂow systems where numerous"
+"(e.g., soil water or water from the regolith) as the catchment wets
+aliquots of water with different mean transit times mix are similar"
+"up (c.f. Hrachowitz et al., 2013) or mixing between baseﬂow and
+to what is described by the lumped parameter models. For exam-"
+"recent rainfall.
+ple, using similar lumped parameter models and input
+functions"
+"This
+study avoided collecting samples during the high ﬂow
+to this study, Cartwright and Morgenstern (2016a) estimated the"
+"events immediately following rainfall when direct input of recent
+aggregation error resulting from an equal mixture of
+two waters"
+"rainfall
+to the stream may occur. The dilution of saline baseﬂow
+with mean transit
+times of 10 and 50 years was approximately"
+"with recent rainfall also results in major ion concentrations or EC
+13%. However,
+if
+several waters with mean
+transit
+times
+of"
+"values being inversely correlated with streamﬂow (Godsey et al.
+between 10 and 50 years mixed, the aggregation errors were sig-"
+"2009; Cartwright and Morgenstern, 2015), which is not observed
+niﬁcantly lower."
+"in these
+catchments
+(Fig. 4).
+The predicted EC vs.
+streamﬂow
+Theimpactsofuncertaintiesinthe<s>3</s>Hactivitiesofrainfallmay"
+"trend for
+the
+situation where all
+the
+additional
+streamﬂows
+is
+be illustrated using the exponential-piston ﬂow model with an"
+"derived
+from recent
+rainfall
+inputs
+also
+fails
+to
+replicate
+the
+EPM ratio of 1 (almost identical results are produced by the other"
+"observed EC values
+(Fig. 4b). Rather, as documented in similar
+models).Theassumed<s>3</s>Hactivityofmodernrainfallmakesrela-"
+"catchments elsewhere in southeast Australia, the inﬁltrating rain-
+tively
+little
+difference
+to
+the
+estimated mean
+transit
+time"
+"fall has
+likely
+progressively mobilised
+the
+shallower
+stores
+of
+(Fig. 9b). Varying the modern rainfall
+<s>3</s>Hactivitiesbetween2.6"
+"water
+from the
+soil
+or
+regolith (Cartwright
+and Morgenstern,
+and3.0TU(whichisthelikelyrangeofrainfall<s>3</s>Hactivitiesinthis"
+"2015; Howcroft et al., 2017). These water stores almost certainly
+region of southeast Australia: Tadros et al., 2014) produces a range"
+"have
+shorter
+residence
+times
+than
+the
+deeper
+groundwater,
+ofmeantransittimesof3yearsfora<s>3</s>Hactivityof2TUand<0.1"
+"whichexplainswhy<s>3</s>Hactivitiesarehigherinwinter.Giventhatyearfora<s>3</s>Hactivityof1.5TU.Uncertaintiesinthe<s>3</s>Hactivitiesof"
+"samples were not
+collected over
+the high ﬂow peaks,
+the data
+past rainfall exert a greater inﬂuence on the mean transit
+times."
+"does not preclude recent rainfall contributing to streamﬂow dur-
+Fig.9cillustratestheimpactofvaryingthe<s>3</s>Hactivityofrainfall"
+"ing individual high ﬂow events.
+by ±10%, which is approximately the relative uncertainty in mod-"

@@ -1,0 +1,147 @@
+﻿"activities in groundwater persist (Herczeg and Leaney, 2011).",Unnamed: 0,Unnamed: 1
+In this study we measured unsaturated zone 14C activities at,,"Fig. 1. Study sites in the Ti Tree Basin, Northern Territory, Australia."
+"five sites with different watertable depths in the arid Ti Tree Basin,",,
+"central Australia, providing insight into spatial variability in unsat-",,watertable areas near the Woodforde River have historically
+14urated zone C activity. We interpret and model our data in terms,,"shown rises in response to heavy rainfall and flooding, however"
+of CO2 production in the unsaturated zone from sources with dif-,,"there is little evidence that this has occurred since the year 2000,"
+"ferent carbon isotope compositions, consistent with previous stud-",,and groundwater levels are generally static or slightly declining
+ies. Diffusive transport is constrained by measurements and,,"1at rates of 0.01–0.05 m yr (Knapton, 2009). Total dissolved solids"
+modelling of chlorofluorocarbons (CFCs) in the unsaturated zone,,(TDS) of groundwater ranges from <1500 mg L 1 in the southern
+(rather than measuring porosity and assuming a value for tortuos-,,"1parts of the basin, but increases to >100,000 mg L towards the"
+"ity, which may be poorly constrained in gravelly sediments",,northern terminus of the basin.
+"(Walvoord et al., 2005)). This enables CO2 production rates to be",,Harrington et al. (2002) investigated recharge processes in the
+much more accurately determined. We then evaluate the influence,,"basin using environmental tracers (chloride, carbon 14 and stable"
+"of recharge rate, and shallow and deep CO2 production on unsatu-",,isotopes). Carbon 14 activities in groundwater ranged from 4 to
+14rated zone C profiles over a range of watertable depths. This sen-,,"70 pMC, and groundwater ages were estimated using a geochemical"
+sitivity analysis draws attention to the factors most likely to affect,,correction scheme that accounted for addition of HCO3 from weath-
+"14C activity at the watertable, and demonstrates how spatial vari-",,ering of old silicate minerals and calcite. The 14C activity of soil gas
+ability in 14C activity at the watertable may arise. These findings,,was assumed to be 100 pMC. Estimated recharge rates from cor-
+help constrain the conditions under which dilution of the 14C activ-,,rected groundwater ages ranged from 0.1 to 50 mm y 1 (median
+"ity of unsaturated zone CO2 may occur, and act as a guide as to",,"0.9 mm y1), in reasonable agreement with the mean rate provided"
+when these unsaturated zone processes need to be considered in,,by the chloride mass balance method (0.8 mm y 1). The higher
+groundwater dating studies.,,recharge rates were spatially linked to the areas overlain by the
+,,(normally dry) Woodforde River and Allungra Creek floodplain.
+,,"Hence across the Basin recharge is believed to be low, although"
+2. Study area,,higher recharge may occur during rare flood events in areas associ-
+,,"ated with surface water features (Harrington et al., 2002)."
+The Ti Tree Basin covers an area of 5500 km2 and is located,,
+150 km north of Alice Springs in central Australia (Fig. 1). Mean,,
+annual rainfall is low (300 mm y 1) and occurs mostly in the,,3. Methods
+southern hemisphere summer (December–March). Soil types are,,
+generally either dark red massive clays that support predomi-,,3.1. Methods – field programme
+nantly Mulga vegetation (Acacia spp.) or red earthy sands that,,
+are dominated by Spinifex grass (Trioda spp.) under a sparse open,,Installation of unsaturated zone gas samplers was concurrent
+woodland of bloodwood (Corymbia spp.) and coolabah trees (Euca-,,with piezometer installation in the Ti Tree Basin between 2011
+lyptus spp.). The basin is comprised of Tertiary lacustrine and fluvi-,,and 2012. Conventional rotary drilling methods were used with a
+atile sediments which make up the main unconfined aquifer,,blade bit and air circulation. Where hard calcrete and silcrete layers
+"(undifferentiated sandstone, limestone and silty sandstone). Depth",,"were encountered, a hammer bit was used. Piezometers were com-"
+to groundwater ranges from >60 m in the southern portion of the,,pleted at five sites with 50 mm diameter PVC that had slotted
+basin to <10 m in the north (Fig. 1). Observation wells in shallower,,"screens of 1 mm aperture. For all piezometers, screen length was"
+was performed using AMS facilities at the Australian Nuclear Sci-,between the solid and liquid phases. Sorption of 14CO2 may become
+"ence and Technology Organisation (ANSTO, Fink et al., 2004). 14C",
+,"important as water content increases (Striegl and Armstrong, 1990),"
+activities of unsaturated zone gas and groundwater are reported,
+,however preliminary modelling showed our results to be insensi-
+as the ratio 14CO2:12CO2 and14C DIC: 12CDIC (respectively) relative,tive to sorption at the low water contents we model. Thus the solute
+"to the international standard (Stuiver and Pollach, 1977) in units",
+,transport equation can be written as:
+of pMC. Stable isotope ratios (13C:12C) are reported in per mil,
+"(‰) relative to the international standard (Craig, 1957).",@hcw þ @a v c g 1⁄4 @ hD w @ðc Þ w þ @ avDg @c g@qcw
+"CO2 analysis was performed at Flinders University, South",@t @t @x @x @x @x @x
+"Australia, using a Quibit S-151 CO2 analyser. Given the relatively",khcw kavcg þ ccgav ð3Þ
+"low range of the CO2 analyser (0–2000 ppm), samples were diluted",
+,where q is the volumetric flux (m y 1); k is the decay constant for
+in a closed loop of known volume using ultra high purity (UHP),
+,"14 1C (y ), c represents production of CO in the gas phase"
+nitrogen and appropriate corrections applied to give an accurate,2
+,"(mmol m 3 y 1), a is the air content (m3 m 3), D is the dispersion"
+measurement of CO2 concentration. CFCs were analysed by gas,v coefficient in the liquid phase (m2 y 1) and Dg is the diffusion coef-w
+(mmol m,3 ) based on measurements of CO2 (ppm) and the calcu-,Unnamed: 0,sW 1⁄4,h,3,ð6Þ
+the ground surface. The filter ends of the gas sampling tubes served,"60 years, hence input concentrations to the unsaturated zone over"
+to prevent any soil particulate matter entering and potentially clog-,time are known. Therefore CFCs can be used to indicate timescales
+"ging the tubing, and were ‘screened’ in the backfill material (sand).",of unsaturated zone gas transport (Cook and Solomon (1995)) and
+At each site up to six gas sampling tubes of different length were,help determine parameters related to the effective diffusion coeffi-
+Site,Unnamed: 0,Unnamed: 1,Unnamed: 2,Site A,Site B,Site C,Site D,Site E
+Piezometer registration number (RN),,,,18611,18779,18781,18893,18897
+Depth to water (m-bgl),,,,31.5,25.8,19.1,20.6,8.2
+1Shallow 12 CO2 production rate (mmol m 3,y,,),863,1007,863,1500,600
+1Deep 12 CO2 production rate (mmol m 3 y,),,,290,300,400,450,–
+1Modelled soil respiration rate (mol m 2 y,),,,2.8,3.3,1.7,3.9,0.9
+Porosity,,,,0–10 m: 0.4,0–10 m: 0.4,0–10 m: 0.35,0–10 m: 0.33,0–5 m: 0.28
+,,,,10–31.5 m: 0.2,10–23 m: 0.35,10–19.1 m: 0.2,10–15 m: 0.27,5–8.2 m: 0.35
+(Walvoord et,"al.,",2005).,Given,the,absence,of,any,significant,"Canadell, J., Jackson,",Unnamed: 0,"R.B., Ehleringer,",Unnamed: 1,"J.R., Mooney,","H.A.,","Sala,",Unnamed: 2,"O.E.,","Schulze, E.D.,"
+organic matter in the lithology in Ti Tree and the presence of cal-,,,,,,,,,1996. Maximum,,rooting,depth,of vegetation,,types,at,the,global scale.
+"crete layers, we",postulate,,that calcite precipitation,,,,is a,source of,"Oecologica 108, 583–595.",,,,,,,,,
+,,,,,,,,,"Cleverly, J.R., Boulain, N.P., Villalobos-Vega, R., Grant, N., Faux, R., Wood, C., Cook, P.,",,,,,,,,,
+old CO2 in our,case.,However,the,mechanisms,,,behind,this are,"Yu, Q., Leigh, A.,","Eamus,","D.,",2013.,Dynamics of,component,,,carbon,fluxes in a
+"poorly understand, and it",,,is not clear whether a slowly declining,,,,,,"semi-arid Acacia woodland, central Australia.",,,,"J. Geophys. Res.: Biogeosci. 118,",,,,,
+watertable is,a pre-condition,,for,calcite,precipitation,,,(Walvoord,1–18.,,,,,,,,,
+,,,,,,,,,"Cook, G.D., Dawes-Gromadzki, T.Z., 2005. Stable",,,,isotope signatures and landscape,,,,,
+"et al., 2005) or whether precipitation is independent of this. More",,,,,,,,,"functioning in banded vegetation in arid-central Australia. Landscape Ecol. 20,",,,,,,,,,
+work is needed to better understand the mechanisms for deep CO2,,,,,,,,,649–660.,,,,,,,,,
+production in different situations and settings. Further studies and,,,,,,,,,"Cook, P.G., Solomon,",,"D.K., 1995.",Transport,of atmospheric,,,trace,,gases to the
+measurement of unsaturated zone,,,,14 C activity in different settings,,,,,watertable: implications for groundwater dating with chlorofluorocarbons and,,,,,,,,,
+,,,,,,,,,"krypton 85. Water Resour. Res. 31 (2), 263–270.",,,,,,,,,
+"would benefit not only interpretation of groundwater age, but also",,,,,,,,,"Cook, P.G., Walker, G.R., Jolly, I.D., 1989. Spatial variability of groundwater recharge",,,,,,,,,
+understanding of these CO2 production mechanisms.,,,,,,,,,"in a semiarid region. J. Hydrol. 111, 195–212.",,,,,,,,,
+,,,,,,,,,"Craig, H., 1957. Isotopic standards for carbon and oxygen correction factors for mass-",,,,,,,,,
+,,,,,,,,,"spectrometric analysis of carbon dioxide. Geochim. Cosmochim. Acta 12, 133–149.",,,,,,,,,
+,,,,,,,,,"CSIRO, 2013. Key greenhouse",,,and ozone,depleting,,"gases,",viewed,,January 2013.
+6. Conclusion,,,,,,,,,<http://www.cmar.csiro.au/research/capegrim_graphs.html>.,,,,,,,,,
+,,,,,,,,,"Dever, L., Fontes, J.C., Riche, G., 1987.",,,,Isotopic approach to calcite dissolution and,,,,,
+14Depletion of,,C in unsaturated,,zone,gas is,a,common,occur-,"precipitation in soils under semi-arid conditions. Chem. Geol. 66, 307–314.",,,,,,,,,
+,,,,,,,,,"Fink, D., Hotchkis, M., Hua, Q., Jacobsen, G., Smith, A.M., Zoppi, U., Child, D., Mifsud,",,,,,,,,,
+rence based on,the,limited,amount,,of published,,measurements,,"C., van der Gaast, H., Williams, A., Williams, M., 2004. The ANTARES AMS facility",,,,,,,,,
+available worldwide.,,This,casts doubt,,on the,typical,assumption,,"at ANSTO. Nucl. Instrum. Methods Phys. Res. B 223–224, 109–115.",,,,,,,,,
+in 14C dating of groundwater that unsaturated zone gas is in equi-,,,,,,,,,"Fontes, J.C., Garnier, J.M., 1979. Determination of the initial",,,,,,14,C activity of the total,,
+,,,,,,,,,dissolved carbon: a review of the existing models and a new approach. Water,,,,,,,,,
+librium with the,atmosphere.,,Our,measurements,,,of unsaturated,,,,,,,,,,,
+,,,,,,,,,"Resour. Res. 15 (2), 399–413.",,,,,,,,,
+zone 14C activity in the Ti Tree Basin support this finding for water-,,,,,,,,,"14Haas, H., Fisher, D.W.,",,"Thorstenson,",,"D.C., Weeks,","E.P.,",1983.,,13 CO2,and CO2
+14table depths >10 m. We have modelled depletion of,,,,,,,C in unsatu-,,measurements on,,soil atmosphere,,sampled in,,the sub-surface,,,unsaturated
+,,,,,,,,,"zone in the Western Great Plains of the US. Radiocarbon 25 (2), 301–314.",,,,,,,,,
+rated zone gas with a shallow and deep source of CO2 production,,,,,,,,,"Harrington, G.A., Cook, P.G., Herczeg, A.L., 2002. Spatial and temporal variability of",,,,,,,,,
+from sources that,,have isotopically,,different,signatures.,,,We find,ground water recharge in central Australia: a tracer approach. Ground Water 40,,,,,,,,,
+that the processes controlling 14C dilution in the unsaturated zone,,,,,,,,,"(5), 518–528.",,,,,,,,,
+arid-zoneare relatively,consistent,,over a,large,spatial,area,(distances,of,"Herczeg, A.L., Leaney,",,"F.W., 2011.",Review:,environmental,,,tracers,,in
+,,,,,,,,,"hydrology. Hydrogeol. J. 19, 17–29.",,,,,,,,,
+"35 km between sites), and that variation in watertable depth over",,,,,,,,,"Hua, Q., Barbetti, M., Rakowski, A.J., 2013. Atmospheric radiocarbon for the period",,,,,,,,,
+14this scale leads to spatial variation in,,,,,C activities directly above,,,,"1950–2010. Radiocarbon 55 (2), 1–14.",,,,,,,,,
+the watertable.,It,appears,from,our,sensitivity,analysis,,that the,"Ingerson, E., Pearson, F.J., 1964. Estimation of age and rate of motion of groundwater",,,,,,,,,
+"Atmosphere,14problem of C dilution in the unsaturated zone may be more pro-",,,,,,,,,"by Hydrosphere, and Nuclear Geochemistry, Sugawara Festival Volume, Maruzenthe 14C-method.",,Recent,Researches,in,,the Fields,,of,
+"nounced in arid settings (where recharge rates are lower), however",,,,,,,,,"Co., Tokyo.",,,,,,,,,
+further work is required to better understand the mechanisms of,,,,,,,,,"Jahne, B., Heinz, G., Dietrich, W., 1987. Measurement of the diffusion coefficients of",,,,,,,,,
+,,,,,,,,,"sparingly soluble gases in water. J. Geophys. Res. 92 (C10), 10767–10776.",,,,,,,,,
+"deep, old CO2 production.",,,,,,,,,"Keller, C.K., Bacon, D.H., 1998. Soil respiration and georespiration distinguished by",,,,,,,,,
+These findings improve our understanding of how unsaturated,,,,,,,,,"14transport analyses of vadose CO2,",,,13,"CO2, and CO2. Glob. Biogeochem. Cycles 12",,,,,
+zone processes affect the spatial variation in,,,,,14C activities directly,,,,"(2), 361–372.",,,,,,,,,
+,,,,,,,,,"Knapton, A. 2009. Ti",,Tree Basin,Water,Resources Report.,,Department,,,of Natural
+"above the watertable,",,with,unsaturated,,zone,depth,being,a key,,,,,,,,,,
+,,,,,,,,,"Resources, Environment,",,The,Arts,"and Sports,",Document,,,number,"04/2009A,"
+influence. This,gives,improved,guidance,,as to,when,depletion,of,"Northern Territory Government, Australia.",,,,,,,,,
+unsaturated zone,,14C becomes,"significant, which",,,,will,be of great,"Leaney, F.W., Allison, G.B., 1986. Carbon-14 and stable isotope data for an area in",,,,,,,,,
+,,,,,,,,,"the Murray Basin: its use in estimating recharge. J. Hydrol. 88, 129–145.",,,,,,,,,
+benefit for future,,researches,looking,,to accurately,,,determine,,,,,,,,,,
+,,,,,,,,,"Love, A.J., Herczeg, A.L.,",,"Armstrong,","D.,","Stadter, F., Mazor,",,"E.,",1993.,,Groundwater
+groundwater ages from,,14C measurements.,,,,,,,flow regime within,,the Gambier,,Embayment of,,the Otway,,"Basin,",Australia:
+,,,,,,,,,"evidence from hydraulics and hydrochemistry. J. Hydrol. 143, 297–338.",,,,,,,,,
+,,,,,,,,,"Mazor, E., 2004. Chemical and Isotopic Groundwater Hydrology,",,,,,,,,third ed. Marcel,
+Acknowledgements,,,,,,,,,"Dekker, New York.",,,,,,,,,
+,,,,,,,,,"3Meredith, K., Cendon, D.I., Pigois, J.P., Hollins, S., Jacobsen, G., 2012. Using",,,,,,,,,14 C and H
+,,,,,,,,,"to delineate a recharge ‘window’ into the Perth Basin aquifers, North Gnangara",,,,,,,,,
+Funding for,carbon,isotope,analysis,,of unsaturated,,,zone gas,"groundwater system, Western Australia. Sci. Total Environ. 414, 456–469.",,,,,,,,,
+was provided,by,AINSE,(Grant,12/042),under,the,Isotopes,for,"Meredith, K., Hollins, S., Cendón, D., 2013. Radiocarbon dating and the challenges in",,,,,,,,,
+Water project. Additional funding was provided by the Australian,,,,,,,,,revealing the ‘‘age’’,,of groundwater,,– an example,,from,,an,evaporation-
+,,,,,,,,,"dominated system in arid Australia., Abstracts Book of the IAEA/RCA Technical",,,,,,,,,
+Research Council and the National Water Commission. The authors,,,,,,,,,"Meeting on Processing,",,,"Analysis,",and Interpretation,,,,of,Isotopic and
+wish to thank the staff at the Institute for Environmental Research,,,,,,,,,Hydrogeochemical,,Data for,Groundwater,Dynamics:,,,4–8,November,2013;
+at ANSTO for their help (and their patience) in preparing the soil,,,,,,,,,"Beijing, China, pp. 1–8.",,,,,,,,,
+,,,,,,,,,"Millington, R.J., Quirk, J.M., 1961. Permeability of porous solids. Trans. Faraday Soc.",,,,,,,,,
+gas samples for,analysis. Dr.,,Vladimir Levchenko,,,,(ANSTO),is also,"57, 1200–1207.",,,,,,,,,
+thanked for helpful discussions on atmospheric,,,,,,14C activities and,,,"Montfort, J.P., Pellegatta, J.L., 1991. Diffusion coefficients of the halocarbons CCL2F2",,,,,,,,,
+14C:12C ratios.,The,Northern,Territory,,Government,,and,Bob Read,"and C2Cl2F4 with simple gases. J. Chem. Eng. Data 36, 135–137.",,,,,,,,,
+,,,,,,,,,"O’Grady, A.P., Cook, P.G., Eamus, D., Duguid, A., Wischusen, J.D.H., Fass, T., Worldege,",,,,,,,,,
+are thanked for drilling and piezometer and soil gas sampler instal-,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"D., 2009. Convergence",,of,tree water,use within,,an,arid-zone,,woodland.
+lation. Dr. Brian Smerdon and Stan Smith from CSIRO are thanked,,,,,,,,,"Oecologica 160, 643–655.",,,,,,,,,
+for early reviews of the manuscript. We additionally thank Chris-,,,,,,,,,"Raich, J.W., Schlesinger,",,"W.H.,",1992.,The global,,carbon,dioxide,,flux in soil

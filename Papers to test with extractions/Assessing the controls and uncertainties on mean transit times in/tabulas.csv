@@ -1,0 +1,492 @@
+﻿"vegetation with crops and grasses over the last 200 years in south- 2010; Duvert et al., 2016; Cartwright and Morgenstern, 2015,"
+"east Australia had a profound impact on both groundwater and 2016b). Further, because the 3H activities of the remnant bomb"
+"surface water systems (Allison et al., 1990). The high transpiration pulse waters are below those of modern rainfall, water with low"
+rates of the native vegetation led to low groundwater recharge 3H activities has longer mean transit times than water with high
+"rates resulting in deep water tables. Recharge rates following land 3H activities, permitting a robust assessment of relative mean tran-"
+"clearing are significantly higher (Allison et al., 1990; Cartwright sit times."
+"et al., 2007), which has caused the water table to rise and resulted The pathways of groundwater inflows to a stream are poten-"
+in some former ephemeral streams becoming perennial. tially more complex than assumed in the lumped parameter mod-
+Lowland rivers are commonly hosted by sediments that contain els. The aggregation of water from different flow systems
+large stores of groundwater that may make significant contribu- potentially produces water samples with residence time distribu-
+"tions to streamflow especially during low flow periods (Winter, tions that do not correspond to those in the lumped parameter"
+"1999; Tetzlaff and Soulsby, 2008; Cartwright et al., 2011, 2014; models. Mean transit times calculated from the aggregated waters"
+"Duvert et al., 2016). By contrast, headwater streams may occur are generally lower than the actual mean transit times (Suckow,"
+"on indurated or crystalline rocks that have limited groundwater 2014; Kirchner, 2016; Stewart et al., 2017). Lumped parameter"
+"systems. The observation that many headwater streams are peren- models also assume that the aquifers are homogeneous. However,"
+"nial and flow over prolonged dry periods indicates, however, that hydraulic conductivities are heterogeneous at a variety of scales"
+"they receive water from the soils, regolith, or fractures (Rice and due to weathering, the presence of fractures, and lithological vari-"
+"Hornberger, 1998; Soulsby et al., 2005; Hrachowitz et al., 2009a; ations. Similar to aggregation, heterogeneities in hydraulic conduc-"
+"Cartwright and Morgenstern, 2015). The locations and transit tivity result in macroscopic dispersion that also may result in"
+"3times of these water stores are commonly not well understood, different H vs. mean transit time relationships to those predicted"
+"which hampers our understanding and management of headwater by simple flow models (Weissmann et al., 2002; McCallum et al.,"
+"catchments. 2014, McCallum et al., 2015)."
+1.1. Determining mean transit times
+1.2. Controls on mean transit times
+Water flowing through catchments follows flow paths of vary-
+"ing length, and the water discharging into streams has a range of Identifying the controls on mean transit times is important for"
+transit times governed by the geometry of the flow paths. Lumped understanding catchment behaviour and for making first order
+"parameter models, which describe the distribution of water with predictions of mean transit times in unstudied catchments. Mean"
+"different residence times in homogeneous aquifers with simplified transit times are a function of recharge rates, groundwater flow"
+"geometries and uniform recharge rates, are commonly used to esti- velocities, and flow path lengths. In southeast Australia, cleared"
+mate mean transit times of water sampled from aquifers or catchments may have lower evapotranspiration and higher
+"streams (Maloszewski and Zuber, 1982; Cook and Bohlke, 2000; recharge rates and thus shorter mean transit times than those that"
+"Maloszewski, 2000; McGuire and McDonnell, 2006; Leray et al., retain native vegetation (Allison et al., 1990; Cartwright et al.,"
+"2016). The radioactive isotope tritium (3H) with a half-life of 2007). The hydraulic conductivity of the aquifers, which in base-"
+12.32 years may be used to estimate transit times where these ment rocks is controlled by the degree of weathering and intercon-
+"are years to decades (Morgenstern et al., 2010). 3H is part of the nectivity and transmissivity of fractures (Lachassagne et al., 2011),"
+water molecule and geochemical or biogeochemical reactions in also influences mean transit times. The mobilisation of stores of
+"the soils or aquifers do not affect its abundance. Consequently, water with different residence times (e.g., soil waters, water from"
+"the calculated transit times reflect water flow through both the the regolith, or water in perched aquifer systems) as the catchment"
+unsaturated zone and within the aquifer. wets up following rainfall also controls net mean transit times
+"Rainfall 3H activities peaked in the 1950 s to 1960 s due to the (Hrachowitz et al., 2009a, 2013)."
+production of 3H in atmospheric thermonuclear tests (the 3H Catchment geomorphology and geometry influences the length
+"‘‘bomb pulse”). The 3H activities of the remnant bomb pulse waters of the flow paths and hydraulic gradients (e.g., McGuire et al.,"
+"in the southern hemisphere have now largely decayed below those 2005; McGuire and McDonnell, 2006; Hrachowitz et al., 2009b,"
+"of modern rainfall, which permits mean transit times to be esti- 2010; Soulsby et al., 2009). Large catchments may have some long"
+"mated from individual 3H activities (Morgenstern et al., 2010). groundwater flow paths with long transit times. Catchments with"
+"However, this approach requires that the lumped parameter mod- higher drainage densities may contain numerous short groundwa-"
+els be assigned based on the known or assumed geometry of the ter flow paths and consequently have shorter mean transit times.
+flow system. Groundwater with high bomb pulse 3H activities is Steeper catchments have higher hydraulic gradients that may lead
+still present in the northern hemisphere and mean transit times to more rapid groundwater flow and shorter mean transit times.
+may be estimated from lumped parameter models using time- There may be correlations between 3H activities and major ion
+"series of 3H activities (Maloszewski and Zuber, 1982; Blavoux concentrations or ratios that allow first order estimates of mean"
+"et al., 2013; Morgenstern et al., 2015). While this increases the transit times to be made (Morgenstern et al., 2010; Cartwright"
+"duration of the studies, it does allow an assessment of the suitabil- and Morgenstern, 2015, 2016a, 2016b; Duvert et al., 2016; Beyer"
+"ity of the lumped parameter model. The reduction of bomb pulse et al., 2016). These correlations commonly stem from mineral dis-"
+3H activities in the southern hemisphere make it impracticable to solution reactions progressing further in older waters. Evapotran-
+"constrain lumped parameter models using future time-series mea- spiration also increases major ion concentrations, especially in"
+"surements (Cartwright and Morgenstern, 2016b). semi-arid areas, and catchments with high evapotranspiration"
+While not being able to assess the form of the lumped parame- rates are likely to have lower recharge rates and longer mean tran-
+"ter model introduces uncertainty, the calculated mean transit sit times. Catchments with high evapotranspiration rates are also"
+times are far less sensitive to the choice of lumped parameter likely to have lower runoff coefficients (the percentage of rainfall
+"model than is the case for northern hemisphere catchments. Addi- that is exported annually by the stream), and runoff coefficients"
+chemical proxies for 3H that can provide first order estimates of,slopes of the Yarra Ranges (Fig. 1). The upper Latrobe catchment
+mean transit times. In addition to assessing the uncertainties in,"has an average annual rainfall of between 1100 and 1400 mm,"
+mean transit times resulting from using different lumped parame-,and average annual evapotranspiration rates are 500–600 mm
+"ter models, aggregation, uncertainties in the 3H input function, it","(Bureau of Meteorology, 2017). The upper Latrobe River is peren-"
+uses a numerical model to address the impact of heterogeneities,nial and the upper catchment includes the Loch and Tooronga Riv-
+in hydraulic conductivities on the estimated mean transit times.,ers that join the Latrobe River near Noojee. The total catchment
+"While it is based on a specific area, these themes are relevant to",area upstream of the lowermost sampling site at Willow Grove is
+,2
+headwater catchments globally.,559 km and the long-term average streamflow of the Latrobe
+,River at Willow Grove is 108 m3 yr 1 (Department of
+,"Environment Land Water and Planning, 2017). As with the Yarra"
+2. Study area,"catchment, streamflows in the upper Latrobe catchment are higher"
+,"in winter (e.g., Fig. 2)."
+2.1. Upper Yarra catchment,"Granites, granodiorites, and metamorphosed Silurian-Devonian"
+,"turbidites, which again host groundwater flow mainly in weath-"
+The upper Yarra catchment drains the eastern slopes of the,"ered zones and fractures, dominate the north of the upper Latrobe"
+Dandenong Ranges in southeast Victoria. Annual rainfall across,catchment (Fig. 1b). The south of the catchment also includes
+the catchment averages 750–1000 mm and average annual evapo-,"coarse-grained Pliocene sands and gravels, minor granites, and"
+"transpiration rates are 500–600 mm (Bureau of Meteorology,","basaltic volcanics (van den Berg, 1975; Energy and Earth"
+"2017). Rainfall occurs throughout the year, but is highest in the","Resources, 2017). Thin deposits of recent alluvial sediments occur"
+winter months when evapotranspiration rates are lowest. This,along the major streams. Relatively little is known about ground-
+results in winter streamflows being higher than those in summer,"water flow in this catchment. However, given the similarities in"
+"(Melbourne Water, 2017). The main streams are Woori Yallock","lithologies, the hydraulic conductivities are likely to be similar to"
+"Creek, Wandin Yallock Creek, and Stringybark Creek, all of which",those in the upper Yarra catchment. Weathering is deepest on
+are perennial tributaries of the Yarra River (Fig. 1). Average stream-,the ridges and the metasediments and granites commonly have
+flows are 6.3 107 m3 yr 1 in Woori Yallock Creek 1.84 105 m3,"weathering zones that are a few metres thick (van den Berg,"
+"1yr 1 in Wandin Yallock Creek, and 3.7 10 m yr 6 3 in Stringybark",1975). Groundwater recharges on the ridges and discharges into
+"Creek (Melbourne Water, 2014).","the Latrobe River (Southern Rural Water, 2014)."
+The upper Yarra catchment comprises a basement of indurated,"By contrast with the upper Yarra catchment, the upper Latrobe"
+Silurian-Devonian turbidites and granitic rocks (including granites,"catchment is dominated by native eucalypt forest, much of it in the"
+and extrusive rhyolites). These rocks are overlain by thin Devonian,"Alpine National Park. Additionally, there are plantation forests,"
+calcareous sandstones and Tertiary basaltic volcanics (van den,mainly along the Loch Valley and zones of mixed agriculture
+"Berg, 1975; Energy and Earth Resources, 2017) (Fig. 1b). Thin","(including dairying, vineyards, and grazing) around Noojee and"
+deposits of recent alluvial sediments occur along some of the major,Willow Grove. There is minimal groundwater use in the upper Lat-
+measured at Monash University using a Thermo Fischer ICP-OES,"enrichment, 3H activities were determined using liquid scintilla-"
+on samples that had been filtered through 0.45 mm cellulose nitrate,tion in Quantulus ultra-low-level counters. Tritium enrichment
+filters and acidified to pH < 2 using double-distilled 16 M HNO3.,"was by a factor of 95, which yields a detection limit of 0.02 TU."
+and datasets from Victoria Open Data (2016). The Hydrology Mod-,properties that lead to a regular distribution of groundwater flow
+elling tools were used to generate the stream network from a 10 m,"paths and mean transit times. However, most catchments have"
+digital elevation model (Fig. 1c). A threshold catchment area of 50,"heterogeneous hydraulic conductivities (Weissmann et al., 2002;"
+Ha reproduces the observed perennial stream network of the area.,"McCallum et al., 2014, McCallum et al., 2015). Two-dimensional"
+Subcatchment areas upstream of each sampling site were calcu-,"numerical simulations were performed using FEFLOW (Diersch,"
+"lated using the watershed tool, and drainage densities calculated",2013) as described in Supplement 2. The purpose of the modelling
+as the total stream length in each subcatchment divided by the,was not to simulate flow in these catchments but to explore the
+subcatchment area. Mean slopes and the mean and maximum dis-,impact of heterogeneous hydraulic conductivities on mean transit
+tance to the stream were calculated using the Spatial Analysis,times.
+tools. Vector-based landuse datasets were converted to raster for-,"Briefly, the FEFLOWmodel domain was 10,000 m in the longitu-"
+mats and reclassified. Landuse was assigned as forest (includes,dinal (x) direction and 25 m in the vertical (z) direction (Fig. S1a).
+"native vegetation and some plantations) and cleared land, which",The hydraulic boundary conditions were a constant flux at the
+"includes urban and mixed agricultural regions (pasture, horticul-",top to simulate 50 mm yr 1 recharge and a constant head at the
+"ture, and crops).",model outlet (Fig. S1a). All other boundaries are no flow bound-
+,aries. While the geometry of the model resembles that of the expo-
+,"nential lumped parameter model, solute transport models require"
+3.3. Mean transit times,
+,a dispersivity be assigned for numerical stability. A dispersivity of
+,"0.5 m was used, which results in dispersion in the numerical sim-"
+"Mean transit times were calculated using the exponential,",
+,"ulations being driven primarily by variations in K (McCallum et al.,"
+"exponential-piston flow, and dispersion lumped parameter models",
+,2014). To assess the impacts of heterogeneous hydraulic conduc-
+"implemented in the TracerLPM Excel workbook (Jurgens et al.,","tivities, the 3H activities and mean transit times from four sets of"
+2012) as described in Supplement 2. For the exponential-piston,
+,30 simulations with an average K of 1 m day 1 and variances of
+"flowmodels, EPM ratios of 0.33 (75% exponential flow and 25% pis-","K (r2ln(K)) of 0.3, 1.0, 2.5, and 4.0 (Fig. S2) were compared to a"
+ton flow) and 1 (50% exponential flow and 50% piston flow) were,
+,model with homogeneous K. The FEFLOW simulations used time
+used. This model accords with the expected geometry of flow in,
+,steps of 5 days over 65 years from 1950 to 2015. The relatively
+the catchment (vertical recharge through the unsaturated zone fol-,
+,short time step ensured model stability and minimised numerical
+lowed by flow along flow paths of varying length). For the disper-,dispersion. Both 3H activities and age were simulated as solutes.
+"sion model, values of DP of 0.1 and 1 were used, which is the range",
+,"The annual 3H activities of Melbourne rainfall (Tadros et al.,"
+"generally adopted for kilometre-scale flow systems (Maloszewski,",
+,2014) interpolated onto the time steps of the model (Fig. S1b) were
+2000). These lumped parameter models have successfully repro-,used as the 3H activity of recharge. Age was simulated by setting a
+aSite Area,Drainage Density,Slope,Cleared land,a Max dist.,Mean dist.,Unnamed: 0,Runoff Coefficient
+km2,km 1,%,%,km,km,,%
+Latrobe Catchment,,,,,,,
+bGentle Annie 63.8,0.98,24.27,0,1.21,0.31,,28-35
+Tooronga 62.1,1.00,25.32,1,1.12,0.30,,41–52
+cUpper Loch 66.4,1.00,26.64,1,1.03,0.31,,ne
+Lower Loch 114.2,0.99,26.31,5,1.18,0.32,,18–23
+Noojee 287.9,0.98,23.98,11,1.21,0.31,,23–29
+Willow Grove 559.0,1.00,24.06,18,1.21,0.31,,23–29
+Yarra Catchment,,,,,,,
+Stringybark 8.7,0.98,11.98,99,0.89,0.30,,40–53
+Wandin 32.0,0.93,11.33,99,1.00,0.32,,25–33
+Cockatoo 49.2,1.00,15.65,95,1.14,0.29,,20–26
+Woori Yallock 323.4,1.04,14.78,85,1.19,0.29,,19–25
+Yarra Junction rainfall is also similar to those of a 9 month rain- (Table A1). Na is the most common cation in the stream water (62–
+"fall sample from Melbourne collected in July 2013 (3H = 2.72 TU) 91% of all cations on a molar basis) with Ca (3–15%), Mg (1–24%),"
+and three 9–17 month rainfall samples from Mount Buffalo and K (1–11%) present in lower abundances (Table A1). Cl is the
+in northeast Victoria (3H = 2.8–2.99 TU) (Cartwright and most abundant anion (81–98% on a molar basis) of those that were
+"Morgenstern, 2015, 2016a). The 3H activities of the streams are measured (Table A1); however, HCO3 concentrations were not"
+"3between 1.26 and 1.99 TU (Fig. 3), which are similar to H activ- determined. The rainfall sample from Yarra Junction has a Na con-"
+"ities of headwater streams in northeast Victoria (3H = 1.6–2.5 TU: centration of 1.2 mg l 1 and an EC value of 21.6 lS cm 1 (Table A1,"
+"Cartwright and Morgenstern, 2015, 2016a) and central Victoria Figs. 4 and 5). This is similar to non-coastal rainfall elsewhere in"
+"(3H = 0.2–2.9 TU: Cartwright and Morgenstern, 2016b; Howcroft southeast Australia that has Na concentrations of 1–2 mg l 1 and"
+"1et al., 2017). EC values of 15–30 lS cm (Blackburn and McLeod, 1983;"
+"In the two low streamflow sampling rounds (April 2015 and Crosbie et al., 2012; Cartwright et al., 2014; Cartwright and"
+"March 2016), the streams from the upper Yarra catchment have Morgenstern, 2015, 2016a)."
+"3lower H activities (median = 1.44 TU, mean = 1.43 ± 0.11 TU, n = The EC values and major ion concentrations of rainfall are sig-"
+12) than those from the upper Latrobe catchment (median = 1.55 nificantly lower than those of the river water at all streamflows
+"TU, mean = 1.58 ± 0.09 TU, n = 8). The p values from two-tailed t (Table A1, Figs. 4 and 5). Unlike catchments elsewhere in southeast"
+"tests are 0.004, implying that the difference between these two Australia (Cartwright and Morgenstern, 2015, 2016a,b; Howcroft"
+"populations is significant beyond the 99 confidence interval. The et al., 2017), major ion concentrations in most of the upper Latrobe"
+3H activities in each of the subcatchments generally increase with and Yarra catchments do not vary systematically with streamflow
+"increasing streamflow in the winter months (Fig. 3a and b). How- or 3H activities (Table A1, Figs. 4 and 5). There is also little system-"
+"ever, even at the highest streamflows, the 3H activities are invari- atic variation in EC and streamflow collected as part of periodic"
+"ably lower than the 3H activities of rainfall. Rather, 3H activities stream salinity monitoring at Noojee (Fig. 4b). The higher EC values"
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,UL
+,,,,,,GA,,
+,,,,,,,40.0,
+20.0,,,,,,LL,,WG
+10.0,,,,,,NJ,,CK
+,,,,,,,30.0,
+,,Rainfall,,,,TL,,SB
+0.0,,,,,,,,
+,,103,104.0,105.0,106.0,UL,,WA
+0.0,,,,,,,20.0,
+,b,,,,,WG,,WY
+70,Unnamed: 0,70.1,Unnamed: 1,Unnamed: 2
+,a,,,
+60.0,,,,GA
+,,60.0,,LL
+50.0,,,Na (mg l-1),
+,,,,NJ
+40.0,,50.0,,TL
+30.0,,,,UL
+catchments (no streamflow data is available for Tooronga or Upper Loch). Rainfall,fall (typically 0.8–1.1) reflect weathering of silicate minerals such
+is the composition of the Yarra Junction rainfall sample. Data from Table A1.,"as feldspar (Herczeg et al., 2001; Tweed et al., 2005; Cartwright"
+Abbreviations: GA = Gentle Annie; LL = Lower Lock; NJ = Noojee; TL = Tooronga; UL,
+,"and Morgenstern, 2015, 2016a). However, the observation that"
+= Upper Loch; WG = Willowgrove; CK = Cockatoo; SB = Stringybark; WA =Wandin,
+Yallock; WY = Woori Yallock. (b). Variations in EC values with streamflow at Noojee,Na/Cl ratios do not far exceed those of rainfall implies that silicate
+(Data from Department of Environment Land Water and Planning (2017)). The,dissolution is limited. The Na/Cl ratios of some more saline waters
+arrowed trend depicts the predicted EC vs streamflow trend for dilution of baseflow,"are lower than those of rainfall (Fig. 6a), which is probably due to"
+Unnamed: 0,1.6,"tions. If there were some inflow of recent rainfall, this approach"
+,σ2ln(K),yields the minimum transit time of the baseflow component. The
+,estimated mean transit times calculated using the suite of lumpedHom,
+,1.4,
+,0.3,"parameter models are between 7 and 62 years (Table 2, Fig. 9). The"
+,1,range of mean transit times from the various models increases
+,,3
+,1.2 2.5,"with the H activity (Fig. 9a); however, the relative difference"
+,4,"Exponential LPM decreases. For example, mean transit times for a water with a3H"
+,,activity of 2 TU are between 9.6 and 14.2 years (or ±19%). For a
+,1,"water with a 3H activity of 1.5 TU, they are between 28.0 and"
+,0,20 40 60 80
+,,41.9 years (±13%).
+,,Mean Transit Time (yr)
+,,"For the two low streamflow sampling periods, the mean transit"
+times in the upper Yarra subcatchments are 28–62 years (AprilFig. 8. 3 H activities vs. mean transit times at the model outlet for varying degrees of,,
+heterogeneity in K. Hom is the homogeneous FEFLOW model. Arrowed line shows,,"2015) and 20–53 years (March 2016), whereas the mean transit"
+range of mean transit times for a,,3H activity of 1.5 TU. Dashed line is the times in the upper Latrobe subcatchments are 16–42 years (April
+exponential mixing model from TracerLPM for reference.,,2015) and 16–41 years (March 2016). The Tooronga River in the
+,,upper Latrobe catchment has the shortest mean transit times
+,,(16–26 years) and Cockatoo Creek in the upper Yarra catchment
+,,has the longest mean transit times (42–62 years). At the higher
+5. Discussion,,
+,,"streamflows, the mean transit times in the upper Latrobe subcatch-"
+,,ments are 7–24 years (August 2015) and 13–36 years (November
+"The combination of major ion geochemistry, streamflows, 3H",,
+,,"2015). At the corresponding times, the mean transit times in the"
+"activities, and catchment attributes allow aspects of the hydroge-",,
+,,upper Yarra subcatchments are 13–37 years (August 2015) and
+ology of the upper Latrobe and upper Yarra catchments to be,,
+,,"16–46 years (November 2015). As at low streamflows, the mean"
+understood. This section addresses the prime objectives of the,,
+,,transit times are shortest in the Tooronga River (9–13 years in
+"study, namely: the range of mean transit times; whether mean",,
+,,August 2015 and 13–20 years in November 2015) and longest at
+transit times can be predicted from catchment attributes or geo-,,
+,,Cockatoo Creek (26–37 years in August 2015 and 37–46 years in
+chemical data; and the uncertainties in the calculated mean tran-,,
+,,November 2015).
+sit times.,,
+,,5.3. Uncertainties
+5.1. Changing stores of water at different streamflows,,Propagating the analytical uncertainty in 3H activities
+,,(Table A1) results in uncertainties in mean transit times of 1–2
+There,is strong seasonality to southeast Australian rainfall,"years. Compared with the other uncertainties, this has only aminor"
+"(Bureau of Meteorology, 2017) and streams are generally domi-",,impact. Mixing of water with different mean transit times within a
+"nated by baseflow during summer (Cartwright et al., 2014). Thus,",,subcatchment (aggregation) results in calculated mean transit
+baseflow probably contributes the vast majority of water to the,,"times being lower than the actual mean transit time (Suckow,"
+streams in April 2015 and March 2016 when streamflows were,,"2014; Kirchner, 2016; Stewart et al., 2017). The aggregation error"
+low (Fig. 2). Higher winter streamflows can conceivably reflect,,is difficult to assess but it reduces as an increasing number of
+the progressive mobilisation of shallower younger water stores,,waters are mixed. This is because flow systems where numerous
+"(e.g., soil water or water from the regolith) as the catchment wets",,aliquots of water with different mean transit times mix are similar
+"up (c.f. Hrachowitz et al., 2013) or mixing between baseflow and",,to what is described by the lumped parameter models. For exam-
+recent rainfall.,,"ple, using similar lumped parameter models and input functions"
+This study avoided collecting samples during the high flow,,"to this study, Cartwright and Morgenstern (2016a) estimated the"
+events immediately following rainfall when direct input of recent,,aggregation error resulting from an equal mixture of two waters
+rainfall to the stream may occur. The dilution of saline baseflow,,with mean transit times of 10 and 50 years was approximately
+with recent rainfall also results in major ion concentrations or EC,,"13%. However, if several waters with mean transit times of"
+values being inversely correlated with streamflow (Godsey et al.,,"between 10 and 50 years mixed, the aggregation errors were sig-"
+"2009; Cartwright and Morgenstern, 2015), which is not observed",,nificantly lower.
+in these catchments (Fig. 4). The predicted EC vs. streamflow,,The impacts of uncertainties in the 3H activities of rainfall may
+trend for the situation where all the additional streamflows is,,be illustrated using the exponential-piston flow model with an
+derived from recent rainfall,,inputs also fails to replicate the EPM ratio of 1 (almost identical results are produced by the other
+"observed EC values (Fig. 4b). Rather, as documented in similar",,models). The assumed 3H activity of modern rainfall makes rela-
+"catchments elsewhere in southeast Australia, the infiltrating rain-",,tively little difference to the estimated mean transit time
+fall has likely progressively mobilised the shallower stores of,,(Fig. 9b). Varying the modern rainfall 3H activities between 2.6
+"water from the soil or regolith (Cartwright and Morgenstern,",,and 3.0 TU (which is the likely range of rainfall 3H activities in this
+"2015; Howcroft et al., 2017). These water stores almost certainly",,"region of southeast Australia: Tadros et al., 2014) produces a range"
+have shorter,residence,"times than the deeper groundwater, of mean transit times of 3 years for a 3H activity of 2 TU and <0.1"
+which explains why 3H activities are higher in winter. Given that,,year for a 3H activity of 1.5 TU. Uncertainties in the 3H activities of
+"samples were not collected over the high flow peaks, the data",,past rainfall exert a greater influence on the mean transit times.
+does not preclude recent rainfall contributing to streamflow dur-,,Fig. 9c illustrates the impact of varying the 3H activity of rainfall
+bSample EMM,Unnamed: 0,EPF (0.3),EPF (1),DM (0.1),DM (1)
+yr,,yr,yr,yr,yr
+7/04/2015,,,,,
+aWillow Grove (LT) 31.7,,28.1,22.2,21.2,32.8
+Noojee (LT) 35.3,,31.3,26.2,36.8,37.2
+Tooronga (LT) 25.4,,21.2,16.8,16.0,25.6
+Upper Loch (LT) 35.8,,31.8,26.9,38.0,37.8
+Lower Loch (LT) 38.2,,34.0,30.9,41.9,40.9
+Gentle Annie (LT) 32.8,,29.0,23.1,22.7,34.0
+Woori Yallock (Y) 46.6,,41.4,45.9,49.4,51.8
+Cockatoo (Y) 54.1,,47.6,56.2,53.9,62.0
+Wandin (Y) 39.1,,34.7,32.6,42.9,42.0
+Stringybark (Y) 36.3,,32.2,27.7,39.0,38.4
+12/08/2015,,,,,
+Willow Grove (LT) 13.9,,10.8,9.9,10.1,14.7
+Noojee (LT) 16.3,,12.6,11.6,11.4,16.9
+Tooronga (LT) 10.0,,8.2,7.3,7.7,11.1
+Upper Loch (LT) 11.8,,9.4,8.5,8.9,12.9
+Lower Loch (LT) 18.3,,14.1,13.2,12.3,18.6
+Gentle Annie (LT) 23.9,,19.4,15.9,15.2,24.1
+Woori Yallock (Y) 27.5,,23.2,18.3,17.3,27.9
+Cockatoo (Y) 35.1,,31.1,25.6,33.9,36.9
+Wandin (Y) 19.8,,15.4,13.9,13.1,20.0
+Stringybark (Y) 24.5,,20.0,16.3,15.5,24.7
+18/11/2015,,,,,
+Willow Grove (LT) 29.2,,24.8,19.7,18.5,29.8
+Noojee (LT) 30.4,,26.2,20.9,19.6,31.2
+Tooronga (LT) 18.9,,14.5,13.3,12.6,19.2
+Upper Loch (LT) 26.4,,21.7,17.5,16.6,26.6
+Lower Loch (LT) 34.1,,30.1,24.3,24.9,35.6
+Gentle Annie (LT) 30.8,,26.6,21.4,19.9,31.7
+Woori Yallock (Y) 36.8,,32.4,27.4,37.7,38.8
+Cockatoo (Y) 42.6,,37.5,36.8,45.6,46.2
+Wandin (Y) 24.8,,20.1,16.5,15.7,25.0
+Stringybark (Y) 39.4,,34.7,31.5,42.1,42.1
+30/03/2016,,,,,
+Willow Grove (LT) 28.8,,24.0,19.2,18.2,29.4
+Noojee (LT) 34.2,,29.8,24.3,24.5,35.7
+Tooronga (LT) 25.6,,20.6,17.0,16.1,25.9
+Upper Loch (LT) 33.8,,29.4,23.9,23.7,35.2
+Lower Loch (LT) 38.9,,34.1,30.0,40.5,41.1
+Gentle Annie (LT) 34.5,,30.0,24.5,24.0,36.0
+Woori Yallock (Y) 40.2,,35.3,32.1,42.6,43.2
+Cockatoo (Y) 48.0,,41.9,44.2,49.6,53.3
+Wandin (Y) 30.9,,26.3,21.1,20.0,31.8
+Stringybark (Y) 38.3,,33.6,29.1,39.7,40.7
+1.8,Unnamed: 0,Unnamed: 1,streamflow conditions in April 2015 (Table A1). Because H activi-
+,,upper Latrobe,
+,,,"ties are directly related to mean transit times, correlations between"
+1.6,,stream waters,
+,,,catchment attributes and mean transit times are similar. Correla-
+1.4,,,
+,Nov,,"tion coefficients are considered to be strong at R2 0.75, moderate"
+,,,2 2
+1.2,Mar,,"at 0.75 > R > 0.5, and weak at R 0.5. There are few strong corre-"
+0.8,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,10,20,30,40,50,60,70two catchments. Slopes and 3H activities have a strong negative
+2.8,,,3.0,,,,2 = 0.88) but haveOriginalcorrelation in the upper Yarra subcatchments (R
+,,,2.8,,,,90% weak negative correlations (R2 = 0.08) in the upper Latrobe sub-
+2.4,,,2.6,,,,110% catchments and a week positive correlation (R2 = 0.32) across the
+2,,,,,,,two catchments. There is a weak negative correlation between
+the proportion of cleared land and 3H activities (R21.6,,,,,,,= 0.46) in the
+,,,,,,,dataset as a whole and in the two individual catchments (R2 = 0.
+1.2,,,,,,,
+,b,,,c,,,1–0.27). Drainage densities are weakly correlated with 3H activities
+0.8 both within (R2 = 0.31–0.15) and across (R2 = 0.03) the two catch-0,10 20,30 40,50 60,70 0 10,20 30,40 50,60 70
+,,,Mean Transit Time (yr),,,,ments. Both the maximum and mean distances are have strong
+,,,,,,,negative correlations with 3H activities in one of the catchments
+3Fig. 9. (a). Mean transit times vs.,,,"H activities (Tables A1, 2) calculated using the",,,,"(R2 = 0.75 and 0.81), but are not correlated across the two catch-"
+lumped parameter models discussed in the text. EMM = Exponential Model; EPF =,,,,,,,ments (R2 = 0.00 and 0.17).
+Exponential-Piston FlowModel (EPM ratio in brackets); DM = Dispersion Model (DP,,,,,,,
+in brackets). The shaded area depicts the range of,,,,3 H activities in the upper Latrobe,,,Overall there are no strong correlations between most catch-
+,,,,,,,3
+3and Yarra streams. Ranges of,,H activities for the upper Latrobe (solid lines) and,,,,,ment attributes H activities that apply in both catchments or
+"Yarra (dashed lines) catchments for April 2015, August 2015, November 2015, and",,,,,,,across the two catchments. The correlation between runoff coeffi-
+3March 2016 also indicated. (b). Impacts of varying,,,,,H activity of modern rainfall,,"cients and 3H activities are stronger, especially within the catch-"
+from 2.6 to 3.0 TU on mean transit time calculated using the Exponential-Piston,,,,,,,ments. The same range of factors that control the mean transit
+3Flow Model (EPF = 0.33). (c). Impacts of varying,,,,H activity of rainfall between 90,,,
+"times probably control the runoff coefficient. For example, catch-and 110% of",its assumed values on mean transit,,,,time calculated using,,the
+Exponential-Piston Flow Model (EPF = 0.33).,,,,,,,ments with high evapotranspiration rates will have lower rates
+,,,,,,,of recharge that result in longer mean transit times and lower run-
+,,,,,,,"off coefficients. Thus, as is the case elsewhere in southeast Aus-"
+,,,,,,,"tralia (Cartwright and Morgenstern, 2015), the runoff coefficient"
+the uncertainties that stem from adopting lumped parameter mod-,,,,,,,
+,,,,,,,may be a plausible proxy for mean transit times for streams in
+"els with simple geometries (c.f Weissmann et al., 2002; McCallum",,,,,,,the same catchment.
+"et al., 2014, McCallum et al., 2015).",,,,,,,
+,,,,,,,There are multiple interacting factors that control the transmis-
+If uncertainties are uncorrelated and have Gaussian distribu-,,,,,,,"sion of water through catchments (e.g., as discussed by McGuire"
+"tions, the overall uncertainty is the square root of the sum of the",,,,,,,
+,,,,,,,"et al., 2005; McGuire and McDonnell, 2006; Soulsby et al., 2009;"
+squares of the individual uncertainties. The main uncertainties,,,,,,,"Hrachowitz et al., 2009a, 2009b; 2010; 2013; Lachassagne et al.,"
+"outlined above (the choice of the lumped parameter model, aggre-",,,,,,,
+,,,,,,,2011). In addition to the geomorphology and geometry of the
+"gation, errors in the assumed",,,"3H input, and the presence of a",,,,"catchments, the hydraulic properties of the soils and underlying"
+heterogeneous hydrogeological conductivity) are all approximately,,,,,,,
+,,,,,,,rocks together with variations in the degree of evapotranspiration
+"±15%, which would imply an overall uncertainty in mean transit",,,,,,,are also important. Because clearing of eucalypt vegetation in
+"times of approximately ±30%. While this is considerable, the con-",,,,,,,
+,,,,,,,southeast Australia was commonly followed by an increase in
+clusion that the mean transit times are years to decades long is still,,,,,,,"recharge (Allison et al., 1990; Cartwright et al., 2006), it was antic-"
+valid.,,,,,,,
+Relative differences in mean transit times within or between,,,,,,,
+catchments are more readily assessed. The subcatchments may,,,,,,,Table 3
+,,,,,,,3
+have flow paths with different geometries or different degrees of,,,,,,,Correlation coefficients between catchment attributes and H activities.
+"heterogeneity of hydraulic conductivity, which affects the compar-",,,,,,,aCatchment Attribute Combined Yarra Latrobe
+"ison of mean transit times between subcatchments. However, if",,,,,,,bArea 0.01 0.12 0.00
+the geometry of the flow paths in an individual subcatchment,,,,,,,Slope 0.32 0.88 0.08
+are similar during wetter and drier periods and the hydraulic con-,,,,,,,Max dist. 0.00 0.75 0.00
+"ductivities do not change, relative differences in mean transit times",,,,,,,Mean dist. 0.17 0.43 0.81
+0.15at different streamflows in the same subcatchment are more,,,,,,,Drainage density 0.03 0.31
+"Other differences between the two catchments (e.g., geology, rain-",ditions are several years to decades in both the upper Yarra and
+"fall, and possibly soil types) may have more impact than differ-",upper Latrobe catchments is robust and is vital information for
+"ences in land use. Thus, while land clearing may have reduced","catchment management. Firstly, it suggests that there is a long-"
+"mean transit times in the Yarra catchment, this is not apparent",lived store of water in these catchments that can sustain stream-
+by comparison with adjacent catchments.,"flow during drought periods. Additionally, the long mean transit"
+"In other catchments in southeast Australia and elsewhere,",times may result in considerable delay in contaminants reaching
+3major ion concentrations may be used as a proxy for H activities,"the streams via the groundwater. In the Yarra catchment, agricul-"
+"(Morgenstern et al., 2010; Cartwright and Morgenstern 2015,","ture, local housing developments, and small-scale industries are"
+"2016a,b; Beyer et al., 2016; Howcroft et al., 2017). The major ion",potential sources of contaminants (particularly nitrate).
+concentrations in the upper Latrobe subcatchments are generally,That it was not possible to reliably predict 3H activities from
+"lower than those in the Yarra subcatchments, which broadly",individual catchment attributes (including a major difference in
+"reflects the differences in 3H activities. In detail, however, major",landuse) or the major ion geochemistry limits our ability to make
+"ion concentrations and 3H activities are poorly correlated (e.g.,",first-order predictions of mean transit times in similar catchments
+Fig. 5). The lack of correlation may be due to different weathering,"or at different times. The runoff coefficient, which has proven to be"
+reactions occurring at different localities in the catchments and,a reasonable indicator of mean transit times elsewhere in south-
+evapotranspiration rates being spatially variable. Correlations,"east Australia (Cartwright and Morgenstern, 2015), provided the"
+2.0,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+1.8 R2 = 0.90,,,,,,,,,3H (TU)
+,,,,,,,R2 = 0.15,,
+1.6,,,,,,,,,
+,,,,,,,R2 = 0.03,,
+R21.4  = 0.65,,,,,,,,,
+R2 = 0.37,,,,,R2 = 0.31,,,,
+1.2,,,,,,,,,
+a,,,c,,,,,,
+1.0,,,,,,,,,
+10 20 30,40,50.0,0.9,0.95,,1.0,1.05,1.1,
+,,,,Drainage Density (km-1),,,,,
+2.0,,,,,,,,,
+Ya,,,,,,,,,
+1.8 Lt,,,,,,,,,
+All,,,,,,,,,
+,,,,,R2 ~0.00,,,,
+1.6 R2 = 0.32,,,,,,,,,
+,,,,,,,R2 = 0.01,,
+1.4,R2 = 0.08,,,,,,,,
+R2 = 0.88,,,,,,,,,
+,,,,,,,2,,
+1.2,,,,,,,R  = 0.12,,
+"locally stronger. For example, R2 values for the correlation between",due to both the runoff coefficient and mean transit times reflecting
+Na and 3H are up to 0.96 in the upper Latrobe subcatchments and,recharge rates and rates of groundwater flow within the catch-
+up to 0.72 in the upper Yarra subcatchments. This may allow the,ments. Mean transit times are likely controlled by the interaction
+major ion geochemistry to be used as a proxy for 3H at different,"of catchment attributes such as slope or drainage density, the"
+SR0800001 funded by the Australian Research Council and the,"Freeman, M.C., Pringle, C.M., Jackson, C.R., 2007. Hydrologic connectivity and the"
+National Water Commission. We also thank DHI for providing the,contribution of stream headwaters to ecological integrity at regional scales. J.
+,"Am. Water Resour. Assoc. 43, 5–14. https://doi.org/10.1111/j.1752-"
+FEFLOW license through the NCGRT. Massimo Raveggi and Rachael,1688.2007.00002.x.
+Pearson helped with the geochemical analyses at Monash Univer-,"Godsey, S.E., Kirchner, J.W., Clow, D.W., 2009. Concentration-discharge"
+sity. The perceptive comments of two anonymous reviewers,relationships reflect chemostatic characteristics of US catchments. Hydrol.
+,"Process. 23, 1844–1864. https://doi.org/10.1002/hyp.7315."
+helped improve the paper.,
+,"Herczeg, A.L., Dogramaci, S.S., Leaney, F.W., 2001. Origin of dissolved salts in a large,"
+,"semi-arid groundwater system: Murray Basin, Australia. Mar. Freshwater Res."
+,"52, 41–52. doi.org/10.1071/MF00040."
+Appendix A. Supplementary data,"Howcroft, W., Cartwright, I., Morgenstern, U., 2017. Mean transit times in"
+,"headwater catchments: insights from the Otway Ranges, Australia. Hydrol."
+,Earth Syst. Sci. https://doi.org/10.5194/hess-2017-219.
+"Supplementary data associated with this article can be found, in","Hrachowitz, M., Savenije, H., Bogaard, T.A., Tetzlaff, D., Soulsby, C., 2013. What can"
+"the online version, at https://doi.org/10.1016/j.jhydrol.2017.12.",flux tracking teach us about water age distribution patterns and their temporal
+007.,"dynamics? Hydrol. Earth Syst. Sci. 17, 533–564. https://doi.org/10.5194/hess-"
+,17-533-2013.
+,"Hrachowitz, M., Soulsby, C., Tetzlaff, D., Dawson, J.J.C., Dunn, S.M., Malcolm, I.A.,"
+References,2009a. Using long-term data sets to understand transit times in contrasting
+,"headwater catchments. J. Hydrol. 367, 237–248. https://doi.org/10.1016/j."
+,jhydrol.2009.01.001.
+"Allison, G.B., Cook, P.G., Barnett, S.R., Walker, G.R., Jolly, I.D., Hughes, M.W., 1990.","Hrachowitz, M., Soulsby, C., Tetzlaff, D., Dawson, J.J.C., Malcolm, I.A., 2009b."
+"Land clearance and river salinisation in the western Murray Basin, Australia. J.",Regionalization of transit time estimates in montane catchments by integrating
+"Hydrol. 119, 1–20. https://doi.org/10.1016/0022-1694(90)90030-2.","landscape controls. Water Resour. Res. 45, W05421. https://doi.org/10.1029/"
+"Beyer, M., Jackson, B., Daughney, C., Morgenstern, U., Norton, K., 2016. Use of",2008WR007496.
+hydrochemistry as a standalone and complementary groundwater age tracer. J.,"Hrachowitz, M., Soulsby, C., Tetzlaff, D., Speed, M., 2010. Catchment transit times"
+"Hydrol. 543, 127–144. https://doi.org/10.1016/j.jhydrol.2016.05.062.","and landscape controls-Does scale matter? Hydrol. Process. 24, 117–125."
+"Blackburn, G., McLeod, S., 1983. Salinity of atmospheric precipitation in the Murray",https://doi.org/10.1002/hyp.7510.
+"Darling Drainage Division, Australia. Aust. J. Soil Res. 21, 400–434. https://doi.","International Atomic Energy Agency, 2017. Global Network of Isotopes in"
+org/10.1071/SR9830411.,Precipitation. http://www.iaea.org/water.
+"Blavoux, B., Lachassagne, P., Henriot, A., Ladouche, B., Marc, V., Beley, J.-J., Nicoud, G.,","Jurgens, B.C., Bohlke, J.K., Eberts, S.M., 2012. TracerLPM (Version 1): An Excel"
+"Olive, P., 2013. A fifty-year chronicle of tritium data for characterising the",workbook for interpreting groundwater age distributions from environmental
+"functioning of the Evian and Thonon (France) glacial aquifers. J. Hydrol. 494,","tracer data. U.S. Geological Survey Techniques and Methods Report 4-F3, p.60."
+116–133. https://doi.org/10.1016/j.jhydrol.2013.04.029.,"Kirchner, J.W., 2016. Aggregation in environmental systems-Part 1: seasonal tracer"
+"Böhlke, J.K., Michel, R.L., 2009. Contrasting residence times and fluxes of water and","cycles quantify young water fractions, but not mean transit times, in spatially"
+"sulfate in two small forested watersheds in Virginia, USA. Sci. Total Environ.","heterogeneous catchments. Hydrol. Earth Syst. Sci. 20, 279–297. https://doi.org/"
+"407, 4363–4377. https://doi.org/10.1016/j.scitotenv.2009.02.007.",10.5194/hess-20-279-2016.
+"Bureau of Meteorology, 2017. Commonwealth of Australia Bureau of Meteorology.","Lachassagne, P., Wyns, R., Dewandel, B., 2011. The fracture permeability of hard"
+www.bom.gov.au.,"rock aquifers is due neither to tectonics, nor to unloading, but to weathering"
+"Cartwright, I., Gilfedder, B., Hofmann, H., 2014. Contrasts between estimates of","processes. Terra Nova 23, 145–161. https://doi.org/10.1111/j.1365-"
+baseflow help discern multiple sources of water contributing to rivers. Hydrol.,3121.2011.00998.x.
+"Earth Syst. Sci. 18, 15–30. https://doi.org/10.5194/hess-18-15-2014.","Leray, S., Engdahl, N.B., Massoudieh, A., Bresciani, E., McCallum, J., 2016. Residence"
+"Cartwright, I., Hofmann, H., Sirianos, M.A., Weaver, T.R., Simmons, C.T., 2011.",time distributions for hydrologic systems: mechanistic foundations and steady-
+"222Geochemical and Rn constraints on baseflow to the Murray River, Australia,","state analytical solutions. J. Hydrol. 543, 67–87. j.jhydrol.2016.01.068."
+"and timescales for the decay of low-salinity groundwater lenses. J. Hydrol. 405,","Maloszewski, P., 2000. Lumped-parameter models as a tool for determining the"
+333–343. https://doi.org/10.1016/j.jhydrol.2011.05.030.,hydrological parameters of some groundwater systems based on isotope data.
+"Cartwright, I., Morgenstern, U., 2015. Transit times from rainfall to baseflow in","IAHS-AISH Publ. 262, 271–276."
+"headwater catchments estimated using tritium: The Ovens River, Australia.","Maloszewski, P., Zuber, A., 1982. Determining the turnover time of groundwater"
+"Hydrol. Earth Syst. Sci. 19, 3771–3785. https://doi.org/10.5194/hess-19-3771-",systems with the aid of environmental tracers: 1. Models and their
+2015.,"applicability. J. Hydrol. 57, 207–231. https://doi.org/10.1016/0022-1694(82)"
+"Cartwright, I., Morgenstern, U., 2016a. Contrasting transit times of water from",90147-0.
+peatlands and eucalypt forests in the Australian Alps determined by tritium:,"Melbourne Water, 2014. Woori Yallock water supply protection area stream flow"
+implications for vulnerability and the source of water in upland catchments.,annual report. www.melbournewater.com.au.
+"Hydrol. Earth Syst. Sci. 20, 4757–4773. https://doi.org/10.5194/hess-20-4757-","Melbourne Water, 2017. Rainfall and river level data. https://www."
+2016.,melbournewater.com.au/water/rainfall-and-river-levels#/.
+"Cartwright, I., Morgenstern, U., 2016b. Using tritium to document the mean transit","McCallum, J.L., Cook, P.G., Simmons, C.T., 2015. Limitations of the use of"
+time and sources of water contributing to a chain-of-ponds river system:,"environmental tracers to infer groundwater age. Groundwater 53, 56–70."
+"implications for resource protection. Appl. Geochem. 75, 9–19. https://doi.org/",https://doi.org/10.1111/gwat.12237.
+10.1016/j.apgeochem.2016.10.007.,"McCallum, J.L., Cook, P.G., Simmons, C.T., Werner, A.D., 2014. Bias of apparent tracer"
+"Cartwright, I., Weaver, T.R., Fifield, L.K., 2006. Cl/Br ratios and environmental","ages in heterogeneous environments. Groundwater 52, 239–250. https://doi."
+isotopes as indicators of recharge variability and groundwater flow: an example,org/10.1111/gwat.12052.
+"from the southeast Murray Basin, Australia. Chem. Geol. 231, 38–56. https://doi.","McDonnell, J.J., McGuire, K., Aggarwal, P., Beven, K.J., Biondi, D., Destouni, G., Dunn,"
+org/10.1016/j.chemgeo.2005.12.009.,"S., James, A., Kirchner, J., Kraft, P., Lyon, S., Maloszewski, P., Newman, B., Pfister,"
+"Cartwright, I., Weaver, T.R., Stone, D., Reid, M., 2007. Constraining modern and","L., Rinaldo, A., Rodhe, A., Sayama, T., Seibert, J., Solomon, K., Soulsby, C., Stewart,"
+"14historical recharge from bore hydrographs, H, 3 C, and chloride concentrations:","M., Tetzlaff, D., Tobin, C., Troch, P., Weiler, M., Western, A., Wörman, A., Wrede,"

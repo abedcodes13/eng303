@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+bore,δ13C-,δ18O-,δ2H-,D,14C,36Cl/Cl,13C,δ13C-,δ2H-CH4,87Sr/86Sr,tritium,34S-,18O-SO4,Formation
+,DIC,H2O,H2O,excess,,(x10–15),CH4,CO2,,,,SO4,,
+,VPDB,VSMOW,VSMOW,‰,pMC,,VPDB,VPDB,VSMOW,,tritium,VCDT,VSMOW,
+,‰,‰,‰,,,,‰,‰,‰,,ratio TU,‰,‰,
+Da8T,18.8,− 6.1,− 37,11.8,0.7,18,− 55,10.6,− 212,0.703579,,,,CSG Taroom
+Da37T,19.1,− 6.7,− 42,11.6,,,− 54.6,4.6,− 211,0.703547,,,,CSG Taroom
+Da30T,18.8,− 7,− 43,13,0.4,24,− 51.5,,− 207,0.703579,,,,CSG Taroom
+Da44,18.4,− 6.7,− 42,11.6,0.3,13,− 54.7,9.9,− 209,0.703442,,,,CSG Juandah
+Da22,15.8,− 5.8,− 36,10.4,0.6,17,− 52.8,0.1,− 211,0.703427,,,,CSG Juandah
+Da12T,16.8,− 6.5,− 40,12,0.6,19,− 53.8,5.4,− 207,0.703556,,,,CSG Taroom
+Condamine,− 12.4,− 4.5,− 25,11,,135,,,,0.705283,1.5,,,Condamine
+River W,,,,,,,,,,,,,,River
+,,,,,,,,,,,,,,Warwick
+Condamine,− 10.9,− 3.5,− 22,6,,147,,,,0.705339,1.57,,,Condamine
+River CP,,,,,,,,,,,,,,River Cecil
+,,,,,,,,,,,,,,plains
+Oakey Creek,− 8.5,− 0.8,3,9.4,,28,,,,0.705588,,,,Oakey Creek
+Myall Creek,− 9.1,0.1,− 1.9,− 2.8,,,,,,0.705211,,,,Myall creek
+Rain Kogan,− 6.8,− 3.3,− 10,16.4,,94,,,,0.705651,,,,Wambo FL
+,,,,,,,,,,,,,,rain tank
+Rain Grassdale,− 12.4,− 3.2,− 12,13.6,,,,,,0.708148,2.43,,,Grassdale FL
+,,,,,,,,,,,,,,rain tank
+Dalby rain,− 9.9,1,21,13.6,,,,,,0.706402,,,,Dalby rain
+,,,,,,,,,,,,,,storm
+Chincilla rain,,− 3.2,− 14,11.6,,,,,,0.707293,,,,Chinchilla rain
+,,,,,,,,,,,,,,tank

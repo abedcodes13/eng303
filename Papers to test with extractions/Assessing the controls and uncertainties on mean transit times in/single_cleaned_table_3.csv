@@ -1,0 +1,10 @@
+0,1,2,3
+Table 3,,,
+Catchment Attribute,Combineda,Yarra,Latrobe
+Area,0.01b,0.12,0.00
+Slope,0.32,0.88,0.08
+Max dist.,0.00,0.75,0.00
+Mean dist.,0.17,0.43,0.81
+Drainage density,0.03,0.31,0.15
+% Cleared land,0.46,0.01,0.27
+Runoff coefficientc,0.37,0.65,0.90

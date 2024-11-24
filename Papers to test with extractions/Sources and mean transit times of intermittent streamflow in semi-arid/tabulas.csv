@@ -1,0 +1,135 @@
+﻿"reaches during low-flow periods (Buttle et al., 2012; Datry et al., 2014;","wright and Morgenstern, 2015; Cartwright et al., 2018a, 2018b; Duvert"
+"aquifer thickness discharges to the stream (Jurgens et al., 2012). The",Monthly runoff ratios were generally high from August to September
+McGill and Plantation streams did not start flowing until early July and,estimates. Recharge of groundwater or soil water may occur mainly by
+"their MTTs at that time were 3 to 4 years and 9 to 14 years, respectively","early spring or winter rainfall (Morgenstern et al., 2010; Blavoux et al.,"
+"(Table 1, Fig. 7). MTTs of the Banool stream in early July were reduced","2013; Cartwright et al., 2018a). As discussed above, this rainfall may"
+to between 14 and 26 years. At high streamflows in August to,"have higher 3H activities, in which case the MTTs would be slightly older"
+"September, the Banool stream waters had MTTs of ≤ 5 years, and the",than those estimated in Table 1 and Fig. 7. The variability in the esti-
+waters from the McGill and Plantation streams had MTTs of < 1 year,mated 3H activity of modern rainfall in this area (2.8 ± 0.2 TU: Tadros
+"(Table 1, Fig. 7). The high 3H activities (>2.8 TU) imply that there is a","et al., 2014) represents a 7% uncertainty. Applying the same uncertainty"
+significant component of the water that originated from winter rainfall,to the whole 3H input function results in variations of MTTs for waters
+"that as noted above has higher than average 3H activities. In turn, this","with 3H activities of 0.5, 1.5 and 2.5 TU calculated using the EPM model"
+"suggests that MTTs at that time are less than a few months (Table 1,","with an EPM ratio of 0.33 of 6 to 8 years (5–7%), 5 to 6 years (22–26%)"
+Fig. 7). The riparian zone groundwaters had MTTs of up to a few hun-,"and 1 to 2 years (50–51%), respectively. Uncertainties in MTTs from the"
+"dreds of years in the Banool catchment, up to 1 year in the McGill",other LPMs are similar. Analytical uncertainties (Table S1) result in an
+"catchment and up to 9 years in the Plantation catchment (Table 1,",uncertainty in MTTs of 2 to 3%.
+Fig. 7). While the deeper regional groundwater has MTTs of up to,The MTT calculations assume that there is a single reservoir of water
+"24,700 years (as discussed above), the shallow regional groundwater,",contributing to the streams. The EC vs. streamflow trends (Fig. 2c) im-
+"especially in the Banool catchment, is much younger (Barua et al., 2021)",plies that there is no simple mixing of rainfall with more saline water in
+and has 3H activities that overlap with the riparian zone groundwater,"the catchments; however, some mixing of waters (aggregation) in the"
+"(Table S1, Fig. 5). The MTTs of groundwater from 1.3 m depth at Banool",catchments may occur. Uncertainties caused by such aggregation are
+"(bore 3008: Fig. 1) are 70 to 420 years, and groundwater from 2.5 m","difficult to assess (Kirchner, 2016; Stewart et al., 2017). The effect of"
+Sampling,Samplea,Q,3H DM (0.05)b,Unnamed: 0,DM (0.5),EPM (0.33),EPM (1.0),EMM
+date,ID,m3/day,TU Years,,,,,
+Banool catchment,,,,,,,,
+Riparian groundwater,,,,,,,,
+3/07/2018,BD1,,0.16 ± 0.02 96,,260,192,105,587
+3/07/2018,BD2,,0.26 ± 0.02 88,,209,174,102,360
+3/07/2018,BB1,,0.79 ± 0.02 66,,86,74,80,94
+6/09/2018,BB2,,0.69 ± 0.02 70,,103,86,87,115
+Stream water,,,,,,,,
+24/05/2018,BS,146,1.30 ± 0.03 25,,38,35,31,42
+3/07/2018,BS,40.5,1.58 ± 0.03 16,,22,20,17,26
+13/07/2018,BS,167,1.62 ± 0.03 14,,20,18,15,24
+15/08/2018,BS,351,3.17 c± 0.05 <1,,<1,<1,<1,<1
+6/09/2018,BS,88.8,2.73 ± 0.04 <1,,<1,<1,<1,<1
+7/09/2018,BS*,63.7,2.21 ± 0.04 4,,5,5,4,5
+12/09/2018,BS,61.0,2.82 ± 0.04 <1,,<1,<1,<1,<1
+21/09/2018,BS,33.2,2.27 ± 0.04 4,,5,4,4,4
+McGill catchment,,,,,,,,
+Riparian groundwater,,,,,,,,
+6/09/2018,MD2,,4.10 ± 0.06 <1,,<1,<1,<1,<1
+7/09/2018,MD4,,2.63 ± 0.05 1,,1,1,1,1
+Stream water,,,,,,,,
+13/07/2018,MS,,2.31 ± 0.04 3,,4,3,3,4
+15/08/2018,MS,,3.81 ± 0.06 <1,,<1,<1,<1,<1
+6/09/2018,MS,,3.99 ± 0.06 <1,,<1,<1,<1,<1
+7/09/2018,MS*,,3.86 ± 0.06 <1,,<1,<1,<1,<1
+15/09/2018,MS,,3.86 ± 0.06 <1,,<1,<1,<1,<1
+21/09/2018,MS,,3.64 ± 0.06 <1,,<1,<1,<1,<1
+Plantation catchment,,,,,,,,
+Riparian groundwater,,,,,,,,
+6/09/2018,MB3,,2.01 ± 0.04 6,,9,8,7,9
+Stream water,,,,,,,,
+3/07/2018,PS,,1.84 ± 0.04 9,,12,11,9,14
+6/09/2018,PS,,3.06 ± 0.05 <1,,<1,<1,<1,<1
+"streamflows. The soil water, which has similar major ion concentrations",sources (such as riparian zone groundwater) are locally involved in the
+"and stable isotope ratios to the stream water (Figs 5, 6, S1), may also be","generation of early streamflow, while winter rainfall displaces increased"
+one of the sources of stream water at this time (Fig. 8). In the Banool,volumes of younger waters to sustain streamflows during the winter
+"stream in September, the MTTs of 4 to 5 years (1460–1825 days) and","months. As is the case elsewhere (e.g., Berghuijs and Kirchner, 2017;"
+streamflow of 3.30 101× to 6.30 3× 10 1 m /day (Table 1) yields an,"Rhodes et al., 2017; Zimmer and McGlynn, 2018; van Meerveld et al.,"
+estimated volume of water to sustain streamflow of 4.85 × 104 to 1.17 ×,"2019), young water sources appear to be very important during higher"
+"Sabater, S., Tockner, K., Palmer, M.A., 2014. Why should we care about temporarysoutheast Australia",are,generally,sustained,by,inflows,of,long-lived,"waterways? Science 343 (6175), 1080–1081. https://doi.org/10.1126/science:"
+(years to centuries) waters at most,,,"streamflows (Duvert et al., 2016;",,,,,1246666.
+"Cartwright et al., 2020a, 2020b), and none have 3H activities that are",,,,,,,,"Adelana, S.M., Dresel, P.E., Hekmeijer, P., Zydor, H., Webb, J.A., Reynolds, M., Ryan, M.,"
+higher than those of average local rainfall. This is the case for even small,,,,,,,,"2015. A comparison of streamflow, salt and water balances in adjacent farmland andforest catchments in south-western Victoria, Australia. Hydrol. Process. 29 (6),"
+"catchments with similar areas to those of the Banool, McGill and Plan-",,,,,,,,1630–1643. https://doi.org/10.1002/hyp.v29.610.1002/hyp.10281.
+tation catchments (and catchment size does not correlate with MTTs in,,,,,,,,"Allison, G.B., Hughes, M.W., 1975. The use of environmental tritium to estimate recharge"
+"the perennial streams: Cartwright et al., 2020a). In contrast, the inter-",,,,,,,,"to a South-Australian aquifer. J. Hydrol. 26 (3-4), 245–254. https://doi.org/"
+,,,,,,,,10.1016/0022-1694(75)90006-2.
+mittent headwater,streams,in this,study are,generally,,sustained,by,"Barmuta, L.A., Watson, A., Clarke, A., Clapcott, J.E., 2009. The importance of headwater"
+"shorter-lived sources of water, especially at high streamflows following",,,,,,,,"streams. Waterlines rep. Nat’l. Water Comm, Canberra."
+winter rainfall. These,catchments,,have similar,,rainfall,and,comprise,"Barua, S., Cartwright, I., Dresel, P.E., Daly, E., 2021. Using multiple methods to"
+,,,,,,,,investigate the effects of land-use changes on groundwater recharge in a semi-arid
+deeply-weathered rocks that may store large volumes of water similar to,,,,,,,,"area. Hydrol. Earth Syst. Sci. 25 (1), 89–104. https://doi.org/10.5194/hess-25-89-"
+many other catchments,,in southeast,Australia.,,"However,",,unlike the,202110.5194/hess-25-89-2021-supplement.
+"perennial catchments, the regional groundwater in intermittent catch-",,,,,,,,"Benettin, P., Kirchner, J.W., Rinaldo, A., Botter, G., 2015. Modeling chloride transport"
+,,,,,,,,"using travel time distributions at Plynlimon, Wales. Water Resour. Res. 51 (5),"
+ments is less likely,to be connected,,"to the streams,",,thus,removing a,,3259–3276. https://doi.org/10.1002/2014WR016600.
+major source of older water. If intermittent streams are generally sus-,,,,,,,,"Berghuijs, W.R., Kirchner, J.W., 2017. The relationship between contrasting ages of"
+"tained by water with relatively short MTTs, their streamflows will be less",,,,,,,,"groundwater and streamflow. Geophys. Res. Lett. 44 (17), 8925–8935. https://doi."
+org/10.1002/2017GL074962.buffered against the impact of year-on-year variations in rainfall than in,,,,,,,,"Blavoux, B., Lachassagne, P., Henriot, A., Ladouche, B., Marc, V., Beley, J.-J., Nicoud, G.,"
+"perennial streams. However, the MTTs are still relatively long at low",,,,,,,,"Olive, P., 2013. A fifty-year chronicle of tritium data for characterising the"
+streamflows compared,,with predictions,in,temperate,and,,glaciated,"functioning of the Evian and Thonon (France) glacial aquifers. J. Hydrol. 494,"
+northern hemisphere,catchments,,"(e.g., van",Meerveld,et,,"al., 2019),","116–133. https://doi.org/10.1016/j.jhydrol.2013.04.029.Brouwer, J., Fitzpatrick, R.W., 2002. Interpretation of morphological features in a salt-"
+possibly reflecting,the,relatively,large volumes,,of storage,,in the,affected duplex soil top sequence with an altered soil water regime in western
+weathered regolith. If,the proportion of intermittent streams increase,,,,,,,"Victoria. Aust. J. Soil Res. 40, 903–906. https://doi.org/10.1071/SR02008."
+"(Larned et al., 2010; Döll and Schmied, 2012; Datry et al., 2014), the",,,,,,,,"Brown, R.M., 1961. Hydrology of tritium in the Ottawa valley. Geochim. Cosmochim."
+,,,,,,,,"Acta. 21 (3-4), 199–216. https://doi.org/10.1016/S0016-7037(61)80055-0."
+MTTs of water sustaining streamflows may decrease. This will poten-,,,,,,,,"Commonwealth of Australia, 2020. https://www.bom.gov.au."
+tially impact on the resilience of these streams to rainfall variations and,,,,,,,,"Buttle, J.M., Boon, S., Peters, D.L., Spence, C., van Meerveld, H.J.(Ilja)., Whitfield, P.H.,"
+the timescales of contaminant transport to the streams.,,,,,,,,2012. An overview of temporary stream hydrology in Canada. Can. Water Resour. J.
+,,,,,,,,"37, 279–310. https://doi.org/10.4296/cwrj2011-903."
+,,,,,,,,"Cartwright, I., Morgenstern, U., 2015. Transit times from rainfall to baseflow in"
+CRediT authorship contribution statement,,,,,,,,headwater catchments estimated using tritium: The Ovens River. Australia. Hydrol.
+,,,,,,,,"Earth Syst. Sci. 19, 3771–3785. https://doi.org/10.5194/hess-19-3771-2015."
+,,,,,,,,"Cartwright, Ian, Morgenstern, Uwe, 2016a. Contrasting transit times of water from"
+Shovon Barua:,Data,"curation,",Formal,"analysis,",,"Investigation,",,peatlands and eucalypt forests in the Australian Alps determined by tritium:
+"Methodology, Writing – original draft, Writing – review & editing. Ian",,,,,,,,implications for vulnerability and the source of water in upland catchments. Hydrol.
+"Cartwright: Conceptualization,",,Funding,"acquisition,",,,"Investigation,",,"Earth Syst. Sci. 20 (12), 4757–4773. https://doi.org/10.5194/hess-20-4757-"
+,,,,,,,,201610.5194/hess-20-4757-2016-supplement.
+"Methodology, Project administration, Resources, Supervision, Writing –",,,,,,,,"Cartwright, I., Morgenstern, U., 2016b. Using tritium to document the mean transit time"
+"original draft, Writing – review & editing. P. Evan Dresel: Conceptu-",,,,,,,,and sources of water contributing to a chain-of-ponds river system: implications for
+"alization, Funding acquisition, Investigation, Writing – review",,,,,,,"resource protection. Appl. Geochem. 75, 9–19. https://doi.org/10.1016/j.&edit-",
+,,,,,,,,apgeochem.2016.10.007.
+"ing. Uwe Morgenstern: Investigation, Methodology, Writing – review &",,,,,,,,"Cartwright, I., Morgenstern, U., 2018. Using tritium and other geochemical tracers to"
+"editing. Jeffrey J. McDonnell: Conceptualization, Funding acquisition,",,,,,,,,"address the “old water paradox” in headwater catchments. J. Hydrol. 563, 13–21."
+"Methodology, Writing – review & editing. Edoardo Daly: Conceptual-",,,,,,,,https://doi.org/10.1016/j.jhydrol.2018.05.060.
+,,,,,,,,"Cartwright, Ian, Atkinson, Alexander P., Gilfedder, Benjamin S., Hofmann, Harald,"
+"ization, Funding acquisition,",,"Investigation,",,"Methodology,",,,Project,"Cendón, Dioni I., Morgenstern, Uwe, 2018a. Using geochemistry to understand"
+"administration, Resources, Supervision, Writing – review & editing.",,,,,,,,water sources and transit times in headwater streams of a temperate rainforest. Appl.
+,,,,,,,,"Geochem. 99, 1–12. https://doi.org/10.1016/j.apgeochem.2018.10.018."
+,,,,,,,,"Cartwright, I., Irvine, D., Burton, C., Morgenstern, U., 2018b. Assessing the controls and"
+Declaration of Competing Interest,,,,,,,,uncertainties on mean transit times in contrasting headwater catchments. J. Hydrol.
+,,,,,,,,"557, 16–29. https://doi.org/10.1016/j.jhydrol.2017.12.007."
+,,,,,,,,"Cartwright, Ian, Morgenstern, Uwe, Howcroft, William, Hofmann, Harald, Armit, Robin,"
+The authors declare that they have no known competing financial,,,,,,,,"Stewart, Michael, Burton, Chad, Irvine, Dylan, 2020a. The variation and controls of"
+interests or personal relationships that could have appeared to influence,,,,,,,,"mean transit times in Australian headwater catchments. Hydrol. Process. 34 (21),"
+,,,,,,,,4034–4048. https://doi.org/10.1002/hyp.v34.2110.1002/hyp.13862.
+the work reported in this paper.,,,,,,,,"Cartwright, Ian, Morgenstern, Uwe, Hofmann, Harald, 2020b. Concentration versus"
+,,,,,,,,streamflow trends of major ions and tritium in headwater streams as indicators of
+Acknowledgements,,,,,,,,"changing water stores. Hydrol. Process. 34 (2), 485–505. https://doi.org/10.1002/hyp.v34.210.1002/hyp.13600."
+,,,,,,,,"Clarke, I.D., Fritz, P., 1997. Environmental Isotopes in Hydrogeology. CRC Press."
+Funding for this project was provided by the Australian Research,,,,,,,,"Cayley, R.A., Taylor, D.H., 1997. Grampians special map area geological report. Dept. of"
+Council through its Discovery Program (grant DP180101229). We thank,,,,,,,,"Natural Resources and Environment, Geological Survey of Victoria, Fitzroy, Vic."
+,,,,,,,,"Cook, Peter G., 2013. Estimating groundwater discharge to rivers from river chemistry"
+Rob Lawrence (Banool pasture owner) and David Gough (McGill forest,,,,,,,,"surveys. Hydrol. Process. 27 (25), 3694–3707. https://doi.org/10.1002/hyp."
+manager at PF Olsen Australia) for allowing us to access the sites. We,,,,,,,,v27.2510.1002/hyp.9493.
+also thank Massimo Raveggi and Rachelle Pearson for assistance with,,,,,,,,"Coplen, Tyler B., 1988. Normalization of oxygen and hydrogen isotope data. Chem. Geol."
+,,,,,,,,"72 (4), 293–297. https://doi.org/10.1016/0168-9622(88)90042-5."
+"geochemical analyses, Kiri Mason for helping with field work, and David",,,,,,,,"Datry, T., Larned, S.T., Tockner, K., 2014. Intermittent rivers: A challenge for freshwater"
+McCarthy for providing one of the autosamplers. The comments of the,,,,,,,,"ecology. BioSci. 64, 229–235. https://doi.org/10.1093/biosci/bit027."
+reviewers helped clarify the paper.,,,,,,,,"Döll, P., Schmied, H.M., 2012. How is the impact of climate change on river flow regimes"
+,,,,,,,,related to the impact on mean annual runoff? A global-scale analysis. Environ. Res.
+,,,,,,,,"Lett. 7, 14–37. https://doi.org/10.1088/1748-9326/7/1/014037."
+Appendix A. Supplementary data,,,,,,,,"Dresel, P.E., Dean, J.F., Perveen, F., Webb, J.A., Hekmeijer, P., Adelana, S.M., Daly, E.,"

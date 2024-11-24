@@ -1,0 +1,146 @@
+"H. Hofmann et al.: Groundwater mean residence times of a subtropical barrier sand island
+1297"
+"trometer (ICP-MS) at Monash University. Anion concentra-
+recharged during this period (Fritz et al., 1991; Clark and"
+"tions were determined using a Metrohm ion chromatograph
+Fritz,1997).Becausethebombpulse<s>3</s>Hpeakwasseveral"
+"(also at Monash University). The precision of major
+ion
+orders of magnitude lower in the Southern Hemisphere than"
+"concentrations based on replicate analysis is 2 %–5 %. Sta-
+intheNorthernHemisphere,<s>3</s>Hconcentrationsofremnant"
+"ble isotopes were measured using Finnigan MAT 252 and
+bomb pulse water in the Southern Hemisphere have now de-"
+"DeltaPlus Advantage mass spectrometers at Monash Univer-
+cayed well below that of modern rainfall. This situation al-"
+"sity, as described by Hofmann and Cartwright (2013). Preci-
+lowsestimatesofMRTstobeobtainedfromsingle<s>3</s>Hactiv-"
+"sionbasedonreplicateanalysisis0.15‰forδ<s>18</s>Oand1‰ities (Morgenstern et al., 2010; Morgenstern and Daughney,"
+"forδ<s>2</s>H.Rainfallstableisotoperatiosweretakenfromthe2012)."
+"Global Network of Isotopes in Precipitation (IAEA – Global
+<s>14</s>Cconcentrationsmaybeusedtoestimategroundwater"
+"Network of Isotopes in Pricipitation, 2017). Average rainfall-
+residence times
+in the range from 1000 to ∼ 30 000 years"
+"weightedisotoperatiosforδ<s>18</s>Oandδ<s>2</s>Hwerecalculatedus-(Clark and Fritz, 1997). While
+it
+is not particularly well"
+"ingδ<s>18</s>Oandδ<s>2</s>Hratiosandthedailyrainfallfromthe1960ssuited for estimating the residence times of young ground-"
+"to2002.δ<s>13</s>Cvaluesofdissolvedinorganiccarbon(DIC)water, it may be used to detect the input of groundwater from"
+"were analysed with a Thermo Delta V continuous ﬂow iso-
+old water stores, such as low-permeability layers, within the"
+"tope ratio mass spectrometer, (CF-IRMS) coupled to a Gas
+aquifer system (Hofmann and Cartwright, 2013). The com-"
+"BenchIIatTheUniversityofQueensland.δ<s>13</s>C-DICval-bineduseof<s>3</s>Hand<s>14</s>Cmayalsobeusedtoassessmixing"
+"ues were normalised to the V-PDB scale using international
+of older groundwater with recent recharge (Cartwright et al.,"
+"standards NBS19 and LSVEC via two-point normalisation;
+2007). Groundwater MRTs were
+estimated using lumped"
+"the precision of this measurement is 0.3 ‰.
+parameter models
+(LPMs; Maloszewski and Zuber, 1982;"
+"The Australian Nuclear Science and Technology Organi-
+Maloszewski, 2000). These models predict
+the distribution"
+"sation (ANSTO) conducted the analysis of
+the<s>14</s>Cand<s>3</s>Hof ages and tracer concentrations
+in homogenous aquifers"
+"samplesatLucasHeights,Sydney.<s>3</s>Hwasanalysedviavac-with
+simpliﬁed
+geometries
+under
+steady-state
+conditions."
+"uum distillation, enriched by electrolysis, distilled further to
+The mean residence time represents the average age of
+the"
+"separate tritium and counted using three Quantulus ultra-low
+individual water molecules in the sample. The concentration"
+"background liquid scintillation counters
+(LSC). This anal-
+ofaradioactivetracerinthesample,C<s>out</s>(t),isrelatedtothe"
+"ysis had a combined standard uncertainty of 0.04 TU and
+inputovertime,C<s>inp</s>(t),viatheconvolutionintegral:"
+"a quantiﬁcation limit of 0.05 TU;
+further analytical details"
+"t"
+"are described in Neklapilova (2008). Following acid extrac-"
+"(cid:90)"
+"tion and graphitisation of
+inorganic
+carbon,
+<s>14</s>Cconcen-(1)
+C<s>out</s>(t)=C<s>inp</s>(t−τ)g(τ)exp(−λτ)dt,"
+"trations were analysed using accelerator mass spectrometry"
+"et"
+"(2MVSTARtandemaccelerator).Theconcentrationsfor<s>14</s>C"
+"λ
+are expressed as percent modern carbon (pMC), and the pre-
+where
+is
+the
+decay
+constant
+of
+a
+radioactive
+tracer"
+"cisionof<s>14</s>C/<s>12</s>Cratiosis±0.05%.(Farlin and Maloszewski, 2013),
+and g(τ )
+is
+the
+transfer"
+"function that describes
+the distribution of ages within the"
+"ﬂow system. The piston ﬂow model
+(PFM),
+the dispersion
+3.2
+Estimating MRT"
+"model (DM),
+the partial exponential ﬂow model (PEM),
+the"
+"Tritium is a suitable tracer
+for determining residence times
+exponential mixing model (EMM) and the exponential ﬂow"
+"of young groundwater.
+It
+is part of
+the water molecule and
+model
+(EPM) are commonly used LPMs. The piston ﬂow"
+"once isolated from the atmosphere its activities are only af-
+model assumes that no hydrodynamic dispersion occurs be-"
+"fectedbyradioactivedecay.<s>3</s>Hhasahalf-lifeof12.32yearstween the recharge and discharge area, and the MRT calcula-"
+"and may be used to estimate residence times of water that are
+tion is similar to decay except that the initial rainfall activity"
+"up to 100 years with a precision of a few years (Morgenstern
+can be varied over time (Howcroft et al., 2017). The disper-"
+"and Taylor, 2009; Morgenstern et al., 2010). The activities of
+sion model
+is derived from the one-dimensional advection–"
+"<s>3</s>Hinrainfallareknownwithsufﬁcientprecisionovertimedispersion–transport equation and simulates the distribution"
+"inmanyareasoftheworldtoderivealocal<s>3</s>Hinputfunctionof a wide variety of aquifer geometries (Jurgens et al., 2012)."
+"(Tadrosetal.,2014).Brisbaneistheclosest<s>3</s>HmonitoringIt allows for variable degrees of dispersion by adjusting the"
+"station to Stradbroke Island (approximately 35 km from the
+dispersionparameter(D<s>p</s>),whichdescribestheratioofdis-"
+"island)andhasacontinuousrecordof<s>3</s>Hdatafromthe1960spersion to advection. It approaches zero when advection be-"
+"to 2012 (Tadros et al., 2014; IAEA – Global Network of Iso-
+comes the dominant process controlling the tracer transport."
+"topes in Pricipitation, 2017).
+The EMM is most
+suitable for homogeneous, unconﬁned"
+"The<s>3</s>Hactivitiespeakbetweenthe1950sandthe1960saquifers of constant
+thickness with uniform recharge. The"
+"due to the production of
+<s>3</s>Hbyatmosphericnucleartests
+EPM applies to aquifers that have regions of conﬁned and"
+"(the
+“bomb pulse”
+<s>3</s>H).Traditionally,the propagation of
+unconﬁned ﬂow (Maloszewski and Zuber, 1982; Zuber et al.,"
+"the bomb pulse has been utilised to trace the ﬂow of water
+2005; Jurgens et al., 2012; Atkinson et al., 2014; Cartwright"
+"www.hydrol-earth-syst-sci.net/24/1293/2020/
+Hydrol. Earth Syst. Sci., 24, 1293–1318, 2020"

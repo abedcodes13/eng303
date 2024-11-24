@@ -1,0 +1,48 @@
+"","Lumped parameter models: EMM = Exponential ﬂow model, EPF = exponential-piston ﬂow model (EPM ratio in brackets); DM = dispersion model (DP in brackets)."
+"ernrainfall<s>3</s>Hactivities(Tadrosetal.,2014).Fora<s>3</s>Hactivityof1.5","The FEFLOW simulations highlight another uncertainty in cal-"
+"TU, the range of mean transit times is approximately 13.5 years, a","culating mean transit times. Lumped parameter models have the"
+"relative uncertainty of ±18%.","advantage of not requiring a detailed knowledge of aquifer proper-"
+"Thecalculationsusedaverageannualrainfall<s>3</s>Hactivitiesasthe","ties (such as hydraulic conductivities) that are difﬁcult to obtain;"
+"input function. However,
+if summer rainfall
+is lost by evapotran-","however,
+it is highly unlikely in reality that hydraulic conductivi-"
+"spiration,the<s>3</s>Hactivitiesoftherechargingwatermaybedifferent","ties are homogeneous. For aquifers with layers of different litholo-"
+"(Morgenstern et al., 2010; Blavoux et al., 2013). The monthly vari-","gies, binary (or higher order)
+lumped parameter models may be"
+"ationof<s>3</s>HactivitiesinMelbourne(InternationalAtomicEnergy","used (Maloszewski and Zuber, 1982; Maloszewski, 2000). How-"
+"Agency, 2017) are similar
+to those at Kiatoke, New Zealand,
+for","ever, the hydraulic conductivities are still likely to vary within each"
+"which there is a more detailed record (Morgenstern et al., 2010).","of the layers."
+"Themonthlyvariationinrainfall<s>3</s>Hactivitiesinanygivenyearis","In the FEFLOW simulations with highly heterogeneous hydrau-"
+"<1TUandthe<s>3</s>Hactivitiesinsummerrainfallareclosetotheaver-","lic conductivities, there is increasing variability in the relationship"
+"age annual
+<s>3</s>Hactivities.Thisisalsoimpliedbytheobservation","betweenmeantransittimesand<s>3</s>Hactivities,andthe<s>3</s>Hactivity"
+"thatthe<s>3</s>Hactivityofsummer(DecembertoFebruary)rainfallat","vs. depth proﬁles are irregular (Figs. 7 and 8). The range of mean"
+"Mount Buffalo (northeast Victoria) was closely similar
+(2.86 TU)","transittimesestimatedfora<s>3</s>Hactivityof1.5TUintheFEFLOW"
+"to
+that
+of
+two
+annual
+rainfall
+samples
+(2.99
+and
+2.85 TU)","simulations
+is 10 years
+(Fig. 8). This
+is a relative uncertainty of"
+"(Cartwright and Morgenstern, 2015). With such a seasonal distri-","±13%, which is
+similar
+to other uncertainties discussed above."
+"butionof<s>3</s>Hactivities,theuncertaintiesresultingfromusingthe","The FEFLOW model includes dispersion, which results in the mean"
+"average
+annual
+<s>3</s>Hactivityare minor
+(c.f., Morgenstern et
+al.,","transit
+timesatany<s>3</s>Hactivitybeinglongerto those calculated"
+"2010).","from the lumped parameter models. These differences highlight"

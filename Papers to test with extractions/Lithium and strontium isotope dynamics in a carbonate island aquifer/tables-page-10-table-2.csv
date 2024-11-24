@@ -1,0 +1,126 @@
+"","6.3. Lithium isotope fractionation in fresh groundwaters"
+"","6.3.1. Carbonate reactions"
+"","ThereisacorrelationbetweenexcessMgandhighδ<s>7</s>Livaluesin"
+"","fresh groundwaters (ρ = 0.80, p = 0.01, n = 9, Fig. 6a) and to a lesser"
+"","extentbetweenδ<s>7</s>LivaluesandmolarMg/Caratiosbutthelatteris"
+"","not statistically signiﬁcant (ρ = 0.54, p = 0.13, n = 9, Fig. 6b). These re-"
+"","lationships may be explained by the incongruent dissolution of high-Mg"
+"","calcite or aragonite phases, which are abundant in the Tamala Lime-"
+"","stone (Table 4), and the formation of more stable low-Mg calcite"
+"","(Appelo and Postma, 2005):"
+"","−<s>2</s>ð
+ÞCa<s>2þ</s>þxMg<s>2þ</s>þ2HCO3ð3Þ"
+"","ÞCO<s>3</s>þH<s>2</s>CO<s>3</s>⇌1−xCa<s>1−x</s>Mg<s>x</s>"
+"","However,
+is
+low (~0.006)
+theD<s>Li/Ca</s>valueinRIgroundwaters"
+"","(Marriott et al., 2004); thus, the proportion of dissolved Li removed"
+"","from solution and incorporated into low-Mg calcite would not be"
+"","large enough to produce isotopic fractionation. A more likely explana-"
+"","tionforthesuggestedrelationshipbetweenexcessMgandδ<s>7</s>Livalues"
+"","in fresh groundwaters is preferential dissolution of high-Mg calcite rel-"
+"","ative to low-Mg calcite (Appelo and Postma, 2005), due to the corre-"
+"","spondingly higher
+δ<s>7</s>Livalues
+(25
+to
+40‰)
+of high-Mg
+calcites"
+"","(Dellinger et al., 2018). Our mass balance considerations estimate that"
+"","8–24% of dissolved Li in fresh groundwaters is sourced from carbonate"
+"","minerals during recrystallisation. Thus, the preferential dissolution of"
+"","high-Mgcarbonateswithhighδ<s>7</s>Livaluesappearstosomewhatin-"
+"","creasetheδ<s>7</s>Livaluesoffreshgroundwaters.Itisalsolikelythatco-"
+"","variables, such as groundwater age and extent of secondary mineral re-"
+"","actions, also vary with the groundwater Mg excess and molar Mg/Ca"
+"","ratio,therebyincreasingtheδ<s>7</s>Livaluesoffreshgroundwaters."
+"","6.3.2. Mineral surface interactions"
+"","Theenrichmentof<s>7</s>Liinnaturalwatersrelativetoprimarysilicate"
+"","mineralsisoftenattributedtothepreferentialuptakeof<s>6</s>Liduring"
+"","claymineralformation(Vigieretal.,2008).Despitethehighδ<s>7</s>Livalues"
+"","in
+fresh
+groundwaters,
+PHREEQC modelling
+using
+the
+standard"
+"","“phreeqc.dat” database (Parkhurst and Appelo, 2013) suggests that all"
+"","of the fresh groundwaters studied here were undersaturated in alumi-"
+"","nosilicateclayminerals,butsaturatedinSiO<s>2</s>(Table5).Therefore,the"
+"Fig.6.δ<s>7</s>LivaluesofFgroundwatersasafunctionofa)MgexcesscalculatedbyPHREEQC","SiO<s>2</s>precipitatemaypreferentiallyincorporate<s>6</s>Li,producingthehigh"
+"(Mg<s>reac</s>)andb)molarMg/Caratioswhere⍴:Spearman'srankcorrelationcoefﬁcient.","δ<s>7</s>Livaluesgroundwatervalues.Inadditiontosilicaprecipitation,pref-"
+"","erentialuptakeof<s>6</s>LicanalsooccurduringLiadsorptionontopre-"
+"high Sr and Li concentrations, and Al/Ca, Fe/Ca, and K/Ca ratios in the","existing clays and other minerals with high cation-exchange capacities,"
+"acid-insoluble residue relative to the acid soluble fraction support the","such as iron oxides and oxyhydroxides (Pistiner and Henderson, 2003)"
+"hypothesis that there is a substantial contribution of these cations in","that are likely present in paleosol units within the Tamala Limestone"
+"groundwaters from the dissolution ﬁne-grained, poorly crystalline min-","that contain iron-rich and clay minerals, and high organic matter con-"
+"erals that were not detected by XRD, e.g. ferrihydrite (Navrotsky et al.,","tents (Playford et al., 1977; Lipar and Webb, 2015). Therefore, we sug-"
+"2008), or other phases with the elemental characteristics implied by","gest that silica precipitation and Li adsorption onto aquifer units are"
+"the residue compositions. A similar inﬂuence of poorly crystalline mate-","likely responsible for Li isotope fractionation in fresh groundwaters fol-"
+"rial has been observed elsewhere with clay-rich, former aeolian soils","lowing recharge. This process is consistent with results from other shal-"
+"forming above limestone, e.g. cave drip waters at Wellington Caves","low coastal groundwater settings, such as Laizhou Bay, China, where it"
+"have the mixed imprint of clay-mineral interactions and limestone dis-","was
+found
+that
+slow silicate mineral weathering
+and hydraulic"
+"solution(Rutlidgeetal.,2014).The<s>87</s>Sr/<s>86</s>Srratiosoffreshgroundwa-",""
+"ters at RI ranged from 0.70917 to 0.70920 (Table 2), marginally less",""
+"","Table 5"
+"than
+the mean
+<s>87</s>Sr/<s>86</s>Srratio
+of modern
+seawater
+(0.70924)",""
+"","MineralsaturationstatesforfreshgroundwatersmodelledusingPHREEQC3<s>a</s>."
+"(Elderﬁeld, 1986). Based on mass balance calculations we estimate",""
+"that at least ~50% of Sr is provided by the weathering of silicate minerals","Phase
+X
+SI_3-77 (fresh)
+SI_2-94 (mature)"
+"(seeSection6.1).AsamoreradiogenicSrsource(higher<s>87</s>Sr/<s>86</s>Sr)","−0.12"
+"","0.10
+Aragonite
+CaCO<s>3</s>"
+"wouldincreasethe<s>87</s>Sr/<s>86</s>Srratiooffresh groundwaters relative to","Calcite
+0.03
+0.24
+CaCO<s>3</s>"
+"the seawater value, we infer that the aeolian-derived quartz in the","Dolomite
+0.29
+0.21
+CaMg(CO<s>3</s>)<s>2</s>"
+"","Gibbsite
+−1.56
+−1.81
+Al(OH)<s>3</s>"
+"TamalaLimestoneandthemodernsoil-formingzonehasan<s>87</s>Sr/<s>86</s>Sr",""
+"","Gypsum
+−2.04
+−2.08
+CaSO<s>4</s>:2H<s>2</s>O"
+"ratioaround0.7092.Unfortunately,the<s>87</s>Sr/<s>86</s>Srratiosarenotespe-",""
+"","K-feldspar
+−3.88
+−3.85
+KAlSi<s>3</s>O<s>8</s>"
+"cially useful for constraining the Sr budget in fresh groundwaters as","K-mica
+−1.44
+−1.90
+KAl<s>3</s>Si<s>3</s>O<s>10</s>(OH)<s>2</s>"
+"modern seawater, Late Quaternary carbonates and coastal rainfall
+in","Kaolinite
+−2.2
+−2.47
+Al<s>2</s>Si<s>2</s>O<s>5</s>(OH)<s>4</s>"
+"","Quartz
+0.07
+0.18
+SiO<s>2</s>"
+"Australiaalsohave<s>87</s>Sr/<s>86</s>Srratiosaround~0.7092(Elderﬁeld,1986;",""
+"","a"
+"Raiber et al., 2009).","Parkhurst and Appelo (2013)."

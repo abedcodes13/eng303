@@ -1,0 +1,69 @@
+"4
+E. Bryan et al.","/ Water Research 170 (2020) 115301"
+"and
+dissolved
+oxygen
+(DO).
+Composite
+rainfall
+samples were","Groundwater age distributions were evaluated using TracerLPM"
+"collected on a weekly basis from June 2013 to December 2016 in a","(Jurgens et al., 2012). This modelling package permits optimization"
+"rainfall collector designed to collect samples for isotopic analysis by","of parameters using either multiple tracers analysed in a single"
+"preventingevaporation.TheClandisotopic(d<s>18</s>O,d<s>2</s>H,<s>3</s>H)analysis","sample (Tracer-Tracer method) or from a single tracer analysed in"
+"of groundwaters
+and rainfall was
+carried out
+according to the","multiple
+samples
+collected over
+a period of
+time
+(Time-Series"
+"methodology presented by Bryan et al. (2016). The Cl concentration","method)
+(Jurgens
+et
+al.,
+2012). A detailed
+description
+of
+the"
+"ofwatersampleswereanalysedbyionchromatography.Thed<s>18</s>O","commonly used lumped parameter models (LMPs) is discussed in"
+"andd<s>2</s>Hwereanalysedbyisotoperatiomassspectrometry(IRMS)","Jurgens et al. (2012) and Maloszewski et al. (2002). Brieﬂy, LMPs are"
+"<s>andvalueswerereportedaspermil(</s>‰<s>)deviationfromtheinter-</s>","mathematical models of transport based on aquifer geometry and"
+"national standard V-SMOW2 (Vienna Standard Mean Ocean Wa-","ﬂow that accounts for hydrodynamic dispersion or mixing within"
+"ter).
+The
+d<s>18</s>Osampleswereanalysed
+using
+an
+equilibration,","the aquifer, discharge area or the well (Jurgens et al., 2012). Testing"
+"continuousﬂowIRMSmethodwhiled<s>2</s>Hsampleswereanalysed","and selection of an appropriate LPM for an aquifer system is needed"
+"usinganon-linecombustion,dual-inletIRMSmethod.Thed<s>18</s>Oand","because the mean age is often non-unique between the models."
+"d<s>2</s>Hmeasurementswerereproducible
+to
+<s>±0.15</s>‰<s>and</s><s>±1</s>‰<s>,</s>","The LPM approach assumes tracers are injected and travel conser-"
+"respectively.The<s>3</s>Hsampleswereanalysed,withwatersamples","vatively with the water molecule through the aquifer. Therefore,"
+"being distilled and electrolytically enriched prior to analysis by a","the mean age inferred by tracer concentrations is equal to the mean"
+"liquidscintillationmethod.The<s>3</s>Hconcentrationswereexpressed","age of water discharging from the system or to a screened interval"
+"in tritium units
+(TU) with a general uncertainty of ±0.1 TU and","(Jurgens et al., 2012). LPMs were used in this study for groundwater"
+"quantiﬁcation limit of 0.06 TU.","residence time calculations because they account for the age dis-"
+"Water levels were monitored at 30 min increments at a subset of","tribution of the sample."
+"monitoring wells
+for
+over
+2
+years
+from September
+2014
+to","All
+individual
+LMPs
+(piston-ﬂow model,
+exponential mixing"
+"December 2016 using non-vented Solinst Gold Loggers which were","model, exponential piston-ﬂow model, partial exponential model,"
+"corrected for barometric pressure. Hydrographs were constructed","and dispersion model) were
+assessed including
+binary mixing"
+"from the 2014e2016 dataset using an adjacent averaging method to","models, which have been previously used to describe tracer con-"
+"highlight the general trends in water levels over time (Fig. 2A).","centrations in karstic aquifers and watersheds with variations in"

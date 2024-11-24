@@ -1,0 +1,138 @@
+"I. Cartwright and U. Morgenstern: Transit times from rainfall to baseﬂow in headwater catchments
+3777"
+"2.5"
+"an alternative lumped parameter model based on the one-"
+"dimensional advection-dispersion transport in a semi-inﬁnite"
+"medium. The response function for this model is:"
+"(cid:18)
+(cid:19)"
+"(1−τ/τm)2"
+"−"
+"1"
+"4DPτ/τm"
+"OEB
+√"
+"e
+,
+g(τ ) =
+(3)"
+"τ
+4πD<s>P</s>τ/τ<s>m</s>"
+"MY"
+"is
+the dispersion parameter
+(unitless), which is
+whereD<s>P</s>"
+"LBK"
+"the inverse of the more commonly reported Peclet Number."
+"<s>3</s>H (TU) Feb 2014OWB"
+"2.0"
+"D<s>P</s>=D/(vx),wherevisvelocity(mday<s>−1</s>),xisdistance"
+"BR"
+"(m), and D is the dispersion coefﬁcient
+(m<s>2</s>day<s>−1</s>).WhileLMC"
+"the dispersion model is considered to be a less realistic con-"
+"ceptualisation of ﬂow systems,
+it commonly reproduces the"
+"R² = 0.83, p = 0.005"
+"observed distribution of radioisotopes within aquifers (Mal-"
+"oszewski, 2000)."
+"3.5
+Mass balance calculations"
+"SC"
+"If groundwater and rainfall have different major
+ion con-"
+"1.5"
+"0"
+"20
+40
+60
+80
+centrations,stableisotoperatios,or<s>3</s>Hactivities,variations"
+"Runoff Coefficient (%)
+in these parameters with streamﬂow may be used to assess"
+"the degree of mixing of baseﬂow with event water
+(Sklash"
+"Figure3.Runoffcoefﬁcientvs.<s>3</s>HactivitiesforFebruary2014."
+"and Farvolden, 1979; Uhlenbrook et al., 2002; Godsey et al.,"
+"Bars
+show range
+of
+runoff
+coefﬁcients
+arising
+from the
+likely"
+"2009). In the case where baseﬂow to the stream remains rel-"
+"range of
+rainfall
+in the catchments,
+line is a logarithmic ﬁt
+to the"
+"atively constant and increases in streamﬂow are due to addi-"
+"data
+that has
+anR<s>2</s>of 0.83. Open symbols
+are
+sampling sites"
+"tional event water,
+the proportion of baseﬂow in the stream"
+"on the main Ovens River, closed symbols are from the headwater"
+"(X<s>bf</s>)isgivenbyQ<s>bf</s>/QwhereQisthemeasuredstream-"
+"tributaries. BR = Bright, LBK = Lower Buckland, LMC = Lower"
+"is the streamﬂow at baseﬂow conditions. The
+ﬂowandQ<s>bf</s>"
+"Morses Creek, OEB = Ovens East Branch, OWB = Ovens West"
+"concentration of a component
+inthestream(C<s>st</s>)athigherBranch, SC = Simmons Creek. Data from Tables 1 and 2; precision"
+"streamﬂows is given by:
+of<s>3</s>Hactivities(Table1)isapproximatelythesizeofthesymbols."
+"(4)
+C<s>st</s>=X<s>bf</s>C<s>bf</s>+(1−X<s>bf</s>)C<s>ew</s>,"
+"the minimum streamﬂow for
+the 2013 to 2014 summer of"
+"whereC<s>bf</s>andC<s>ew</s>aretheconcentrationsinthebaseﬂowand5.44×10<s>4</s>m<s>3</s>day<s>−1</s>(Department of Environment and Pri-"
+"event water, respectively.
+mary Industries, 2015) and represents the 86.4 percentile of"
+"streamﬂow between 1980 and 2014."
+"The streamﬂow data may also be used to deﬁne the runoff"
+"4
+Results"
+"coefﬁcient (i.e. the percentage of rainfall exported from each"
+"catchment) (Fig. 3). The average annual streamﬂow was cal-"
+"4.1
+Streamﬂow variations"
+"culated using daily streamﬂow data between 1980 and 2014"
+"(Department of Environment and Primary Industries, 2015)."
+"Figure 2a summarises the variation in streamﬂow at Bright"
+"Periods of no record generally due
+to gauge malfunction"
+"between 2010 and 2014 and Fig. 2b shows the distribution"
+"were omitted;
+these represent < 15 % of the data. There is a"
+"of the sampling rounds relative to the ﬂow frequency curve"
+"rainfall gradient across the Ovens catchment and insufﬁcient"
+"for 1980 to 2014 daily streamﬂow at Bright. The July 2014"
+"rainfall stations to calculate area-weighted average rainfall"
+"sampling round was during a recession period from winter"
+"for individual catchments. However, it is likely that precipita-"
+"highﬂowsandthestreamﬂowof1.57×10<s>6</s>m<s>3</s>day<s>−1</s>rep-"
+"tioninthewholeregionisbetween1170and1420mmyr<s>−1</s>,"
+"resents the 5.5 percentile of streamﬂow (i.e. streamﬂow of"
+"which are the annual totals at Bright in the north of the catch-"
+"this value or higher was recorded on 5.5 % of days during"
+"ment and the Victorian Alps to the south of the Ovens catch-"
+"1980 to 2014). The December 2013 and October 2014 sam-"
+"ment.Usinganaveragerainfallof1295mmyr<s>−1</s>,runoffco-"
+"pling rounds
+represent periods of
+intermediate streamﬂow"
+"efﬁcients range from ∼ 7.4 % for Simmons Creek to ∼ 58 %"
+"of2.69×10<s>5</s>and3.19×10<s>5</s>m<s>3</s>day<s>−1</s>,whichcorrespondto"
+"for the Ovens East Branch. For the range of precipitation in"
+"the 46.3 and 42.1 percentiles of streamﬂow, respectively. The"
+"the Ovens Valley the relative error of these runoff coefﬁcients"
+"February 2014 sampling round represents typical late austral"
+"is ∼ 10 %."
+"summer low-ﬂow conditions. The streamﬂow at Bright dur-"
+"ingthissamplingroundof6.46×10<s>4</s>m<s>3</s>day<s>−1</s>wascloseto"

@@ -1,0 +1,192 @@
+﻿Abstract. Dissolved,silicon,(dSi),is,a,key,nutrient,in,the,Unnamed: 0,"tions, which is related to groundwater residence time and lo-"
+"oceans, but data regarding Si isotopes in coastal aquifers are",,,,,,,,,,cal hydrogeology. Our finding that lithogenic Si dissolution
+not widely available. Here we investigate the Si isotopic com-,,,,,,,,,,occurs in the freshwater lens and the freshwater–seawater
+position of 12 fresh and 16 saline groundwater samples from,,,,,,,,,,transition zone on Rottnest Island appears to supports the re-
+"Rottnest Island, Western Australia, which forms part of the",,,,,,,,,,cent inclusion of a marine–submarine groundwater discharge
+world’s most extensive aeolianite deposit (the Tamala Lime-,,,,,,,,,,term in the global dSi mass balance. Geologically young car-
+stone formation). In,"total, two",bedrock,,,samples,were,also,,,"bonate aquifers, such as Rottnest Island, may be an important"
+collected from Rottnest,Island for Si,,,isotope analysis. The,,,,,,source of dSi in coastal regions with low riverine input and
+δ30Si values of groundwater samples ranged from−0.4 ‰ to,,,,,,,,,,low oceanic dSi concentrations.
+"+3.6 ‰ with an average +1.6 ‰, and the rock samples were",,,,,,,,,,
+−0.8 ‰ and −0.1 ‰. The increase in δ30Si values in fresh,,,,,,,,,,
+groundwater is attributed to the removal of the lighter Si iso-,,,,,,,,,,
+topes into secondary minerals and potentially also adsorption,,,,,,,,,,1 Introduction
+onto Fe (oxy)hydroxides. The positive correlations between,,,,,,,,,,
+δ30Si values and dSi concentrations (ρ= 0.59; p= 0.02) and,,,,,,,,,,Dissolved silicon (Si(OH)4; dSi) is a key nutrient in global
+"δ30Si values and Cl, but not dSi and Cl concentrations, are",,,,,,,,,,biogeochemical cycles that is sourced primarily from conti-
+consistent with vertical,mixing,between,,,the,younger,fresh,,,"nental silicate weathering (Tréguer et al., 1995; Tréguer and"
+"groundwater and the deeper groundwater, which have under-",,,,,,,,,,"De La Rocha, 2013; Rahman et al., 2017; Rahman et al.,"
+gone a greater degree,of water–rock,,,interactions.,,This,,has,,"2019; Frings et al., 2016). Thus, the dSi flux from the conti-"
+produced a spatial pattern,in δ30Si,,across,,the,aquifer,,due,,nents is a key control on primary productivity in the global
+"to the local hydrogeology, resulting in a correlation between",,,,,,,,,,"biogeochemical cycles of the oceans (Falkowski et al., 1998)."
+δ30Si and tritium activities when considering all groundwa-,,,,,,,,,,"Stable silicon isotopes (28Si, 29Si and 30Si) are useful for"
+ter types (ρ=−0.68; p= 0.0002).,,,In,,the,"deeper aquifer,",,,,tracing the rate and extent of silicate weathering reactions
+the inverse correlation,between,dSi,and,,Cl,concentrations,,,,due to the preferential incorporation of lighter Si isotopes
+(ρ=−0.79; p= 0.04),for the,more,,saline,,groundwater,,is,,"into during clay mineral formation (Frings et al., 2015; Pogge"
+attributed to groundwater,mixing,,with,,local,seawater,,that,,"von Strandmann et al., 2012; Hughes et al., 2013; Georg"
+is depleted in dSi (< 3.6 μM).,,Our,results,,,from this,well-,,,"et al., 2009a, 2007), silica precipitation (Geilert et al., 2014;"
+constrained island aquifer system demonstrate that stable Si,,,,,,,,,,"Oelze et al., 2015) and the adsorption of Si onto Fe–Al"
+isotopes usefully reflect the degree of water–aquifer interac-,,,,,,,,,,"(oxy)hydroxides (Opfergelt et al., 2009, 2017). Biological"
+"fore, dSi isotopic ratios may reflect the balance between con-",and the low Si/Ca ratio for the acid-soluble component of the
+gruent silicate dissolution and secondary mineral formation,"aquifer bedrock (Martin et al., 2020). A biological influence"
+"such that, if the global Si budget is well constrained, marine",on groundwater δ30Si values is probably not important for the
+Si isotope records may be used to reconstruct past changes,RI fresh groundwater because (1) the area above the fresh-
+in continental weathering and primary productivity (Frings,water lens is sparsely vegetated due to land clearing and con-
+"et al., 2016; De La Rocha et al., 1998; Christina et al., 2000).","tains no surface water features, (2) the salt lakes (located to"
+The global dSi isotopic budget is poorly constrained for,the east of the freshwater lens) that host diatom communities
+"groundwater systems (Frings et al., 2016), despite around",are not hydrologically connected to the groundwater system
+half of the total dissolved solids (TDSs) flux to the oceans de-,"(Bryan et al., 2016), and (3) there is no reported occurrence"
+riving from submarine groundwater discharge (SGD; Zektser,of biogenic opal in the Tamala Limestone (Semeniuk and Se-
+"and Loaiciga, 1993). Globally, average dissolved δ30Si val-","meniuk, 2006; Hearty and O’Leary, 2008). In contrast, trace"
+ues in low-temperature groundwater systems (+0.2± 0.8 ‰),"elements, such as strontium (Sr) and lithium (Li), are derived"
+are lower than those in rivers (+1.3± 0.7 ‰; 1 SD; Frings,mainly from the dissolution of silicate minerals found within
+"et al., 2016). Similarly, groundwater fluxes from other key","carbonate aeolianite matrix of the RI aquifer (Martin et al.,"
+"marine weathering proxies such as Mg, Ca and Sr also ex-","2020). Moreover, this fresh groundwater on RI is saturated"
+hibit distinct isotopic compositions from global riverine av-,"with respect to quartz, and its Li isotopic composition sug-"
+"erages (Mayfield et al., 2021). The lower δ30Si values in",gests that water–aquifer interactions with secondary minerals
+some groundwater systems may be due to the greater extent,"occur in the shallow aquifer (Martin et al., 2020). Deeper in"
+of water–rock interactions compared to surface waters and,"the aquifer on RI, there is saline groundwater that has under-"
+the dissolution of 30Si-depleted secondary minerals (Basile-,gone a greater degree of seawater mixing Bryan et al. (2017).
+"Doelsch et al., 2005; Georg et al., 2009b; Pogge von Strand-",This saline RI groundwater has lower δ7Li values relative to
+"mann et al., 2014). The δ30Si values reported for groundwa-","fresh RI groundwater, suggesting that it is interacting with"
+"ter dSi are highly variable even within a single system, e.g.","the silicate basement rocks (Martin et al., 2020). Here we"
+ranging from −0.15 ‰ to +1.34 ‰ at various depths in the,assess the application of Si isotopes as a weathering proxy
+"alluvial Bengal Basin aquifer in India (Georg et al., 2009a),",in a carbonate-dominated aquifer with well-constrained hy-
++0.4 ‰ to+1.0 ‰ for volcanic springs in Iceland (Opfergelt,drogeochemical parameters for fresh and saline groundwater
+"et al., 2011), −1.4 ‰ to +0.6 ‰ in a sandstone aquifer in",combined with bedrock data. This study presents the first Si
+"Arizona, USA (Georg et al., 2009b) and −1.5 ‰ to −0.9 ‰",isotope measurements in a carbonate island aquifer system
+"in the sedimentary Great Artesian Basin, Australia (Pogge",and provides insights into subsurface weathering processes
+"von Strandmann et al., 2014). In a sandy coastal aquifer, a",on a high spatial resolution scale. We also assess the potential
+large gradient was found between the δ30Si values of the,contributions of carbonate-dominated aquifers to the global
+fresh groundwater (+1.0 ‰) and seawater (+3.0 ‰; Ehlert,Si isotope budget of the oceans.
+"et al., 2016). Although ∼ 12 % of the global SGD flux flows",
+"through carbonate aquifers (Beck et al., 2013), these sys-",
+tems have received little attention thus far. This is because,2 Study area
+"carbonates are not expected to contain much Si; however,",
+some carbonate-dominated aquifers contain copious amounts,"The surface features, hydrogeology, climate and geology of"
+"of silica-bearing material of various origins, e.g. alluvial, ae-",Rottnest Island (RI) have been characterised by Bryan et al.
+"olian, pedogenic, etc. (Muhs, 2017).","(2016, 2017, 2020) and are summarised here. Briefly, RI is"
+Here we present Si isotopic compositions of groundwa-,"a ∼ 19 km2 island located 18 km from Perth, Australia. The"
+"ter from a coastal carbonate aquifer, Rottnest Island (RI),",maximum elevation on RI is ∼ 45 m according to the Aus-
+Australia. There is a freshwater lens on RI located above a,tralian Height Datum (AHD; Fig. 1). European settlement
+"∼ 10 m freshwater–seawater transition zone (Playford et al.,","on RI in the 1830s reduced the native vegetation cover, but"
+"1977). Conventional stable isotope data (2H, 13C and 18O),","revegetation has commenced on the island, except for the"
+tritium (3H) and radiocarbon (14C) measurements show that,area above a freshwater lens located in the central part of
+the freshwater lens aquifer on RI is recharged by modern,the island to increase the groundwater recharge there. Sand
+"rainfall, which fluctuates due to climatic variations, and that","dunes are a common feature on RI, and there is an absence"
+the residence time for fresh groundwater ranges from∼ 12 to,of water courses. There are a number of hypersaline lakes at
+"36 years (Bryan et al., 2020). The stable isotope and major el-","sea level (Playford and Leech, 1977) and lower-salinity wa-"
+ples were collected from RI during two field campaigns in,yielded samples with a Si concentration of 3.6 ppm (parts per
+September 2014 and March 2015 (Fig. 1). Samples were col-,million) for isotopic analysis. As a secondary check on the
+"lected at, or just above, the well screen at the bottom of each","column yield, the columns were eluted with a further 2 mL"
+"well (maximum length= 1.5 m). Prior to sample collection,",of Milli-Q water after collecting the Si fraction and acidi-
+the monitoring and production wells were purged until the in-,fied for screening during multicollector–inductively coupled
+field parameters stabilised. A seawater sample was collected,plasma mass spectrometer (MC-ICP-MS) analyses. Solid
+from the shoreline using a peristaltic pump (Masterflex E/S,samples (RI-B01 and RI-S01) and isotopic reference ma-
+portable sampler).,terials NBS-28 (quartz sand) and IRMM-018a (silica sand)
+The rock and soil samples were collected from RI in,were dissolved by alkali fusion to avoid using hydrofluoric
+March 2017. The rock sample (RI-B01) was sampled from,acid. Approximately 10 mg of material was added to a plat-
+"an outcrop at Salmon Bay (32◦00′46′′ S, 115◦30′33′′ E). Only","inum (Pt) crucible, and the following reagents were added:"
+visibly unweathered material was sampled after removing,40 mg of LiBO2 (Sigma Aldrich; American Chemical Soci-
+weathered material using a geological hammer. The soil (RI-,"ety reagent, > 98.0 % purity) as a fluxing agent and 100 mg"
+S01) was sampled from an unvegetated ridge with an ac-,"of NaNO (Sigma Aldrich; ReagentPlus®3 , > 99.0 %) as an"
+"tively forming dune in the centre of RI, corresponding to the",oxidising agent. A procedural blank for the alkali fusion
+"area above the freshwater lens (32◦00′19′′ S, 115◦29′48′′ E;",method was also prepared. This mixture was then placed in
+Fig. 1).,a preheated muffle furnace at 950◦C using Pt-clad tongs for
+,40 min before switching off the furnace and leaving it to cool
+3.2 Analytical techniques,overnight. The fusion cakes were then dissolved in 3 mL of
+ID Groundwater,Unnamed: 0,Sampling date,Screen elevation,Cl,DO,Al,Mn,Fe,dSib,δ30Si 2 SE
+a(RI–) type,,,(m AHD),(mM),(mg L−1),(μM),(μM),(μM),(μM),(‰)
+2–77 F,,29 Sep 2014,−0.11,4.6,1.8,< 0.4,< 18,< 0.1,81.9,+0.7 ± 0.4
+3–77 F,,29 Sep 2014,−0.01,5.1,1.5,< 0.4,< 18,< 0.1,89.0,+0.7 ± 0.3
+1–83 F,,28 Sep 2014,0.09,6.1,1.6,< 0.4,< 18,< 0.1,124.6,+1.3 ± 0.5
+4–83 F,,30 Sep 2014,−0.11,4.4,4.2,< 0.4,< 18,< 0.1,113.9,+1.0 ± 0.5
+2–90 F,,29 Sep 2014,−0.50,4.2,3.6,< 0.4,< 18,< 0.1,74.8,+1.2 ± 0.5
+6–90 F,,29 Sep 2014,−0.64,6.8,3.4,< 0.4,< 18,< 0.1,135.3,+2.3 ± 0.3
+16–90 F,,28 Sep 2014,−0.28,5.9,1.3,< 0.4,< 18,< 0.1,138.9,+1.5 ± 0.6
+17–90 F,,30 Sep 2014,0.06,5.9,3.5,< 0.4,< 18,< 0.1,121.1,+1.1 ± 0.3
+3–93 F,,29 Sep 2014,−0.27,7.5,2.9,< 0.4,< 18,< 0.1,117.5,+2.6 ± 0.3
+6–93 F,,29 Sep 2014,−0.22,5.5,4,< 0.4,< 18,< 0.1,131.7,+1.6 ± 0.3
+1–94 F,,28 Sep 2014,−0.53,4.6,4.6,1.5,< 18,< 0.1,85.5,+0.2 ± 0.4
+2–94 F,,28 Sep 2014,−1.00,2.7,7.1,< 0.4,< 18,< 0.1,128.2,+1.0 ± 0.4
+1–90 T1,,29 Sep 2014,−0.90,35.1,2.5,< 0.4,< 18,< 0.1,128.2,+1.5 ± 0.5
+8–90 T1,,29 Sep 2014,−0.59,9.2,1.9,< 0.4,< 18,< 0.1,192.3,+2.8 ± 0.3
+13–90 T1,,11 Mar 2015,−3.55,74.1,0.5,< 0.4,< 18,< 0.1,NA,+1.2 ± 0.4
+21–90 T1,,26 Sep 2014,−4.04,46.4,0.3,< 0.4,36,1.8,117.5,+1.4 ± 0.3
+24–90 T1,,26 Sep 2014,−3.47,11.9,0.4,< 0.4,91,2.0,131.7,+1.2 ± 0.4
+28–90 T1,,26 Sep 2014,−1.52,27.4,1.1,< 0.4,< 18,< 0.1,113.9,−0.4 ± 0.3
+3–94 T1,,27 Sep 2014,−0.72,13.7,3,< 0.4,< 18,< 0.1,78.3,+1.8 ± 0.2
+4–94 T1,,27 Sep 2014,−1.83,8.9,2.4,< 0.4,< 18,< 0.1,174.5,+1.2 ± 0.4
+5–94 T1,,27 Sep 2014,−1.87,8.9,1.1,< 0.4,< 18,< 0.1,128.2,+0.6 ± 0.3
+5–90 T2,,27 Sep 2014,−6.90,97.0,0.4,< 1.9,36,< 0.9,195.8,+2.6 ± 0.2
+11–90 T2,,26 Sep 2014,−6.19,473.2,0.5,< 1.9,146,3.3,81.9,+3.6 ± 0.2
+15–90 T2,,26 Sep 2014,−14.92,381.0,0.2,< 1.9,328,3.0,106.8,+2.7 ± 0.4
+18–90 T2,,27 Sep 2014,−11.16,409.1,0.3,< 1.9,146,< 0.9,64.1,+2.8 ± 0.5
+25–90 T2,,27 Sep 2014,NA,225.0,0.3,30.4,55,< 0.9,99.7,+1.7 ± 0.5
+27–90 T2,,26 Sep 2014,−4.98,308.9,0.9,< 1.9,< 18,< 0.9,113.9,+2.3 ± 0.4
+31–90 T2,,28 Sep 2014,−9.20,244.2,0.3,< 1.9,1470,< 0.9,85.5,+2.1 ± 0.5
+SW-2 SW,,29 Sep 2015,NA,516.2,13.1,< 0.1,< 1,< 0.1,< 3.6,NA
+"T1 groundwater, i.e. most T1 groundwater lies within 1 SD","et al., 2015; Geilert et al., 2014; Opfergelt et al., 2017) and/or"
+"of the average δ30Si value for fresh groundwater (Fig. 4b),",(3) the adsorption of Si onto Fe-Al (oxy)hydroxides (Opfer-
+(2) the correlation between the δ30Si values and Cl concen-,"gelt et al., 2009; Oelze et al., 2014). The enrichment of the"
+trations of fresh groundwater (Fig. 3b) and (3) the correla-,heavier Si isotopes in fresh RI groundwater by secondary
+tion between δ30Si values and 3H activities when consider-,mineral formation associated with incongruent weathering
+ing all groundwater types (Fig. 5). Vertical mixing processes,conditions is supported by PHREEQC modelling employ-
+may explain the spatial pattern of groundwater δ30Si and dSi,"ing the water4f.dat database (Parkhurst and Appelo, 2013)."
+"values; for instance, the highest δ30Si values are found in",These results indicate that most fresh RI groundwater are sat-
+the northeastern portions of the freshwater lens (wells 6–,"urated with respect to secondary minerals, such as kaolinite"
+90 and 3–93). Although these groundwater are defined as,"and montmorillonite (Fig. 7), and the increase in δ30Si may,"
+"fresh in terms of their TDS concentrations (< 1 g L−1), there","therefore, be attributed to the precipitation of clay minerals."
+"is a greater degree of upward mixing of older, more saline",This is supported by the high δ7Li values of fresh RI ground-
+groundwater from the freshwater–seawater transition zone,"water (> 23 ‰), whereby 6Li is preferentially incorporated"
+"in these wells (Bryan et al., 2020). In contrast, the lowest","into secondary phases (Martin et al., 2020). Although Si and"
+δ30Si values are found in the central area of the freshwa-,Li isotopes are both useful tracers of silicate weathering pro-
+"ter lens (wells 2–77, 2–90 and 3–77) and southwestern areas","cesses, there is no correlation between δ7Li and δ30Si in RI"
+of the freshwater lens (wells 1–94 and 2–94; Fig. 6). These,"groundwater, possibly highlighting that different processes"
+groundwater wells typically receive more rainfall recharge,control the isotopic fractionation of these elements in coastal
+and have the shortest groundwater residence times according,aquifers. One key difference might be the high Li content
+"to their 3H activities (Bryan et al., 2020). Therefore, the high-","of seawater relative to meteoric groundwater, whereas dSi is"
+dSi/high-δ30Si end-member is identified as older groundwa-,a nutrient and depleted in local seawater. This is an impor-
+"ter, which is more evolved in terms of its dSi and δ30Si com-",tant distinction on RI since modern seawater intrusion (Bryan
+position. The specific role of water–rock interactions in me-,"et al., 2016) and past sea level high stands (∼ 2 m higher than"
+Mixing type,Depth (m AHD),Cl (mM),TDS (gL−1),3H (TU),14CDOC (pMC)
+Fresh,0 to −1,2.7–7.5,< 1,0.6–1.4,89–105
+T1,−1 to −7,8.9–320.9,1–21,0.2–1.0,84–98
+T2,−5 to −15,97.0–560.6,7–30,0.0–0.3,47–67
+ID,Min,Max,Average,dSi,δ30Si
+,(a),(a),(a),(μM),(‰)
+1–83,15.0,61.6,40.9,124.6,1.3
+16–90,12.0,64.0,39.4,138.9,1.5
+4–83,11.5,52.4,37.4,113.9,1.0
+6–90,26.9,63.6,53.3,135.3,2.3
+3–77,17.8,64.9,44.8,89,0.7
+"tralia, Geological Survey of Western Australia, Perth, Volume 6,","Smith, A., Massuel, S., Pollock, D., and Dillon, P.: Geohydrology of"
+"ISSN 0508-4741, 1977.",the Tamala Limestone Formation in the Perth region: Origin and
+"Pogge von Strandmann, P. A., Porcelli, D., James, R. H., van Cal-","role of secondary porosity, Water for a Healthy Country Flagship"
+"steren, P., Schaefer, B., Cartwright, I., Reynolds, B. C., and Bur-","Report series, ISSN: 1835-095X, CSIRO, Australia, 2012."
+"ton, K. W.: Chemical weathering processes in the Great Artesian","Stewart, A., Sweet, I., Needham, R., Raymond, O., Whitaker, A.,"
+"Basin: Evidence from lithium and silicon isotopes, Earth Planet.","Liu, S., Phillips, D., Retter, A., Connolly, D., and Stewart, G.:"
+"Sc. Lett., 406, 24–36, 2014.","Surface geology of Australia 1 : 1,000,000 scale, Western Aus-"
+"Pogge von Strandmann, P. A. E., Opfergelt, S., Lai, Y.-","tralia (digital dataset), Geoscience Australia: Canberra, ACT,"
+"J., Sigfússon, B., Gislason, S. R., and Burton, K. W.:","Australia, 2008."
+"Lithium, magnesium and silicon isotope behaviour accom-","Tréguer, P., Nelson, D. M., Van Bennekom, A. J., DeMaster, D. J.,"
+panying weathering in a basaltic soil and pore water pro-,"Leynaert, A., and Queguiner, B.: The silica balance in the world"
+"file in Iceland, Earth Planet. Sc. Lett., 339–340, 11–23,","ocean: a reestimate, Science, 268, 375–379, 1995."
+"https://doi.org/10.1016/j.epsl.2012.05.035, 2012.","Tréguer, P. J. and De La Rocha, C. L.: The world ocean silica cycle,"
+"Rahman, S., Aller, R., and Cochran, J.: The missing silica sink: Re-","Annu. Rev. Mar. Sci., 5, 477–501, 2013."
+"visiting the marine sedimentary Si cycle using cosmogenic 32Si,","van den Boorn, S. H., Vroon, P. Z., and van Bergen, M. J.: Sulfur-"
+"Global Biogeochem. Cy., 31, 1559–1578, 2017.","induced offsets in MC-ICP-MS silicon-isotope measurements, J."
+"Rahman, S., Tamborski, J. J., Charette, M. A., and Cochran, J.","Anal. Atom. Spectrom., 24, 1111–1114, 2009."
+K.: Dissolved silica in the subterranean estuary and the impact,"Wille, M., Sutton, J., Ellwood, M. J., Sambridge, M., Maher, W.,"
+of submarine groundwater discharge on the global marine silica,"Eggins, S., and Kelly, M.: Silicon isotopic fractionation in marine"
+"budget, Mar. Chem., 208, 29–42, 2019.",sponges: A new model for understanding silicon isotopic varia-
+"Savage, P. S., Georg, R. B., Williams, H. M., and Halli-","tions in sponges, Earth Planet. Sc. Lett., 292, 281–289, 2010."
+"day, A. N.: The silicon isotope composition of the upper","Zektser, I. and Loaiciga, H. A.: Groundwater fluxes in the global"
+"continental crust, Geochim. Cosmochim. Ac., 109, 384–399,","hydrologic cycle: past, present and future, J. Hydrol., 144, 405–"
+"https://doi.org/10.1016/j.gca.2013.02.004, 2013.","427, 1993."
+"Semeniuk, V. and Semeniuk, C.: Sedimentary fill of basin wetlands,","Zektser, I. S., Everett, L. G., and Dzhamalov, R. G.: Submarine"
+"central Swan Coastal Plain, southwestern Australia. Part 2: dis-","groundwater, CRC Press, ISBN-10: 0-8493-3576-0 (Hardcover),"
+"tribution of sediment types and their stratigraphy, Journal of the",2006.
+"Royal Society of Western Australia, 89, .185–220, 2006.","Ziegler, K., Young, E. D., Schauble, E. A., and Wasson, J. T.: Metal–"
+"Singh, S. P., Singh, S. K., Bhushan, R., and Rai, V. K.: Dissolved",silicate silicon isotope fractionation in enstatite meteorites and
+silicon and its isotopes in the water column of the Bay of Bengal:,"constraints on Earth’s core formation, Earth Planet. Sc. Lett.,"

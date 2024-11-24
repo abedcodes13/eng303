@@ -1,0 +1,24 @@
+"Table 2","","","","",""
+"Estimates of recharge based on Watertable Fluctuation Method (QA = Quaternary, wOV = weathered Older Volcanics, NA = not applicable where aquifer is con-","","","","",""
+"ﬁned). DTW = Depth to Water (m Below Ground Level); WTF = Water table ﬂuctuation-based recharge (Healy and Cook, 2002). Bore locations shown on Fig. 6.","","","","",""
+"Bore ID","Lithology","DtW (mbgl)","WTF","","Comments"
+"","","","mm/yr","% rainfall",""
+"BH 1","OV","6","< 10","< 3","Minor seasonal response of water levels to rainfall but interrupted logger recording. Diﬃculty completing"
+"","","","","","reliable analysis."
+"BH 2","wOV","14","NA","NA","Hydrograph did not exhibit suﬃcient response to daily or seasonal rainfall. Consistent with soil moisture data at"
+"","","","","","this location."
+"BH 3S","wOV","5","5–12","0.6–1.6%",""
+"BH 4S","wOV","3","80–200","10–25%","Other data (EC, soil moisture,
+isotopes) indicate that recharge is from periodic leakage from new constructed"
+"","","","","","wetland, not vertical rainfall
+inﬁltration."
+"BH 5","wOV","2","12–16","1.5–2.1%","Seasonal water level response to rainfall"
+"BH 6","QA/Childers Fm","22","40–120","5–15%","Data reliability low due to deep water table and short duration time series"
+"BH 7","wOV","3","32–112","4–14%","Clear water table response for larger rainfall events (> 20 mm);
+likely inﬂuence from nearby wetland."
+"BH 8","wOV","3","16–72","2–9%","Clear water table response for larger rainfall events (> 20 mm);
+likely inﬂuence from nearby wetland."
+"BH 9","Childers Fm","10","NA","NA","Bore is screen in Childers Formation water table. However, no response in water level to rainfall events with"
+"","","","","","overlying unsaturated Older Volcanics acting as conﬁning layer."
+"BH 10","Siltstone","2","16–112","2–14%","Clear water table response for larger rainfall events (> 20 mm)"
+"RBG 12","QA","2","70–133","9–17%","Clear water table response to rainfall events."

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Table A1,,,,,,,,,,,,,,
+bore,δ<s>13</s>C-,δ<s>18</s>O-,δ<s>2</s>H-,D,<s>14</s>C,<s>36</s>Cl/Cl,<s>13</s>C-,δ<s>13</s>C-,δ<s>2</s>H-CH<s>4 </s>,<s>87</s>Sr/<s>86</s>Sr,tritium,<s>34</s>S-,<s>18</s>O-SO<s>4 </s>,Formation
+,DIC,H<s>2</s>O,H<s>2</s>O,excess,-DIC,(x10–<s>15</s>),CH<s>4 </s>,CO<s>2 </s>,,,,SO<s>4 </s>,,
+,VPDB,VSMOW,VSMOW,‰,pMC,,VPDB,VPDB,VSMOW,,tritium,VCDT,VSMOW,
+,‰,‰,‰,,,,‰,‰,‰,,ratio,‰,‰,
+,,,,,,,,,,,TU,,,
+G06,(cid:0) 12.5,(cid:0) 6,(cid:0) 38,10,,,(cid:0) 63,(cid:0) 17.9,,0.706889,,,,Gubberamunda
+M15,(cid:0) 11.9,(cid:0) 5.7,(cid:0) 37,8.6,,,,(cid:0) 20.7,,0.705762,,10.7,14.6,Mooga
+O01,(cid:0) 13.9,(cid:0) 5.1,(cid:0) 32,8.8,,,(cid:0) 78.7,(cid:0) 20.8,(cid:0) 200,0.704651,,25.6,18.5,Orallo
+M02,(cid:0) 4.2,(cid:0) 6,(cid:0) 39,9,,,(cid:0) 79.7,(cid:0) 11.6,(cid:0) 230,0.704637,,,,Mooga
+G04,(cid:0) 12.5,(cid:0) 5.9,(cid:0) 35,12.2,,,(cid:0) 81.9,,(cid:0) 335.7,0.704835,,,,Gubberamunda
+,,,,,,,,,,,,,,(continued on next page)

@@ -1,0 +1,32 @@
+0,1,2,3
+Table 3,,,
+Symbol,Description,November,May
+,,2009,2010
+Q0,River flow (m3 s1),10.2,22.0
+E,Evaporation (mm d1),7,5
+w,River Width (m),50,55
+d,River depth (m),1.5,2.0
+h,Hyporheic zone depth (m),1.0,1.0
+h,Hyporheic zone porosity,0.4,0.4
+th,,0.25,0.25
+c,,0.2,0.2
+,(Bq L1 d1),,
+c0-RN,Initial 222Rn activity,0.5,0.5
+c0-CFC,,135,135
+c0-SF6,,–,0.15
+c0-HE,Initial F(4He),–,1.0
+kRN,"222 
+1)",1.0,1.0
+,Rn gas transfer velocity (m d,,
+kCFC,,1.0,1.0
+kSF6,,–,0.9
+kHE,,–,2.5
+k,"222 
+1)",0.181,0.181
+,Rn decay (d,,
+Q1,,0.6,1.2
+,Creek; m3 s1),,
+c1-RN,,1,1
+c1-CFC,Tributary CFC-12 (pg kg1),135,135
+c1-SF6,Tributary SF6 (pg kg1),–,0.15
+c1-HE,Tributary F(4He),–,1.0

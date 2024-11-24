@@ -1,0 +1,42 @@
+"b",""
+"0",""
+"2
+0
+1","3
+4
+5"
+"","Cl (mmol l<s>-1</s>)"
+"Fig. 6. Variations in Na/Cl (6a) and Cl/Br (6b) with Cl concentrations (data from Table A1). Overall weathering and salt (e.g., halite or anthropogenic sources of Cl) dissolution",""
+"are minor. Shaded boxes are typical composition in non-coastal rainfall in southeast Australia (e.g., Blackburn and McLeod, 1983; Herczeg et al., 2001; Cartwright et al., 2006,",""
+"2014; Crosbie et al., 2012; Cartwright and Morgenstern, 2015, 2016a,b).",""
+"4.5.Modelled<s>3</s>Hactivities","Themeantransittimesatthemodeloutletdecreaseasr<s>2</s>ln(K)"
+"","increases. The homogeneous model has a mean transit time of 72"
+"The<s>3</s>HactivitiesattheoutletoftheFEFLOWmodelgenerally","years. Mean transit times for the other sets of simulations are: 62."
+"decrease with depth (Fig. 7), which is
+a
+similar
+trend to that","9±4.5yearsforr<s>2</s>ln(K)=0.3;54.2±9.1yearsforr<s>2</s>ln(K)=1.0;4"
+"observed in the exponential
+lumped parameter model (e.g., Cook","7.7±12.5yearsforr<s>2</s>ln(K)=2.5;and50.5±13yearsforr<s>2</s>ln(K)"
+"and Bohlke, 2000; Jurgens et al., 2012). Not surprisingly, the mean","= 4.0. The decrease in mean transit times are due to the presence"
+"transit
+timeofwatercorrelateswiththemean<s>3</s>Hactivityatthe","of
+interconnected
+high
+K
+pathways
+that
+become
+increasingly"
+"model outlet (Fig. 8). The geometry of the FEFLOW model is similar","prevalent
+asr<s>2</s>ln(K)increases. The
+variability of mean transit"
+"to that of
+the exponential
+lumped parameter model. However,","timesalsoincreaseswithincreasingr<s>2</s>ln(K).Fora<s>3</s>Hactivityof"
+"even for the homogeneous model,
+the mean transit
+times at any","1.5TU,therangeofmeantransittimesare(cid:4)3yearsforr<s>2</s>ln(K)"
+"given<s>3</s>HactivitypredictedfromtheFEFLOWmodelarelonger","=0.3increasingto(cid:4)6yearsforr<s>2</s>ln(K)=4.0.Forthewholerange"
+"(Fig. 8). This is due to the FEFLOW model incorporating dispersion,","of simulations, the range in mean transit times at 1.5 TU is 10 years"
+"which is not present in the exponential lumped parameter model.","(Fig. 8)."

@@ -1,0 +1,165 @@
+"640
+W. Howcroft et al.: Mean transit times in headwater catchments"
+"3.2
+Geochemical analyses
+tween catchment attributes and other parameters are consid-"
+"eredtobestrongwhereR<s>2</s>≥0.7."
+"The electrical conductivity (EC) and pH of
+the river water"
+"3.4
+Calculating mean transit times"
+"and precipitation samples was measured in the ﬁeld using a"
+"calibratedTPS<s>®</s>hand-heldwaterqualitymeterandprobes."
+"The
+lumped parameter models
+implemented in the Trac-"
+"TheECmeasurementshaveaprecisionof1µScm<s>−1</s>.Cation"
+"erLPM Excel workbook (Jurgens et al., 2012) were used to"
+"concentrations were measured at Monash University using"
+"estimateMTTs.The<s>3</s>Hactivityofwatersampled from a"
+"a Thermo Fischer
+ICP-OES on samples
+that had been ﬁl-"
+"streamattimet(C<s>0</s>(t))isrelatedtotheinput(C<s>i</s>)of<s>3</s>Hvia"
+"tered through 0.45 µm cellulose nitrate ﬁlters and acidiﬁed"
+"the convolution integral:"
+"toapH<2usingdouble-distilled16MHNO<s>3</s>.Anioncon-"
+"∞
+centrations were measured at Monash University on ﬁltered,"
+"Z"
+"unacidiﬁed samples using a Metrohm ion chromatograph."
+"(1)
+C<s>i</s>(t−T)g(T)e<s>−λT</s>dT,C<s>0</s>(t)="
+"The precision of the cation and anion analyses, based upon"
+"0"
+"replicate sample analysis,
+is ±2 % while accuracy based on"
+"T
+t − T
+where
+is
+the
+transit
+time,
+is
+the
+time
+that
+the
+analysisofcertiﬁedwaterstandardsis±5%.HCO<s>3</s>concen-"
+"groundwater entered the ﬂow system, λ is
+the decay con-
+trationsweremeasuredbycolorimetrictitrationwithH<s>2</s>SO<s>4</s>"
+"using a Hach digital
+titrator and reagents and are precise to
+stant
+(0.0563yr<s>−1</s>for<s>3</s>H),andg(T)istheexitagedistri-"
+"±5 %. Concentrations of total dissolved solids (TDSs) were
+bution function,
+for which closed-form analytical solutions"
+"determined by summing the concentrations of cations and
+have been derived (e.g. Maloszewski and Zuber, 1982, 1992,"
+"anions. Geochemical data are presented in the Supplement.
+1996; Kinzelbach et al., 2002). MTTs were estimated by"
+"<s>3</s>HanalysiswasconductedattheGNSWaterDatingLab-matchingthepredicted<s>3</s>HactivitiesfromtheLPMstothe"
+"oratory in Lower Hutt, New Zealand. The samples were vac-
+observed<s>3</s>Hactivitiesofthesamples."
+"uum distilled and electrolytically enriched prior
+to analysis
+As discussed earlier,
+the use of
+single
+<s>3</s>Hactivitiesto"
+"by liquid scintillation counting, as described by Morgenstern
+estimate MTTs
+requires
+that
+an LPM be
+assigned. Here"
+"and Taylor (2009). Following further improvements the sen-
+two LPMs were utilised:
+the exponential piston-ﬂow model"
+"sitivity is now further
+increased to a lower detection limit
+(EPM) and the dispersion model
+(DM), which are among"
+"of 0.02 TU (tritium units) via tritium enrichment by a fac-
+the most commonly used LPMs (McGuire and McDonnell,"
+"tor of 95, and reproducibility of tritium enrichment of 1 % is
+2006; Stewart
+et
+al.,
+2010). The EPM describes ﬂow in"
+"achievedviadeuteriumcalibrationforeverysample.<s>3</s>Hac-aquifers with both exponential and piston-ﬂow portions. This"
+"tivities are expressed as absolute values in tritium units where
+model may be applied to unconﬁned aquifers where recharge"
+"1TUrepresentsa<s>3</s>H/<s>1</s>Hratioof1×10<s>−18</s>.Theprecisionthrough the unsaturated zone resembles piston ﬂow and ﬂow"
+"(1σ ) is ∼ 1.8 % at 2 TU.
+within the aquifer resembles exponential ﬂow (Morgenstern"
+"et al., 2010). TracerLPM deﬁnes an EPM ratio, which repre-"
+"sents the relative contribution of exponential and piston ﬂow
+3.3
+Catchment attributes"
+"(Jurgens et al., 2012). The EPM ratio is 1/f − 1, where f is"
+"Catchment attributes
+(Table 1) were determined using Ar-
+the proportion of aquifer volume exhibiting exponential ﬂow."
+"cGIS 10.2 (ESRI, 2013) and datasets from DataSearch Vic-
+The dispersion model
+is based on the one-dimensional"
+"toria (2015). The hydrology modelling tools in ArcGIS were
+advection–dispersion equation for
+a
+semi-inﬁnite medium"
+"used
+to
+generate
+the
+stream network
+from a
+20 m digi-
+(Jurgens et al., 2012). While this model can be applied to"
+"tal elevation model. A threshold catchment area of 50 Ha
+a wide variety of aquifer conﬁgurations, conceptually it
+is"
+"reproduces
+the observed perennial
+stream network of
+the
+probably less realistic than other LPMs. Nonetheless,
+it has"
+"area. Catchment areas upstream of each sampling site and
+been successfully used to predict
+tracer concentrations over"
+"drainage densities were determined using the watershed tool.
+time in a number of ﬂow systems (e.g. Maloszewski, 2000)."
+"Mean slopes were calculated using the spatial analysis tools.
+Utilisation of
+this model
+requires deﬁning a dispersion pa-"
+"Vector-based land use datasets were converted to raster for-
+rameter,D<s>p</s>,whichrepresentstheratioofdispersiontoad-"
+"mats and reclassiﬁed. Land use was assigned as forest (native
+vection."
+"vegetation and plantations) and cleared land, which includes
+Theaverageannual<s>3</s>Hactivitiesofmodernrainfallincen-"
+"urban and agricultural regions. Runoff coefﬁcients were cal-
+tral and southeastern Australia are predicted to vary between"
+"culated using streamﬂow data for each of the catchments (ex-
+2.4and3.2TU(Tadrosetal.,2014).<s>3</s>Hactivitiesof9-to"
+"cept Upper Lardners) for March 1986 to July 1990 (Depart-
+17-month rainfall
+samples
+from elsewhere in Victoria are"
+"ment of Environment, Land, Water, and Planning, 2017), the
+between 2.72 and 2.99 TU (Atkinson, 2014; Cartwright and"
+"only interval for which continuous streamﬂow data are avail-
+Morgenstern, 2015; Cartwright et al., 2018) and fall within"
+"able for each catchment. The runoff coefﬁcient calculations
+therangeofpredicted<s>3</s>Hactivitiesfortheirlocations.Inter-"
+"assumed a uniform average annual rainfall of 1.3 m for each
+polating the data from that study suggests that modern rain-"
+"catchment (Bureau of Meteorology, 2016). Correlations be-
+fallintheOtwayRangeshasanannualaverage<s>3</s>Hactivityof"
+"Hydrol. Earth Syst. Sci., 22, 635–653, 2018
+www.hydrol-earth-syst-sci.net/22/635/2018/"

@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+Fig. 6.,(a) Noble gas,fractionation factors,,,,,
+,,,,Table 3,,,
+"(e.g.,",springs),"indicate
+increased",,,,,
+,,,,Symbol,Description,November,May
+,,,,,,2009,2010
+,,,,Q<s>0</s>,,10.2,22.0
+,,,,E,,7,5
+,,,,w,River Width (m),50,55
+,,,,d,River depth (m),1.5,2.0
+,Modelling was,completed,"for
+low ﬂow conditions
+during",,,,
+,,,,h,Hyporheic zone depth (m),1.0,1.0
+,,,,h,Hyporheic zone porosity,0.4,0.4
+,,,,t<s>h</s>,,0.25,0.25
+,,,,c,,0.2,0.2
+,environmental,tracer,,,,,
+,,,,c<s>0-RN</s>,Initial<s>222</s>Rnactivity,0.5,0.5
+,,,,c<s>0-CFC</s>,,135,135
+,,,,c<s>0-SF6</s>,,–,0.15
+,,,,c<s>0-HE</s>,InitialF(<s>4</s>He),–,1.0
+,,,,k<s>RN</s>,,1.0,1.0
+,,,,k<s>CFC</s>,,1.0,1.0
+,,,,k<s>SF6</s>,,–,0.9
+,,,,k<s>HE</s>,,–,2.5
+,,,,k,,0.181,0.181
+,,,,Q<s>1</s>,,0.6,1.2
+,,,,c<s>1-RN</s>,,1,1
+"oration,",gas,"exchange,",,,,,
+,,,,c<s>1-CFC</s>,,135,135
+zone).,,,,c<s>1-SF6</s>,,–,0.15
+,,,,c<s>1-HE</s>,TributaryF(<s>4</s>He),–,1.0
+,,,"concentration of
+SF<s>6</s>",,,,

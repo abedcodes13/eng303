@@ -1,0 +1,200 @@
+"Fig. 2. a. Daily rainfall at Forrest (Bureau of Meteorology, 2018). 2b. Streamﬂow in the Upper Gellibrand River at gauge 235202 (Fig. 1) and ﬂow from the soil pipe."
+"time that streamﬂows between 1990 and 2017 at gauge
+Dashed lines show timing of geochemical sampling. 2c. Flow frequency curve showing the percentage of"
+"235202 were exceeded. Symbols show timing of geochemical sampling. Streamﬂow data from Department of Land, Water, Environment and Planning (2018)."
+"piston and exponential ﬂow.
+For
+an EPM ratio
+of 0,
+the model
+is
+Meyer-Olkin measure of
+sample
+adequacy is 0.54 and applying the"
+"equivalent
+to the exponential ﬂow model, whereas EPM ratios of > 5
+Bartlett sphericity test produces a chi-squared statistic for 21 degrees of"
+"produces a model
+that
+is close to piston ﬂow. The dispersion model
+is
+freedom of 419 with a
+signiﬁcance
+of < 0.001. This
+indicates
+that"
+"derived
+from the
+one-dimensional
+advection-dispersion
+transport
+variables are not orthogonal, but are correlated. A varimax rotation was"
+"equation. This model requires a dispersion parameter (DP), which de-
+used to reduce the overlap of the original variables."
+"scribes the relative importance of dispersion relative to advection, to be"
+"deﬁned
+(DP is
+the
+inverse
+of
+the more
+commonly
+reported Peclet"
+"3.4. Estimating mean transit
+times"
+"number). These lumped parameter models have reproduced the time"
+"series
+of
+tracer
+concentrations
+(including
+<s>3</s>H)in similar
+scale ﬂow"
+"Mean transit
+times
+(τ<s>m</s>)wereestimatedusinglumpedparameter"
+"systems elsewhere (e.g., Maloszewski and Zuber, 1982; Maloszewski,"
+"models
+implemented in an updated version (TracerLPM V2) of
+the"
+"2000; Zuber et al., 2005; Blavoux et al., 2013; Gusyev et al., 2013;"
+"TracerLPM Excel workbook (Jurgens
+et al., 2012)
+that
+includes
+the"
+"Morgenstern et al., 2015). The gamma model
+(Amin and Campana,"
+"gamma model
+(AminandCampana,1996).The<s>3</s>Hactivityofwater"
+"1996; Kirchner et al., 2000; Hrachowitz et al., 2010a) has
+two para-"
+"sampledattimet(C<s>o</s>(t))isrelatedtotheinputof<s>3</s>H(C<s>i</s>)overtimevia"
+"meters: α describes
+the transit
+time distribution; and β is a scaling"
+"the convolution integral:"
+"parameter
+the gamma model becomes
+the ex-
+(τ<s>m</s>=αβ).Atα=1,"
+"∞"
+"ponential model and at α > 1 it
+reproduces
+the long tails of
+tracers"
+"λτ
+−"
+"C
+t
+C t
+τ
+g
+τ
+e
+dτ
+(
+)
+−
+)
+(
+)
+∫<s>=</s>"
+"o
+that are commonly observed in ﬂow systems."
+"(1)
+0"
+"Response functions
+for
+these lumped parameter models are sum-"
+"marised by Maloszewski and Zuber (1982), Amin and Campana (1996),
+τ"
+"(Maloszewski
+and Zuber, 1982; Maloszewski, 2000) where
+is
+the"
+"Zuber et al. (2005), Kirchner et al. (2000), Hrachowitz et al. (2010a),"
+"transit time,
+t-τ is the time when water entered the catchment, λ is the"
+"and
+Jurgens
+et
+al.
+(2012). Mean
+transit
+times were
+calculated
+by"
+"decay constant (0.0563 yr
+<s>−1</s>for<s>3</s>H),andg(τ)istheresponsefunction"
+"matchingthemeasured<s>3</s>Hactivityinthesamplewiththatpredicted"
+"that describes the distribution of ﬂow paths and ages in the ﬂow system."
+"from the lumped parameter model. Mean transit times are related to the"
+"Theannualaverage<s>3</s>HactivitiesofrainfallinMelbourne(Tadrosetal.,"
+"volume of
+the water
+store (V)
+that generates
+the discharge from the"
+"2014;InternationalAtomicEnergyAgency,2017)wereusedasthe<s>3</s>H"
+"catchment (Q) via"
+"input
+function.
+<s>3</s>Hactivitiesofrainfall
+in Melbourne peaked at ap-"
+"proximately
+62 TU in
+1965
+and
+then
+declined
+exponentially. The"
+"(2)
+V=Qτ<s>m</s>"
+"average annual
+<s>3</s>Hactivitiesofpresent-dayrainfallin this area are"
+"(Maloszewski and Zuber, 1982; Morgenstern et al., 2010; Gusyev et al.,
+approximately
+2.8
+TU
+(Tadros
+et
+al.,
+2014;
+Cartwright
+and"
+"2016).
+Morgenstern, 2015, 2016a; Howcroft
+et
+al., 2018; Hofmann et
+al.,"
+"2018).A<s>3</s>Hactivityof2.8TUwasalsousedforrainfallfromtheyears"
+"before the atmospheric nuclear tests.
+4. Results"
+"Several lumped parameter models were considered. The exponential"
+"ﬂow model applies
+to homogeneous unconﬁned aquifers of constant
+4.1. Streamﬂow and pipe ﬂow"
+"thickness with uniform recharge where water from the entire aquifer is"
+"sampled via a fully penetrating well or stream. The exponential-piston
+Both the streamﬂow and the volume of water discharging from the"
+"ﬂow model describes ﬂow in unconﬁned aquifers with regions of ver-
+soil pipes were seasonably variable. Higher streamﬂows resulting from"
+"tical
+recharge
+through the unsaturated zone
+(piston ﬂow)
+above
+a
+a combination of higher rainfall (Fig. 2a) and lower evapotranspiration"
+"groundwater
+ﬂow
+system with
+an
+exponential
+age
+distribution.
+rates occurred in the austral winter months (Fig. 2b). During the sam-"
+"TracerLPM uses
+the EPM ratio to specify the relative importance of
+pling period between January 2011 and December 2013, streamﬂows"

@@ -1,0 +1,90 @@
+"10.1002/2014WR015663
+Water Resources Research"
+"correction factor
+to the tritium input curve, accounting for
+the continental effect
+[Tadros et al., 2014]. The"
+"river system itself can have a mean residence time of months to years [Aggarwal et al., 2010], which can be"
+"accounted for
+if a tritium time series is available. Because no such time series is available for
+the Namoi"
+"River, here the mean residence time was assumed to be comparably short and constant. Carbon-14 in"
+"atmosphericCO<s>2</s>needstobetranslatedinto<s>14</s>Cintotaldissolvedinorganiccarbon(TDIC)ofriverwateror"
+"groundwater
+to take into account
+the input of
+‘‘dead’’<s>14</s>Cbycarbonatedissolution.Thiscanbeaccom-"
+"plished by using a correction factor <1, and this factor may vary with time if the geochemical environment"
+"the river water and
+isnotconstant.Furthermore,SF<s>6</s>concentrationswillbeinﬂuencedbytemperatureof"
+"by excess air generated when the river water inﬁltrates. Both processes together can change the resulting"
+"SF<s>6</s>concentrationbyafactoroftwo.Lastly,manypiezometers(especiallythedeeperones)appearedamix-"
+"ture between an old and a young groundwater source. This mixture must be quantiﬁed to estimate an MRT"
+"for each source. Here a stepwise approach was used to evaluate the inﬂuence of
+these factors for each"
+"tracer."
+"In a ﬁrst step,
+the correction factors needed to adapt
+the<s>3</s>Hand<s>14</s>Cinputfunctions for
+river water were"
+"evaluated.Thesurfacewatersamplewasbestdescribedusingacorrectionfactorof1.25onthe<s>3</s>Hinput"
+"curve. This is reasonable in view of a higher continental
+inﬂuence of the Namoi catchment as compared to"
+"Kaitoke where the record originates [Tadros et al., 2014]. All
+tested models (that
+is, PM, EM, DM, LM, and"
+"GM) were in agreement
+forsurfacewaterbeingdilutedbyafactorof0.96in<s>14</s>Cactivityrelativetothe"
+"atmosphericrecord.Usingtheadjustmentstothe<s>3</s>Hand<s>14</s>Cinputfunctions,theriverwatersamplecould"
+"be ﬁtted with an MRT of less than a year in all LPM (Figure 11a). However, no LPM could simultaneously ﬁt"
+"allmeasuredgroundwatersamplesinthe<s>3</s>H/<s>14</s>Cparameterspace(Figures11aand11b).Morespeciﬁcally,"
+"all models could provide a reasonable ﬁt to the shallow groundwater samples but none could ﬁt the deeper"
+"samples. The best ﬁtting model for all samples was the Dispersion Model with Pe 5 0.1 (Figure 11b), consist-"
+"ent with an environment where solute dispersion is important. The inference from these patterns is that"
+"two ﬂow systems were present: a shallow one mostly containing inﬁltrated river water moving away from"
+"the river and a deeper one containing various mixtures of young and old groundwater."
+"In the next step, the Dispersion Model was used to evaluate the environmental controls on tracer concen-"
+"trations in the aquifer. While not providing a universal ﬁt, the DM is easier to interpret and was thought to"
+"reasonably represent
+the process of solute transport, at
+least
+for
+the shallow samples. Dispersion models"
+"witharangeinPe(0.1–5)weretestedandareasonableﬁtwasobtainedforPe(cid:3)0.1formostofthe<s>3</s>Hand"
+"<s>14</s>Cdata(Figure11b).However,GW098207/1and2211/2hadlower<s>14</s>Cvaluesthanallmodelcurvesand"
+"GW098211/1hadahigher<s>14</s>Cvaluethanallcurves.Onepossibilitytoexplainthisﬁndingisthatthefactor"
+"0.96appliedtotranslatetheatmospheric<s>14</s>CinputfunctionintoTDIC<s>14</s>Cvaluesinwaterisnotconstantas"
+"wasassumedhere.ForthesamerangeinPe,all<s>3</s>H/<s>14</s>Csamplescanbeaccountedforwhenthe<s>14</s>Cinput"
+"function correction factor ranges between 0.91 and 0.97 (Figure 11c). When combining both the uncertainty"
+"inPeand<s>14</s>Cinputfunction,acomparablywiderangeinMRTisfoundforeachpiezometer(Table1).Peak"
+"TransitionAges(t<s>peak</s>)werealsoestimatedforthe<s>3</s>H/<s>14</s>Csamplesbecausethismetricispotentiallyabetter"
+"indicator of
+transit
+times when solute transport
+is highly inﬂuenced by dispersion [Weissman et al., 2002]"
+"and can be estimated from"
+"p
+(cid:5)
+(cid:6)
+MRT"
+"ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ"
+"91Pe<s>2</s>23
+(3)
+t<s>peak</s>5"
+"Pe"
+"Thet<s>peak</s>rangeforthe<s>3</s>H/<s>14</s>CsampleswasalsowidebutdifferentthantheMRTrange(Table1).Forexam-"
+"ple,forGW098211/1,MRTwas4–12yearsandt<s>peak</s>was0.07–1.9years.Alternativedispersionmodelscom-"
+"biningSF<s>6</s>and<s>3</s>HwereusedtoattempttonarrowtheMRTort<s>peak</s>rangeestimatedforeachpiezometer."
+"However,themaininﬂuencefactoronSF<s>6</s>concentrationistemperatureandexcessair(Figure11d),sothe"
+"uncertaintyinMRTort<s>peak</s>couldnotbereduced.Dispersionandmixingprocessesintheriparianzonemay"
+"betoocomplextobeaccuratelyrepresentedbyLPM,buttheMRTandt<s>peak</s>obtainedareastartingpointto"
+"estimate a likely range in inﬁltration rates. Below,
+the magnitude of
+the inﬁltration rate is estimated using"
+"therangeinMRTandt<s>peak</s>estimatedusingtheDispersionModelwithPe50.1–1."
+"4.2. Infiltration Rates"
+"In losing-connected aquifers, net
+recharge is often less than inﬁltration because a part of
+the water
+inﬁl-"
+"trated during ﬂow pulses eventually returns to the river [Freeze and Cherry, 1979; V(cid:2)azquez-Su~n(cid:2)e et al., 2007]."

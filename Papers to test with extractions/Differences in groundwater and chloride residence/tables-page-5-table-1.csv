@@ -1,0 +1,155 @@
+"158
+W. Howcroft et al. / Chemical Geology 451 (2017) 154–168"
+"of groundwater, is difﬁcult to determine but only becomes signiﬁcant
+<s>36</s>ClanalysiswasconductedattheAustralianNationalUniversity"
+"after about ﬁve half-lives (Clark and Fritz, 1997).
+(ANU) using accelerator mass spectrometry (AMS) and techniques de-"
+"Chloride residence or accession times can also be estimated from:
+scribedbyFiﬁeld(1999)andFiﬁeldetal.(2013).<s>36</s>Clactivitiesare"
+"expressedasR<s>36</s>Cl,whereR<s>36</s>Cl=<s>36</s>Cl/Cl×10<s>−15</s>.Uncertaintiesin"
+"theR<s>36</s>Clvaluesarederivedfromthecountingstatisticsofthenumber"
+"t¼Cl<s>gw</s>(cid:2) b (cid:2) n
+ð3Þ"
+"of<s>36</s>Clcountscombinedinquadraturewitha3%reproducibilityuncer-m<s>Cl</s>"
+"tainty. Uncertainties for the samples measured range between 5 and 6%."
+"<s>14</s>CanalysiswasperformedattheRafterRadiocarbonLaboratoryofwhereCl<s>gw</s>isthechlorideconcentrationingroundwaterinmg/m<s>3</s>,m<s>Cl</s>"
+"the Institute of Geological and Nuclear Sciences (GNS) in Lower Hutt,
+isthechloridedepositionratefromprecipitationinmg/m<s>2</s>/year,bisthe"
+"New Zealand. Analysis was conducted by ﬁrst converting the DIC in
+saturated thickness of the aquifer in m, and n is aquifer porosity. Eq. (3)"
+"allows estimates of the time required for Cl in groundwater to accumu-
+thewatersamplestoCO<s>2</s>usingH<s>3</s>PO<s>4</s>,re-combustingtheCO<s>2</s>withsil-"
+"late using parameters that are commonly known, or which can easily be
+verwiretoremovesulphur,andconvertingtheCO<s>2</s>tographite.<s>14</s>Cac-"
+"tivitieswerethendeterminedonthegraphiteusingAMS.<s>14</s>Cactivitiesestimated. However, the Cl deposition rate is implicitly assumed to have"
+"remained constant with time, runoff is considered to be negligible and
+(a<s>14</s>C)areexpressedaspMC(percentmoderncarbon)wherepMC="
+"100%correspondsto95%ofthe<s>14</s>CactivityoftheNationalBureauofinput by precipitation is assumed to be the only source of chloride with-"
+"in the aquifer.
+Standards (NBS) oxalic acid standard (Stuiver and Polach, 1977)."
+"<s>3</s>HanalysiswasconductedattheGNSWaterDatingLaboratoryin"
+"4. Results
+Lower Hutt, New Zealand. The samples were distilled and electrolytical-"
+"ly enriched prior to analysis by liquid scintillation counting, as described"
+"Groundwater elevations and the geochemistry of precipitation,
+byMorgensternandTaylor(2009).<s>3</s>Hactivitiesareexpressedintritium"
+"units (TU) with a relative uncertainty and quantiﬁcation limit of ± 2%
+groundwater, and Lake Murdeduke lake water and salt
+crust are"
+"summarised in Tables 1 and 2.
+and 0.02 TU, respectively."
+"4.1. Groundwater elevations and head gradients
+3.3. Groundwater residence times"
+"Groundwater elevations ranged from approximately 63.59 m AHD at
+Groundwater residence times were estimated from the measured"
+"<s>14</s>CactivitiesofDICvia:bore 111232 to 230.12 m AHD at bore 112241. Shallow groundwater"
+"ﬂow direction is generally to the east-southeast, except for an area of
+(cid:1)
+(cid:3)"
+"qA<s>0</s>groundwater mounding immediately to the east of Lake Murdeduke"
+"(cid:2)
+ln
+ð1Þ
+t ¼ 1"
+"λ
+A"
+"(Figs. 1a, 1b and 2). Horizontal head gradients ranged from 0.002 to"
+"0.008. Vertical head gradients ranged from 0.003 to 0.586 and were"
+"downward except at bore pairs 110190/110191 and 110194/110195,
+(Clark
+and
+Fritz,
+1997), where λ is
+the
+<s>14</s>Cdecay
+constant"
+"which are located between Lake Murdeduke and the Barwon River,
+(1.21×10<s>−4·</s>yr<s>−1</s>),Aisthemeasured<s>14</s>Cactivity,A<s>0</s>istheinitial<s>14</s>C"
+"where the gradients were upwards.
+activity in the recharging water (assumed to be 100 pMC), and q is"
+"the proportion of DIC derived from the recharging water. Use of this ap-"
+"4.2. Major ion geochemistry
+proach assumes that q is known, or can be reasonably estimated, and"
+"It is also assumed that the
+thatA<s>0</s>hasremainedconstantovertime."
+"4.2.1. Precipitation
+sampled water has taken a direct ﬂow path from the point of recharge"
+"The EC of precipitation ranged from 61.9 to 94.9 μS/cm while TDS
+to the sampling point with no mixing or dispersion (i.e., piston ﬂow)."
+"ranged from 25 to 43 mg/L. Cl concentrations of the precipitation ranged
+These are simplifying assumptions; nevertheless, Eq. (1) is commonly"
+"from 8.5 to 15.7 mg/L, which is higher than the mean concentrations re-
+used to estimate groundwater residence times."
+"ported by Blackburn and McLeod (1983) for Kybybolite (6.6 mg/L) in
+Groundwater residence times were also estimated using TracerLPM"
+"western
+Victoria
+and
+by
+Crosbie
+et
+al.
+(2012)
+for Melbourne
+(Jurgens et al., 2012), which is an Excel-based program that estimates"
+"(5.36 mg/L). The higher Cl concentrations in rainfall
+in the Barwon
+mean
+residence
+times
+(MRTs)
+using
+lumped
+parameter models"
+"River Catchment may be due to evaporation within the collectors, aeo-
+(LPMs).UseofthisapproachreadilyallowsvariationinA<s>0</s>withtime"
+"lian transport of salt from Lake Murdeduke and/or addition of salts pre-
+to be accounted for.
+In addition, it is not necessary to assume piston"
+"viously captured by overlying vegetation.
+ﬂow. However, LPMs are based upon simpliﬁed aquifer geometries,"
+"Molar Cl/Br ratios of precipitation ranged from 637 to 981 (Fig. 3a),
+which may not always strictly apply to a given ﬂow system. Further-"
+"which are slightly higher than the value of ~ 650 which characterises
+more, tracer input histories are in many cases incomplete and must"
+"seawater and coastal rainfall (Drever, 1997; Davis et al. 1998, 2001).
+therefore be interpolated. Nonetheless, the use of LPMs allows the im-"
+"Molar Na/Cl ratios (Fig. 3b) ranged from 0.55 to 0.93, which are similar
+pactofprocessessuchasdispersionon<s>14</s>Cactivitiestobeaddressed."
+"to that of both seawater (~0.86) and rainfall in southeast Australia (0.6"
+"to 1.1, Hutton and Leslie, 1958; Blackburn and McLeod, 1983; Crosbie
+3.4. Chloride residence times"
+"et al., 2012)."
+"ChlorideresidencetimesmaybeestimatedusingmeasuredR<s>36</s>Cl"
+"4.2.2. Lake Murdeduke water and salt crust
+values in groundwater and:"
+"The water from Lake Murdeduke had an EC of 106,300 μS/cm, a TDS"
+"R−R<s>se</s>concentration of 240,480 mg/L, and a Cl concentration of 138,812 mg/L."
+"(cid:2)
+ln
+t ¼ − 1
+ð2Þ"
+"λ"
+"The TDS concentration is higher than that previously reported by Tweed
+R<s>0</s>−R<s>se</s>"
+"et al. (2011) for the period 1965 to 2008. The molar Cl/Br ratio of the"
+"lake water was 786 while that of the salt crust was 4841.
+<s>36</s>Cldecay
+constant
+(Bentley
+et
+al.,
+1986a), where λ is
+the"
+"(2.3×10<s>−6</s>·yr<s>−1</s>),RisthemeasuredR<s>36</s>Cl,R<s>0</s>istheinitialR<s>36</s>Clinre-"
+"4.2.3. Groundwater
+chargeandR<s>se</s>isthesecularR<s>36</s>Clduetohypogene(subsurface)pro-"
+"The EC of the groundwater ranged from 2530 to 67,900 μS/cm while
+duction.Aswith<s>14</s>C,useofEq.(2)assumesthatR<s>0</s>isbothknownand"
+"TDS ranged from 1621 to 45,379 mg/L (Fig. 2). Groundwater from four
+timeinvariant.R<s>se</s>,whichlargelydependsontheamountofuranium"
+"of
+the observation bores
+in close proximity to,
+and immediately
+and thorium in the aquifer matrix, matrix porosity, and the Cl content"

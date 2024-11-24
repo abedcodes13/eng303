@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Table A2,,,,,,,,,,,,,,
+bore,δ<s>13</s>C-,δ<s>18</s>O-,δ<s>2</s>H-,D,<s>14</s>C,<s>36</s>Cl/Cl,<s>13</s>C,δ<s>13</s>C-,δ<s>2</s>H-CH<s>4 </s>,<s>87</s>Sr/<s>86</s>Sr,tritium,<s>34</s>S-,<s>18</s>O-SO<s>4 </s>,Formation
+,DIC,H<s>2</s>O,H<s>2</s>O,excess,,(x10–<s>15</s>),CH<s>4 </s>,CO<s>2 </s>,,,,SO<s>4 </s>,,
+,VPDB,VSMOW,VSMOW,‰,pMC,,VPDB,VPDB,VSMOW,,tritium,VCDT,VSMOW,
+,‰,‰,‰,,,,‰,‰,‰,,ratio TU,‰,‰,
+Da8T,18.8,(cid:0) 6.1,(cid:0) 37,11.8,0.7,18,(cid:0) 55,10.6,(cid:0) 212,0.703579,,,,CSG Taroom
+Da37T,19.1,(cid:0) 6.7,(cid:0) 42,11.6,,,(cid:0) 54.6,4.6,(cid:0) 211,0.703547,,,,CSG Taroom
+Da30T,18.8,(cid:0) 7,(cid:0) 43,13,0.4,24,(cid:0) 51.5,,(cid:0) 207,0.703579,,,,CSG Taroom
+Da44,18.4,(cid:0) 6.7,(cid:0) 42,11.6,0.3,13,(cid:0) 54.7,9.9,(cid:0) 209,0.703442,,,,CSG Juandah
+Da22,15.8,(cid:0) 5.8,(cid:0) 36,10.4,0.6,17,(cid:0) 52.8,0.1,(cid:0) 211,0.703427,,,,CSG Juandah
+Da12T,16.8,(cid:0) 6.5,(cid:0) 40,12,0.6,19,(cid:0) 53.8,5.4,(cid:0) 207,0.703556,,,,CSG Taroom
+Condamine,(cid:0) 12.4,(cid:0) 4.5,(cid:0) 25,11,,135,,,,0.705283,1.5,,,Condamine
+River W,,,,,,,,,,,,,,River
+,,,,,,,,,,,,,,Warwick
+Condamine,(cid:0) 10.9,(cid:0) 3.5,(cid:0) 22,6,,147,,,,0.705339,1.57,,,Condamine
+River CP,,,,,,,,,,,,,,River Cecil
+,,,,,,,,,,,,,,plains
+Oakey Creek,(cid:0) 8.5,(cid:0) 0.8,3,9.4,,28,,,,0.705588,,,,Oakey Creek
+Myall Creek,(cid:0) 9.1,0.1,(cid:0) 1.9,(cid:0) 2.8,,,,,,0.705211,,,,Myall creek
+Rain Kogan,(cid:0) 6.8,(cid:0) 3.3,(cid:0) 10,16.4,,94,,,,0.705651,,,,Wambo FL
+,,,,,,,,,,,,,,rain tank
+Rain,(cid:0) 12.4,(cid:0) 3.2,(cid:0) 12,13.6,,,,,,0.708148,2.43,,,Grassdale FL
+Grassdale,,,,,,,,,,,,,,rain tank
+Dalby rain,(cid:0) 9.9,1,21,13.6,,,,,,0.706402,,,,Dalby rain
+,,,,,,,,,,,,,,storm
+Chincilla,,(cid:0) 3.2,(cid:0) 14,11.6,,,,,,0.707293,,,,Chinchilla
+rain,,,,,,,,,,,,,,rain tank
+Millmerran,,(cid:0) 2.7,(cid:0) 9,12.6,,,,,,0.707235,,,,Milmerran
+rain,,,,,,,,,,,,,,rain tank

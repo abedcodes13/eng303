@@ -1,0 +1,91 @@
+"94
+S. Barua et al.: Effects of land-use changes on groundwater recharge in a semi-arid area"
+"seasonal variations in the water levels (Fig. 3b and c). There"
+"is a single pronounced annual increase in the hydraulic head"
+"following winter rainfall, and (cid:49)h was estimated as the dif-"
+"ference between the highest head value and the extrapolated"
+"antecedent recession curve (Healy and Cook, 2002). The ef-"
+"fect of evapotranspiration on the magnitude of the hydraulic"
+"heads is assumed to be low, especially during winter when"
+"radiationandtemperaturearelower.S<s>y</s>wasassumedtobe"
+"close to n (0.03 to 0.1; Adelana et al., 2015; Dean et al.,"
+"2015), which will be the case if
+the unsaturated zone dries"
+"up between recharge events (Sophocleous, 1985). The TRR"
+"calculations(Eq.3)used<s>3</s>HactivitiesinMelbournerainfall"
+"as the input
+function (Tadros et al., 2014). The annual av-"
+"erage<s>3</s>Hactivityofpresent-dayrainfallin both Melbourne"
+"and Gatum is ∼ 2.8 TU (Tadros et al., 2014; Table S1), and"
+"the rainfall prior
+to the atmospheric nuclear
+tests was as-"
+"sumedtohavehadthesame<s>3</s>Hactivityaspresent-dayrain-"
+"fall. n = 0.03 to 0.1 was again used and estimates of b are"
+"discussed below."
+"3.4
+Mean residence times"
+"Themeanresidencetimes(MRTs)andthecovarianceof<s>3</s>H"
+"and<s>14</s>Cactivitiesingroundwaterwereestimatedvialumped"
+"parameter models
+(LPMs; Zuber and Maloszewski, 2001;"
+"Jurgensetal.,2012).LPMsrelate<s>14</s>Cactivityofwaterat"
+"timet(C<s>out</s>)tothe<s>14</s>Cinputduringrechargeovertime(C<s>in</s>)"
+"via the convolution integral"
+"∞"
+"(cid:90)"
+"(5)
+C<s>out</s>(t)=qCin(t−τm)e−λ<s>c</s>τ<s>m</s>g(τm)dτm"
+"0"
+"(Zuber and Maloszewski, 2001; Jurgens et al., 2012), where"
+"q is the fraction of DIC derived from the rainfall or the soil"
+"Figure 3. (a) Daily rainfall at Cavendish (station 089009, ∼ 19 km"
+"is
+zone,(t−τ<s>m</s>)istheageofthewater,τ<s>m</s>istheMRT,λ<s>c</s>"
+"southeast of Gatum). Variation in groundwater heads from bores in"
+"thedecayconstantfor<s>14</s>C(1.21×10<s>−4</s>yr<s>−1</s>)andg(τ<s>m</s>)is"
+"(b) pasture and (c) forest (Dresel et al., 2018). The legend shows the"
+"the system response function that describes the distribution"
+"sample depths (in parentheses) and landscape positions."
+"of residence times in the aquifer (described in detail by Mal-"
+"oszewski and Zuber, 1982; Zuber and Maloszewski, 2001;"
+"Jurgensetal.,2012).<s>3</s>Hactivitiesmaybecalculatedfrom"
+"malizedusingtheδ<s>13</s>Cvaluesandexpressedaspercentmod-theinputof<s>3</s>Hovertimeinasimilarway.Unlike<s>14</s>C,<s>3</s>H"
+"erncarbon(pMC),wherethe<s>14</s>Cactivityofmoderncarbonactivities are not changed by reactions between the ground-"
+"is95%of<s>14</s>CactivityoftheNBS(NationalBureauofStan-water and the aquifer matrix; hence the q term is omitted."
+"dards) oxalic acid standard in 1950. Uncertainties are be-
+There are several commonly used LPMs. The partial ex-"
+"tween 0.27 and 0.35 pMC (Table S1).
+ponential model (PEM) may be applied to the aquifers where"
+"only the deeper groundwater ﬂow paths are sampled. The di-"
+"3.3
+Recharge calculations
+mensionless PEM ratio deﬁnes
+the ratio of
+the unsampled"
+"to sampled depths of the aquifer (Jurgens et al., 2012). This"
+"Recharge rates were estimated using the methods discussed
+study used PEM ratios of 0.05 to 0.5 that cover
+the ratios"
+"in Sect. 1.1 to 1.3. Net
+recharge
+rate
+estimates
+from the
+of unsampled to sampled portions of
+the
+aquifers
+at Ga-"
+"CMB (Eq. 1) utilized present-day average rainfall amounts
+tum. The dispersion model
+(DM)
+is derived from the one-"
+"(∼640mm)andClconcentrationsof2.2to4.4mgL<s>−1</s>to-dimensional advection–dispersion transport equation and is"
+"gether with the measured Cl concentrations of groundwater
+applicable to a broad range of ﬂow systems (Maloszewski"
+"(Table S1). Gross
+recharge rates were estimated using the
+and Zuber, 1982; Zuber and Maloszewski, 2001; Jurgens et"
+"WTF method (Eq. 2) from the bore hydrographs that display
+al., 2012). The dimensionless dispersion parameter
+(DP) in"

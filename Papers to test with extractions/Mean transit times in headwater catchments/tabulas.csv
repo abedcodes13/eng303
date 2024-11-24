@@ -1,0 +1,237 @@
+﻿used in conjunction with lumped parameter models (LPMs),ments are likely to be vulnerable to decadal changes in land
+to investigate mean transit times (MTTs) and the stores of,"use or climate. Additionally, there may be considerable de-"
+water in six headwater catchments in the Otway Ranges of,lay in contaminants reaching the stream. An increase in ni-
+southeastern Australia. 3H activities of stream water ranged,trate and sulfate concentrations in several catchments at high
+"from 0.20 to 2.14 TU, which are significantly lower than the",streamflows may represent the input of contaminants through
+"annual average 3H activity of modern local rainfall, which is",the shallow groundwater that contributes to streamflow dur-
+between 2.4 and 3.2 TU. The 3H activities of the stream wa-,ing the wetter months. Poor correlations between 3H activi-
+ter are lowest during low summer flows and increase with in-,"ties and catchment area, drainage density, land use, and aver-"
+creasing streamflow. The concentrations of most major ions,age slope imply that the MTTs are not controlled by a single
+ter streams are far less well understood. Headwater streams,are effective in determining residence times of groundwater
+are commonly developed at elevations well above those of,"(Cook and Bohlke, 2000) but are difficult to apply to surface"
+the regional water tables and/or occur on relatively imper-,"water due to gas exchange. With a half-life of 12.32 years, tri-"
+meable bedrock. Yet such streams continue to flow even dur-,tium (3H) has been used to estimate MTTs of up to 150 years
+ing prolonged dry periods. There are several potential water,"(e.g. Morgenstern et al., 2010; Stewart et al., 2010). Unlike"
+"and Cartwright, 2006). The Eastern View Formation is over-","Atkinson et al., 2013; Costelloe et al., 2015). In the higher"
+Catchment (Fig. 1),Drainage area,Drainage density Forest cover,Average slope,Runoff coefficient
+,(km2),(m m−2) (%),(◦),(%)
+Upper Lardners (UL),20.0,1.0 nc∗×10−3 92,11.0,
+Lardners Gauge (LG),51.6,1.1× 10−3 91,11.0,33.0
+Gellibrand River at James Access(JA),81.0,9.2 × 10 −495,11.3,39.0
+Porcupine Creek (PC),33.6,9.5 × 10 −488,5.9,11.4
+Ten Mile Creek (TC),9.6,8.8× 10−4 88,5.7,12.0
+Yahoo Creek (YC),16.6,8.7× 10−4 95,8.6,10.5
+Love Creek Kawarren (LK),74.4,9.3 10−4× 82,6.4,10.6
+Love Creek Wonga (LW),91.7,9.2× 10−4 78,6.7,8.6
+drainage densities were determined using the watershed tool.,"time in a number of flow systems (e.g. Maloszewski, 2000)."
+Mean slopes were calculated using the spatial analysis tools.,Utilisation of this model requires defining a dispersion pa-
+Vector-based land use datasets were converted to raster for-,"rameter, Dp, which represents the ratio of dispersion to ad-"
+mats and reclassified. Land use was assigned as forest (native,vection.
+"vegetation and plantations) and cleared land, which includes",The average annual 3H activities of modern rainfall in cen-
+urban and agricultural regions. Runoff coefficients were cal-,tral and southeastern Australia are predicted to vary between
+culated using streamflow data for each of the catchments (ex-,"2.4 and 3.2 TU (Tadros et al., 2014). 3H activities of 9- to"
+cept Upper Lardners) for March 1986 to July 1990 (Depart-,17-month rainfall samples from elsewhere in Victoria are
+"ment of Environment, Land, Water, and Planning, 2017), the","between 2.72 and 2.99 TU (Atkinson, 2014; Cartwright and"
+only interval for which continuous streamflow data are avail-,"Morgenstern, 2015; Cartwright et al., 2018) and fall within"
+able for each catchment. The runoff coefficient calculations,the range of predicted 3H activities for their locations. Inter-
+assumed a uniform average annual rainfall of 1.3 m for each,polating the data from that study suggests that modern rain-
+"catchment (Bureau of Meteorology, 2016). Correlations be-",fall in the Otway Ranges has an annual average 3H activity of
+101 0 20,40,60,80,100 102 0 20,40.1,Unnamed: 0,60.1,80.1,100,Unnamed: 1
+(b) Gellibrand River at James Access (JA),,,,(e) Yahoo Creek (YC),,,,,,
+,,,,106,,,,,,
+106,,,,,,,,,,
+,,,,104,,,,,,
+104,,,,,,,,,,
+102,,,,102,,,,,,
+0 20,40.0,60,80,100 0 20,40.0,,60.0,80,100.0,
+(c) Porcupine Creek (PC),,,,"(f) Love Creek (LK, LW)",,,,,,
+105,,,,106,,,,,,
+103,,,,104,,,,,,
+101,,,,102,,,,,,
+0 20,40.0,60,80,100 0 20,40.0,,60.0,80,100.0,
+,,Percentage of flows equalled or exceeded,,,,,,,,
+"Figure 2. Streamflows at which samples were collected relative to flow duration curves for Lardners Gauge (a), Gellibrand River at James",,,,,,,,,,
+"Access (b) – additional data (black circles) from Atkinson (2014), Porcupine Creek (c), Ten Mile Creek (d), Yahoo Creek (e) and Love",,,,,,,,,,
+"Creek (f). Streamflow data from Department of Environment, Land, Water and Planning (2017).",,,,,,,,,,
+∼ 2.8 TU (which is slightly lower than the∼ 3.0 TU recorded,,,,"MTT (MTTe) can be calculated using the streamflow data,",,,,,,
+at Melbourne∼ 150 km to the east of the study area). A value,,,,"3H activities, and MTTs of each tributary via",,,,,,
+of 2.8 TU was used as the average annual 3H activity of mod-,,,,,,,,,,
+,,,,MTTe = aMTT1+ bMTT2+ cMTT3+ .. .,,,,,,(2)
+ern (2010 to 2016) rainfall as well as for the years prior to,,,,,,,,,,
+the atmospheric nuclear tests (pre-1951).,,The 3H,input,"in (Stewart et al., 2017). In Eq. (2), a, b, and c,",,,,,,represent the
+the intervening years is based on the 3H activities of rainfall,,,,"fraction of total flow contributed by tributaries 1, 2, and 3. If",,,,,,
+"in Melbourne (International Atomic Energy Agency, 2016;",,,,"the aggregation is minimal, MTTe will be similar to that esti-",,,,,,
+"3Tadros et al., 2014). These were decreased by 6.7 % to ac-",,,,mated from the measured,,,,H activity via the LPM. The suc-,,
+count for the expected difference in 3H activities in the rain-,,,,cessful application of Eq. (2) relies on the MTTs of the dif-,,,,,,
+"Expected annual 3H activities in rainfall (Tadros et al., 2014)",Unnamed: 0
+Otway rain sample = 2.45 TU,
+"Range of  3H activities in soil pipe water (Atkinson, 2014)",3H (TU)
+"3H = 0.2613 ln (Q) + 0.8973 (R2 = 0.75, p = 0.15) Lardners Gauge (LG)",
+Gellibrand River (JA),
+Porcupine Creek (PC),
+Ten Mile Creek (TC),
+Yahoo Creek (YC),
+Love Creek Kawarren (LK),
+Love Creek Wonga (LW),
+0.5,"ners, but not at Ten Mile Creek (Fig. 6b). However, sulfate"
+10,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,MTT = 8.01x102 Q-0.41 (R2 = 0.85),Unnamed: 6
+,,,,40.0,,,,
+,,MTT = 4.84x101 Q-0.14 (R2 = 0.82),,,,,,
+5,,,,,,,,
+,,,,20.0,,,,
+0,,,,0.0,,,,
+0,,40 80 120 160,,,0.0,2.0,4 6,8
+20,,,,120.0,,,,
+,,(b) Gellibrand River at James Access (JA),,,,,(e) Yahoo Creek (Y,
+,,,,100.0,,,,
+15,,,,,,,,
+,,,,80.0,,,,
+,,MTT = 7.97x101 Q-0.19 (R2 = 0.73),,,,,,
+10,,,,60.0,,,,
+,,,,40.0,,,,
+5,,,,,,,MTT = 4.79x103 Q-0.64 (R2 = 0.97),
+,,,,20.0,,,,
+0,,,,0.0,,,,
+0,50.0,100 150 200 250 300,,,0.0,5.0,10 15,20
+120,,,,80.0,,,,
+,,(c) Porcupine Creek (PC),,,,,"(f) Love Creek (LK,",
+,,,,70.0,,,,
+100,,,,,,,,
+,,,,60.0,,,,
+80,,,,,,,,
+,,,,50.0,,,,
+60,,,,40.0,,,,
+,,,,30.0,,,,
+40,,,,,,,,
+MTT = 4.28x103 Q-0.55 20,,MTT = 4.12x101 Q-0.14 (R2 = 0.74),,20.0,,,(R,2 = 0.84)
+3.2 TU and the 3H activity of the bomb-pulse rainfall was varied by,Unnamed: 0,Forest cover Jul 2014,0.51,Unnamed: 1
+a similar proportion as discussed in the text.,,Sep 2014,0.15,
+,,Mar 2015,0.24,
+,,Sep 2015,0.01,
+,,Slope Jul 2014,0.39,
+that the aggregation error may be up to 20 % where two wa-,,Sep 2014,0.55,
+ters with MTTs of 10 and 50 years or 1 and 5 years mixed,,Mar 2015,0.87,
+but noted that this error became progressively lower if more,,Sep 2015,0.15,
+stores of water with a similar range of MTTs mixed.,,,,
+"If the uncertainties are uncorrelated, the overall uncer-",,,,
+tainty is given by the square root of the sum of the squares,,,,
+of the individual uncertainties. The analysis assumes that un-,5.4,Predicting mean transit times,,
+certainties due to analytical uncertainties and aggregation are,,,,
+"uniformly 10 and 20 %, respectively, and the uncertainties",There are weak (R2 ≤ 0.7) or no correlations between 3H ac-,,,
+from the range of LPMs and the 3H input of rainfall are,"tivities and catchment area, drainage density, or forest cover",,,
+"as discussed above. For a water with a 3H activity of 2 TU,",(Table,2). There is a strong correlation,between,3H activ-
+the overall uncertainty in MTTs are approximately ±60 %,ities,"and average slope (R2 = 0.87, p",value 0.01),during
+"(±5.4 years), whereas for waters with 3H activities of 1 and","March 2015, when streamflow was lowest but not at other",,,
+"0.5 TU they are ±28 % (±17 years) and ±38 % (±35 years),",times.,The variability of MTTs from James,"Access,",Lard-
+respectively.,ners,"Gauge, and Upper Lardners (which",occur on,the Ot-
+"While these uncertainties are considerable, the observa-","way Group: Fig. 1) and from Porcupine Creek, Yahoo Creek,",,,
+tion that the 3H activities of the streams are locally 10 % of,"Love Creek, and Ten Mile Creek (which have similar litholo-",,,
+those of modern rainfall (and far less than the rainfall 3H ac-,gies in their catchments: Fig. 1) indicates the MTTs are not,,,
+tivities at the peak of the bomb pulse) necessitates that the,simply related to the geology. A combination of the catch-,,,
+MTTs must be several decades. Because the aggregation er-,ment properties together with the hydraulic properties of the,,,
+"ror, which is probably the most difficult to assess, results in",soils and aquifers or evapotranspiration rates,,likely control,
+"MTTs being underestimated (Kirchner et al., 2016; Stewart",the MTTs. The hydraulic properties and evapotranspiration,,,
+"et al., 2017) some MTTs may be longer than calculated. Rel-",rates are probably spatially variable and are difficult,,,to es-
+ative differences in MTTs between and within catchments,"timate,",which makes it difficult to assess,their,influence.
+may be estimated with more certainty. Because the catch-,The observation that relationships between 3H activities and,,,
+"ments are located in a relatively small area, the 3H inputs are",streamflow in all the catchments are similar (Fig. 4) suggests,,,
+"likely to be closely similar. Thus, uncertainties in the 3H in-",that the MTTs at high flows reflect the inflow of water from,,,
+put are thus less likely to impact the comparison of MTTs be-,the shallower water stores which will be largely independent,,,
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,MTT (years),Unnamed: 6,Unnamed: 7
+Location (Fig. 1),Date,Qa,3H,,EPMb,DMc,,
+,(dd/mm/yyyy),103 m3 day−1,(TU),0.33,1.0,3.0 0.05,,0.5
+Upper Lardners (UL),10/07/2014,–,1.99,9.9,9.6,8.8 9.0,,11.2
+,28/09/2014,–,1.77,15.7,12.9,11.8 12.2,,17.6
+,20/03/2015,–,1.54,24.2,"18.5 (16.2, 41.4)d",16.3,,26.2
+,10/09/2015,–,1.99,8.8,8.2,8.6 8.3,,9.9
+Lardners Gauge (LG),10/07/2014,151.3,1.94,10.8,10.2,9.3 9.6,,12.3
+,28/09/2014,32.8,1.94,10.6,10.1,9.2 9.5,,12.1
+,20/03/2015,5.0,1.64,19.8,"15.4 (14.1, 45.7)",14.2,,21.6
+,10/09/2015,116.6,1.97,9.1,8.5,8.7 8.6,,10.2
+,04/11/2015,12.7,1.77,13.8,12.4,11.2 11.6,,15.8
+Gellibrand River at James Access (JA),13/03/2012,18.5,1.90,15.5,12.3,11.8 11.7,,17.7
+,26/04/2012,30.4,1.80,19.2,14.8,13.1 13.4,,21.4
+,10/07/2014,255.2,2.04,8.7,8.7,8.1 8.2,,9.7
+,28/09/2014,39.1,1.93,10.8,10.2,9.4 9.7,,12.4
+,20/03/2015,8.8,1.73,16.2,13.5,12.2 12.6,,18.2
+,10/09/2015,204.4,2.08,7.3,6.8,7.7 7.0,,8.1
+Porcupine Creek (PC),10/07/2014,50.4,1.97,10.3,9.8,9.0 9.2,,11.7
+,27/09/2014,3.3,1.68,19.3,"14.9 (13.9, 44.7)",13.8,,21.0
+,20/03/2015,1.0,0.20,179.0,100,69.5 89.6,,234.0
+,10/09/2015,9.7,2.08,7.3,6.8,7.7 7.0,,8.1
+,04/11/2015,0.6,0.40,137.0,94.8,68.4 78.7,,162.0
+Ten Mile Creek (TC),10/07/2014,8.6,1.74,17.1,13.6,12.5 12.7,,18.8
+,27/09/2014,0.6,1.00,58.3,68.5,62.5 60.1,,66.3
+,20/03/2015,0.2,0.44,128.0,92.5,67.2 76.4,,150.0
+,10/09/2015,1.7,1.09,48.3,55.5,62.0 57.0,,53.5
+,04/11/2015,0.1,0.53,109.0,90.3,67.2 73.3,,130.0
+Yahoo Creek (YC),11/07/2014,23.0,2.14,6.9,6.8,7.2 7.0,,7.6
+,28/09/2014,1.2,1.19,44.7,"52.0 (60.6, 27.4)","(55.3, 24.8)",,49.2
+,20/03/2015,0.4,0.43,132.0,93.1,67.4 77.2,,154.0
+,10/09/2015,3.9,1.30,34.8,"31.3 (34.3, 60.0)","(27.6, 50.7)",,37.9
+Love Creek Kawarren (LK),10/07/2014,102.9,1.85,13.3,11.5,10.5 10.9,,15.0
+,27/09/2014,6.7,1.34,35.3,"33.5 (32.3, 59.2)","(24.8, 51.2)",,38.4
+,20/03/2015,2.0,0.48,121.0,91.2,67.0 75.1,,141.0
+,10/09/2015,18.6,1.91,10.4,9.8,9.5 9.5,,11.9
+,04/11/2015,1.2,0.58,100.0,88.6,66.8 71.5,,120.0
+Love Creek Wonga (LW),10/07/2014,103.5,1.86,13.1,11.4,10.4 10.8,,14.8
+,28/09/2014,6.0,1.34,35.7,"34.2 (32.1, 59.3)","(24.8, 51.4)",,38.8
+,20/03/2015,2.0,0.55,109.0,89.4,66.4 72.6,,127.0
+,10/09/2015,19.6,1.88,11.0,10.4,9.8 9.9,,12.6
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,times (MTTs) and that estimated from the mixing of waters from
+,,,,,,,different tributaries at Love Creek Kawarren.
+1.5,,,,,,,
+,,,,"R2  = 0.94, p = 0.27",,,
+,,,,,,,Sample date MTT (years)
+1.0,,,,,,,
+,,,,,,,10/07/2014 MTT e a15.4
+,,,,,,,Sample MTTb 11.5
+0.5,,,,,,,Difference (years) 3.9
+,,,,,,,Difference (%) 25.5
+0,,,,,,,27/09/2014 MTTe 40.9
+0,0.1,0.2,0.3,0.4 0.5,,,Sample MTT 33.5
+,,Runoff coefficient (%),,,,,
+,,,,,,,Difference (years) 7.4
+Figure 10. 3 H activities vs. runoff coefficients for the March 2015,,,,,,,Difference (%) 18.1
+samples (data,from Table,1 and,Supplement).,Although a strong,,,20/03/2015 MTTe 87.4
+"correlation (R2 = 0.94) exists, it may be a result of the grouping of",,,,,,,Sample MTT 91.2
+the samples.,,,,,,,Difference (years) 3.8
+,,,,,,,Difference (%) 4.4
+Q (x 103 m3 day-1)50,,,,300,,,10/09/2015 MTTe 15.5
+,,,,,,,Sample MTT (years) 9.8
+40,,,,,,,Difference (years) 5.7
+,,,,,,,Difference (%) 36.7
+,,,,200,,,
+,,,,Discharge,,,
+30,,,,,,,
+,,,,,,,a
+,,,,MTT,,,Estimated from the tributary inputs (Eq. 2).b Estimated
+,,,,,,,using the EPM (1.0) lumped parameter model (Table 3).
+20,,,,,,,
+,,,,100,,,
+10,,,,,,,
+,,,,,,,are some of the longest yet recorded. The average MTT of
+,,,,,,,15± 22 years calculated by Stewart et al. (2010) was for
+0 anJ -90,No v- 90,Se p- 91 Date,Ju l- 92,0 Ma y- 93Jan -94,,,"MTTs based on parable with MTTs from the south Australian catchments.3H activities, which makes it directly com-"
+,,,,,,,Understanding the reasons for the difference in MTTs
+Figure 11. Variation in MTT as a function of streamflow at Porcu-,,,,,,,
+,,,,,,,between catchments is important for understanding catch-
+pine Creek for January 1990 to January 1994 calculated using the,,,,,,,
+relationship between EC and 3H activity (Supplement) and monthly,,,,,,,ment behaviour. The catchments in southeastern Australia
+EC data from,the Department,of,"Environment,","Land, Water",and,,"have similar dimensions, slopes, and stream densities to"
+Planning (2017). Streamflow data also from Department of Envi-,,,,,,,"those elsewhere, making it unlikely that the differences in"
+"ronment, Land, Water and Planning (2017).",,,,,,,MTTs result from catchment geomorphology. The Gelli-
+,,,,,,,brand catchments have only thin near-river alluvial sedi-
+,,,,,,,"ments, thus diminishing the likelihood of bank storage and"
+the high variability of transit times within the catchment and,,,,,,,return flows of young waters during the recession from
+the value of finding proxies for 3H.,,,,,,,"the high streamflows. However, many headwater catchments"
+,,,,,,,globally lack extensive alluvial sediments. The hydraulic
+,,,,,,,properties of the soils and aquifers may also result in slow
+6 Summary and conclusions,,,,,,,recharge rates and long MTTs. These are very poorly known
+,,,,,,,and it is difficult to assess their influence.
+The calculated MTTs in the six headwater catchments in the,,,,,,,"Due to the high transpiration rates of eucalyptus forests,"
+Upper Gellibrand catchment of Otway Ranges vary from ap-,,,,,,,recharge rates in Australian catchments are generally lower
+proximately,7 to 230,"years,",verifying,the hypothesis,that,,"than elsewhere globally (Allison et al., 1990). However, the"
+these streams,are sustained,by,relatively,old water. While,,,observation that there is no correlation between the percent-
+"there are significant uncertainties in the MTT estimates, the",,,,,,,age of forest cover and MTTs in the upper Gellibrand catch-
+conclusion that they range from years to several decades and,,,,,,,ments where land clearing occurred several decades ago is

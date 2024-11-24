@@ -1,0 +1,126 @@
+"S. Barua et al.                                                                                                                                                                                                                                   
+Journal of Hydrology 604 (2022) 127208"
+"3.3. Determining mean transit times 
+streamflows  are  higher  during  the  winter  months  (Fig.  2a).  Between"
+"2010 and 2018, the annual streamflows were 1.26 ×10<s>4 </s>to 2.41 ×10<s>5 </s>"
+"m<s>3 </s>in the Banool stream, and from 2010 to 2017, the annual streamflows MTTs may be estimated using LPMs via:"
+"∫<s>∞</s>were 7.29 ×10<s>3 </s>to 6.35 ×10<s>5 </s>m<s>3 </s>in the McGill stream. Except in 2016,"
+"<s>λT</s>g(T)dTT)e<s>(cid:0)</s>C<s>out</s>(t)=C<s>in</s>(t(cid:0)(1) 
+which had a higher than average annual rainfall (~800 mm: Bureau of"
+"0"
+"Meteorology,  2020),  annual  streamflows  of  the  Banool  stream  were"
+"(Zuber  and  Maloszewski,  2001;  Jurgens  et  al.,  2012).  In  Eq.  (1), 
+higher than the McGill stream (Dresel et al., 2018). In 2018, the annual"
+"Banool streamflow was 6.33 ×10<s>4 </s>m<s>3</s>, and the highest daily streamflow C<s>out</s>(t) is the <s>3</s>H activity of water at time t, C<s>in </s>is the input of <s>3</s>H over time,"
+"λ is the decay constant (0.0563 per year), T is the transit time, and g(T) is 
+was 3.02 ×10<s>3 </s>m<s>3 </s>in August (Fig. 3a). The level of the McGill stream"
+"was  also  higher  during  the  winter  months  (Fig.  3b).  The  streamflow 
+the transit time distribution function (Małoszewski and Zuber, 1982)."
+"patterns of the Plantation stream are similar to the Banool and McGill 
+There are several commonly used LPMs, and the distribution functions"
+"streams. 
+for these are summarised by Małoszewski and Zuber (1982), Zuber and"
+"The  Banool  stream  flows  for  about  half  of  the  year,  while  McGill 
+Maloszewski (2001), Zuber et al. (2005) and Jurgens et al. (2012). The"
+"streamflow  only  occurs  over  about  three  months  (Figs.  3  and  4). 
+exponential mixing model (EMM) applies where the flow from the entire"
+"Monthly  runoff  ratios  were  generally  high  from August  to  September 
+aquifer thickness discharges to the stream (Jurgens et al., 2012). The"
+"(Fig. 4). 2016, which as discussed above was a year of higher rainfall, 
+dispersion  model 
+(DM) 
+is  based  on 
+the  one-dimensional  advec-"
+"had the highest runoff ratios during the monitoring period. In the Banool 
+tion–dispersion transport equation (Małoszewski and Zuber, 1982) and"
+"catchment, the runoff ratios ranged from 2 to 16% in the winter months 
+may be applied to a wide range of flow configurations (Jurgens et al.,"
+"of  2018  (Fig.  4).  Streamflows  in  the  larger  McGill  catchment  are 
+2012). The transit time distribution function includes the dimensionless"
+"generally lower than in the Banool catchment (Fig. 2a), leading to lower 
+dispersion  parameter  (DP)  that  reflects  the  relative 
+importance  of"
+"runoff ratios in 2018 in the McGill catchment. 
+dispersion to advection (Zuber and Maloszewski, 2001). This study used"
+"Groundwater elevations gradually increase following winter rainfall 
+DP values of 0.05 to 0.5, which are applicable to hundreds-of-meters to"
+"and decrease over the summer months (Dresel et al., 2018; Barua et al., 
+kilometer-scale  flow  systems  (Zuber  and  Maloszewski,  2001).  The"
+"2021).  Vertical  head  gradients  at  paired  bores  3007  and  3008  in  the 
+exponential piston-flow model (EPM) describes the flow in aquifers with"
+"Banool  catchment  (Fig.  1)  are  upwards.  Water  levels  in  the  adjacent 
+both exponential and piston-flow portions, such as where there is ver-"
+"piezometers BD1 and BD2 (Fig. 1) are commonly above the ground level, 
+tical recharge through the unsaturated zone and exponential flow within"
+"and the soils around these piezometers are generally water-saturated. In 
+the  aquifer  (Morgenstern  et  al.,  2010).  The  transit  time  distribution"
+"contrast, groundwater levels at all bores in the McGill catchment, even 
+function includes the EPM ratio that specifies the relative contribution of"
+"adjacent to the stream, are a few metres below ground level, and head 
+exponential  and  piston  flow  (Jurgens  et  al.,  2012).  The  EPM  model"
+"gradients in paired bores 3666 &  3667 and 3656 &  3657 (Fig. 1) are 
+describes exponential flow where the EPM ratio equals 0 and is close to"
+"downward. 
+piston-flow where the EPM ratio is > 5. EPM ratios of 0.33 to 1.0 were"
+"Daily stream EC values between 2010 and 2018 ranged from 5.49 ×
+used  in  this  study,  which  represents  flow  systems  with  75  to  50%"
+"exponential  flow.  These  models  have  been  successfully  applied  to 
+10<s>2 </s>to 2.57 ×10<s>4 </s>µS/cm and from 5.10 to 9.25 ×10<s>3 </s>µS/cm in the"
+"catchments  elsewhere  where  there  are  time-series  data  (Morgenstern 
+Banool  and  McGill  streams,  respectively  (Fig.  2c).  EC  values  were"
+"et al., 2010; Blavoux et al., 2013) and other LPMs (such as the gamma 
+generally low during high streamflows and gradually increased after the"
+"model)  generally  yield  similar  estimates  of  MTTs  (Cartwright  et  al., 
+peak streamflows (Fig. 2a, 2b). The trends in log EC vs. log streamflow"
+"2018a). 
+(Fig. 2c) have slopes that are close to 0. Simple dilution of a constant"
+"inflow of saline baseflow with low salinity rainfall would produce log EC 
+This study used the annual average <s>3</s>H activities of rainfall in Mel-"
+"vs. log streamflow trends close to (cid:0) 1 (Godsey et al., 2010), and the data 
+bourne (Tadros et al., 2014; International Atomic Energy Agency, 2017)"
+"are more consistent with the displacement of moderately saline water 
+as the <s>3</s>H input function. The <s>3</s>H activities of Melbourne rainfall peaked"
+"from within the catchments into the streams at higher streamflows. The 
+at  ~60  TU  between  1950  and  1960,  then  declined  exponentially  to"
+"present-day values of 2.8 to 3.2 TU. The predicted average annual <s>3</s>H stream waters have <s>222</s>Rn activities of 1710 to 3180 Bq/m<s>3 </s>(Table S1)."
+"activity  of  present-day  rainfall  in  western  Victoria  is  2.6  to  3.0  TU 
+Whereas, the riparian zone groundwater and regional groundwater have"
+"<s>222</s>Rn activities of 1510 to 155,000 Bq/m<s>3 </s>and 1320 to 145,000 Bq/m<s>3</s>, (Tadros et al., 2014), and the <s>3</s>H activity of the aggregated yearly (May"
+"2018 to May 2019) rainfall sample from Gatum is ~2.8 TU (Table S1, 
+respectively (Table S1)."
+"Barua et al., 2021). Thus, a <s>3</s>H activity of 2.8 TU is used for present-day"
+"and pre-bomb pulse rainfall. MTTs are estimated by matching the pre-"
+"dicted <s>3</s>H activities from the LPMs to the observed <s>3</s>H activities of the 4.2. Major ions and dissolved organic carbon"
+"samples. The volume of groundwater (V in m<s>3</s>) that contributes to"
+"streamflow (Q in m<s>3</s>/day) is related to the MTT by Overall,  the  TDS  concentrations  and  major  ion  geochemistry  of"
+"stream  water  overlap  with  those  of  soil  water,  riparian  zone  ground-"
+"V = Q.MTT
+(2)"
+"water  and  regional  groundwater  (Table  S1;  Fig.  5a–h,  S1).  However,"
+"(Małoszewski  and  Zuber,  1982,  1992;  Morgenstern  et  al.,  2010; 
+there are subtle differences in the major ion geochemistry of different"
+"Gusyev et al., 2016). 
+water  types  between  the  catchments  that  can  help  to  understand  the"
+"origins of streamflow. In the Banool catchment, the concentrations of"
+"4. Results 
+TDS and major ions (e.g., Na, Mg, SO<s>4 </s>and Br) in stream water, riparian"
+"zone groundwater  and  regional groundwater  are  similar. By  contrast,"
+"4.1.
+Streamflows, EC and radon 
+the  stream  water  and  most  of  the  riparian  zone  groundwater  in  the"
+"McGill catchment have lower major ion concentrations than the regional"
+"Although  experiencing 
+large  variability,  the  Banool  and  McGill 
+groundwater. DOC concentrations also vary between different waters in"
+"streams generally start to flow in mid-May and continue flowing until 
+the Banool, McGill and Plantation catchments (Table S1, Fig. 5i, 5j). The"
+"October with peak flows in August to September (Dresel et al., 2018). In 
+stream  waters  have  DOC  concentrations  of  18  to  33  mg/L  that  are"
+"2018, the Banool stream started to flow in mid-May soon after a rainfall 
+similar to those of most of the riparian zone groundwaters (12 to 63 mg/"
+"event of 36 mm in 48 hrs; the McGill stream commenced flowing in mid- 
+L). Regional groundwater generally has lower DOC concentrations (1.4"
+"July during a 7-day period where 50 mm of rainfall (Bureau of Meteo-
+to 30 mg/L), with the highest concentrations in the shallow parts of the"
+"rology, 2020). Due to higher rainfall and lower evapotranspiration rates, 
+aquifer between 1.3 and 2.5 m depths (Table S1)."

@@ -1,0 +1,45 @@
+"10.1002/2014WR015663
+Water Resources Research"
+"<s>14</s>Cfalloutfromtheatmosphereovertime)toanoutputafterpassagethroughtheaquiferusinganideal-"
+"ized representation of
+the age-distribution in groundwater samples [Vogel, 1967; Cook and B€ohlke, 2000]."
+"These can be compared using different formulations for the convolution integral"
+"ð<s>t</s>(2)
+tð Þ5
+t<s>0</s>ðÞ(cid:4)gt2t<s>0</s>Þ(cid:4)e2kðt2t<s>0</s>Þdt0C<s>out</s>C<s>in</s>"
+"21"
+"is the input
+function for
+the concentration in the aquifer at different
+times,
+whereC<s>in</s>(t)thetracer,C<s>out</s>(t0)"
+"g(t2t<s>0</s>)theagedistributiondescribingtherelativecontributionofwaterwithacertainage(t2t<s>0</s>)withina"
+"mixedsample,ande2k(t2t<s>0</s>)is radioactive decay.
+In the simplest cases of
+the Piston Flow Model
+(PM) and"
+"the Linear Model
+(LM), the groundwater sample is assumed to have a unique source and age or a constant"
+"age distribution over a deﬁned period, respectively.
+In more complex cases,
+like the Exponential Model (EM)"
+"and the Gamma Model (GM), the groundwater sample is assumed to include water from a range of sources"
+"each with its own age [Maloszewski and Zuber, 1982; Kirchner et al., 2000]. The main advantages of
+lumped"
+"parameter models over more complex numerical solute transport models are that they are nondimensional"
+"and few parameters need to be ﬁtted. However,
+lumped parameter models assume that ﬂow is constant"
+"and that the underlying age-distribution of groundwater is known."
+"Here we also use the more ﬂexible Dispersion Model
+(DM) to explore the properties of the aquifer. The DM"
+"is similar to the advection-dispersion solute transport model. The parameters to be ﬁtted are MRT and the"
+"Peclet number (Pe; the ratio of advective to dispersive transport in the aquifer). The PF and EM are special"
+"cases of the DM where the Peclet number is either very large or very small, respectively. The input functions"
+"forthetracersweremeasuredatCapeGrim(Tasmania,Australia)forSF<s>6</s>,Kaitoke,andWellington(NewZea-"
+"land)forsouthernhemisphere<s>3</s>Hand<s>14</s>C,respectively.Alltheseinputfunctionswereevaluatedasannual"
+"mean concentrations, and to all these input functions correction factors were applied that will be explained"
+"in detail
+in the Discussion. All computational analyses were performed using the software Lumpy [Suckow,"
+"2012].TheeffectsofvariationsinrechargetemperatureandexcessaironSF<s>6</s>concentrationsintheaquifer"
+"wereevaluatedbycomparingSF<s>6</s>and<s>3</s>Hconcentrations(thelattertracernotbeingaffectedbyvariations"
+"in recharge temperature or in excess air)."

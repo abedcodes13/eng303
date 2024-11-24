@@ -1,0 +1,123 @@
+"b
+a"
+"10<s>4</s>0"
+"0
+20
+40
+60
+80
+100
+Jan 15
+Apr 15
+Jul 15
+Oct 15
+Dec 15 Mar 16
+Jun 16"
+"% Time Exceeded
+Date"
+"Fig. 2.
+(a). Sampling times for this study relative to the ﬂow frequency curve for Noojee (Fig. 1). (b). Variation in streamﬂows at Noojee between January 2015 and June 2016."
+"Data from Department of Environment Land Water and Planning (2017)."
+"3.4. Numerical modelling
+3.2. Catchment attributes"
+"The lumped parameter models assume homogeneous aquifer
+CatchmentattributeswereestimatedusingArcGIS10(ESRI<s>(cid:3)</s>)"
+"properties that lead to a regular distribution of groundwater ﬂow
+and datasets from Victoria Open Data (2016). The Hydrology Mod-"
+"paths and mean transit
+times. However, most catchments have
+elling tools were used to generate the stream network from a 10 m"
+"heterogeneous hydraulic conductivities (Weissmann et al., 2002;
+digital elevation model (Fig. 1c). A threshold catchment area of 50"
+"McCallum et al., 2014, McCallum et al., 2015). Two-dimensional
+Ha reproduces the observed perennial stream network of the area."
+"numerical
+simulations were performed using FEFLOW (Diersch,
+Subcatchment areas upstream of each sampling site were calcu-"
+"2013) as described in Supplement 2. The purpose of the modelling
+lated using the watershed tool, and drainage densities calculated"
+"was not
+to simulate ﬂow in these catchments but
+to explore the
+as the total stream length in each subcatchment divided by the"
+"impact of heterogeneous hydraulic conductivities on mean transit
+subcatchment area. Mean slopes and the mean and maximum dis-"
+"times.
+tance to the stream were calculated using the Spatial Analysis"
+"Brieﬂy, the FEFLOW model domain was 10,000 m in the longitu-
+tools. Vector-based landuse datasets were converted to raster for-"
+"dinal (x) direction and 25 m in the vertical (z) direction (Fig. S1a).
+mats and reclassiﬁed. Landuse was assigned as
+forest
+(includes"
+"The hydraulic boundary conditions were a constant ﬂux at
+the
+native vegetation and some plantations) and cleared land, which"
+"includes urban and mixed agricultural regions (pasture, horticul-
+toptosimulate50mmyr<s>(cid:3)1</s>rechargeandaconstantheadatthe"
+"ture, and crops).
+model outlet
+(Fig. S1a). All other boundaries are no ﬂow bound-"
+"aries. While the geometry of the model resembles that of the expo-"
+"nential
+lumped parameter model, solute transport models require"
+"3.3. Mean transit times"
+"a dispersivity be assigned for numerical stability. A dispersivity of"
+"0.5 m was used, which results in dispersion in the numerical sim-"
+"Mean
+transit
+times were
+calculated
+using
+the
+exponential,"
+"ulations being driven primarily by variations in K (McCallum et al.,"
+"exponential-piston ﬂow, and dispersion lumped parameter models"
+"2014). To assess the impacts of heterogeneous hydraulic conduc-"
+"implemented in the TracerLPM Excel workbook (Jurgens et
+al.,"
+"tivities,the<s>3</s>Hactivitiesandmeantransittimesfromfoursetsof"
+"2012) as described in Supplement 2. For
+the exponential-piston"
+"30simulationswithanaverageKof1mday<s>(cid:3)1</s>andvariancesof"
+"ﬂow models, EPM ratios of 0.33 (75% exponential ﬂow and 25% pis-"
+"K(r<s>2</s>ln(K))of0.3,1.0,2.5,and4.0(Fig.S2)werecomparedtoa"
+"ton ﬂow) and 1 (50% exponential ﬂow and 50% piston ﬂow) were"
+"model with homogeneous K. The FEFLOW simulations used time"
+"used. This model accords with the expected geometry of ﬂow in"
+"steps of 5 days over 65 years
+from 1950 to 2015. The relatively"
+"the catchment (vertical recharge through the unsaturated zone fol-"
+"short time step ensured model stability and minimised numerical"
+"lowed by ﬂow along ﬂow paths of varying length). For the disper-"
+"dispersion.Both<s>3</s>Hactivitiesandageweresimulatedassolutes."
+"sion model, values of DP of 0.1 and 1 were used, which is the range"
+"The
+annual
+<s>3</s>Hactivitiesof Melbourne
+rainfall
+(Tadros
+et
+al.,"
+"generally adopted for kilometre-scale ﬂow systems (Maloszewski,"
+"2014) interpolated onto the time steps of the model (Fig. S1b) were"
+"2000). These lumped parameter models have successfully repro-"
+"usedasthe<s>3</s>Hactivityofrecharge.Agewassimulatedbysettinga"
+"duced
+time-series
+<s>3</s>Hactivities
+of
+stream water
+elsewhere"
+"constant age = 0 years for the upper boundary and calculating the"
+"(Maloszewski and Zuber, 1982; Blavoux et al., 2013; Morgenstern"
+"travel time to the model outlet. For all simulations, the mean age"
+"et al., 2015)."
+"andmean<s>3</s>Hactivityaretheﬂuxweightedarithmeticmeansat"
+"The
+annual
+average
+<s>3</s>Hactivitiesof
+rainfall
+in Melbourne"
+"the model outlet."

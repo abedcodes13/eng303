@@ -1,0 +1,188 @@
+"26
+I. Cartwright et al. / Journal of Hydrology 557 (2018) 16–29"
+"3
+the comparison of mean transit
+times both between subcatch-"
+"ments and within the same subcatchment at different streamﬂows
+EMM"
+"2.8"
+"if different stores of water are mobilised.
+EPF (0.3)"
+"2.6"
+"EPF (1)"
+"2.4
+5.4. Predicting mean transit times"
+"DM (1.0)"
+"2.2
+DM (0.1)"
+"Aug"
+"Table 3 and Fig. 10 summarises correlation coefﬁcients between"
+"2"
+"catchment attributes
+(Table1)andthe<s>3</s>Hactivitiesatthe low"
+"Upper Yarra &"
+"streamﬂowconditionsinApril2015(TableA1).Because<s>3</s>Hactivi-1.8"
+"upper Latrobe"
+"ties are directly related to mean transit times, correlations between"
+"1.6
+stream waters"
+"catchment attributes and mean transit times are similar. Correla-"
+"1.4
+tioncoefﬁcientsareconsideredtobestrongatR<s>2</s>(cid:5)0.75,moderate"
+"Nov"
+"Mar
+at0.75>R<s>2</s>>0.5,andweakatR<s>2</s>(cid:6)0.5.Therearefewstrongcorre-1.2"
+"Apr"
+"lations(Table3,Fig.10).The<s>3</s>Hactivitiesandtherunoffcoefﬁcient"
+"1"
+"areweaklycorrelated(R<s>2</s>=0.37)for
+the dataset as a whole but
+a"
+"0.8
+havemoderatetostrongcorrelations(R<s>2</s>=0.65–0.90)withinthe"
+"0
+10
+20
+30
+40
+50
+60
+70"
+"<s>3</s>H (TU)twocatchments.Slopesand<s>3</s>Hactivitieshaveastrongnegative"
+"correlationintheupperYarrasubcatchments(R<s>2</s>=0.88)buthave2.8
+3.0
+Original"
+"2.8
+weaknegativecorrelations(R<s>2</s>=0.08)"
+"90%
+in the upper Latrobe sub-"
+"2.4
+2.6"
+"110%"
+"catchmentsandaweekpositivecorrelation(R<s>2</s>=0.32)acrossthe"
+"2"
+"two catchments. There is a weak negative correlation between"
+"1.6
+theproportionofclearedlandand<s>3</s>Hactivities(R<s>2</s>=0.46)in the"
+"datasetasawholeandinthetwoindividualcatchments(R<s>2</s>=0."
+"1.2"
+"1–0.27).Drainagedensitiesareweaklycorrelatedwith<s>3</s>Hactivitiesb
+c"
+"0.8
+bothwithin(R<s>2</s>=0.31–0.15)andacross(R<s>2</s>=0.03)thetwocatch-"
+"0
+10
+20
+30
+40
+50
+60
+70
+0
+10
+20
+30
+40
+50
+60
+70"
+"ments. Both the maximum and mean distances are have strong"
+"Mean Transit Time (yr)"
+"negativecorrelationswith<s>3</s>Hactivitiesinoneofthe catchments"
+"Fig. 9.
+(a).Meantransittimesvs.<s>3</s>Hactivities(TablesA1,2)calculatedusingthe(R<s>2</s>=0.75and0.81),butarenotcorrelatedacrossthetwocatch-"
+"lumped parameter models discussed in the text. EMM = Exponential Model; EPF ="
+"ments(R<s>2</s>=0.00and0.17)."
+"Exponential-Piston Flow Model (EPM ratio in brackets); DM = Dispersion Model (DP"
+"Overall
+there are no strong correlations between most catch-"
+"inbrackets).Theshadedareadepictstherangeof<s>3</s>HactivitiesintheupperLatrobe"
+"ment attributes
+<s>3</s>Hactivitiesthat apply in both catchments or
+andYarrastreams.Rangesof<s>3</s>HactivitiesfortheupperLatrobe(solidlines)and"
+"Yarra (dashed lines) catchments for April 2015, August 2015, November 2015, and
+across the two catchments. The correlation between runoff coefﬁ-"
+"March 2016 also indicated.
+(b).
+Impactsofvarying<s>3</s>Hactivityofmodernrainfall"
+"cientsand<s>3</s>Hactivitiesarestronger,especiallywithinthecatch-"
+"from 2.6 to 3.0 TU on mean transit
+time calculated using the Exponential-Piston"
+"ments. The same range of
+factors
+that control
+the mean transit"
+"Flow Model (EPF = 0.33). (c).
+Impactsofvarying<s>3</s>Hactivityofrainfallbetween90"
+"times probably control the runoff coefﬁcient. For example, catch-"
+"and
+110%
+of
+its
+assumed
+values
+on mean
+transit
+time
+calculated
+using
+the"
+"ments with high evapotranspiration rates will have lower
+rates
+Exponential-Piston Flow Model (EPF = 0.33)."
+"of recharge that result in longer mean transit times and lower run-"
+"off coefﬁcients. Thus, as is the case elsewhere in southeast Aus-"
+"tralia (Cartwright and Morgenstern, 2015),
+the runoff coefﬁcient"
+"the uncertainties that stem from adopting lumped parameter mod-"
+"may be a plausible proxy for mean transit
+times for streams in"
+"els with simple geometries (c.f Weissmann et al., 2002; McCallum"
+"the same catchment."
+"et al., 2014, McCallum et al., 2015)."
+"There are multiple interacting factors that control the transmis-"
+"If uncertainties are uncorrelated and have Gaussian distribu-"
+"sion of water through catchments (e.g., as discussed by McGuire"
+"tions, the overall uncertainty is the square root of the sum of the"
+"et al., 2005; McGuire and McDonnell, 2006; Soulsby et al., 2009;"
+"squares of
+the
+individual uncertainties. The main uncertainties"
+"Hrachowitz et al., 2009a, 2009b; 2010; 2013; Lachassagne et al.,"
+"outlined above (the choice of the lumped parameter model, aggre-"
+"2011).
+In addition to the geomorphology and geometry of
+the"
+"gation, errors
+in the
+assumed<s>3</s>Hinput,andthepresenceofa"
+"catchments,
+the hydraulic properties of
+the soils and underlying"
+"heterogeneous hydrogeological conductivity) are all approximately"
+"rocks together with variations in the degree of evapotranspiration"
+"±15%, which would imply an overall uncertainty in mean transit"
+"are
+also
+important. Because
+clearing
+of
+eucalypt
+vegetation in"
+"times of approximately ±30%. While this is considerable, the con-"
+"southeast Australia was
+commonly followed by an increase
+in"
+"clusion that the mean transit times are years to decades long is still"
+"recharge (Allison et al., 1990; Cartwright et al., 2006), it was antic-"
+"valid."
+"Relative differences in mean transit
+times within or between"
+"Table 3
+catchments are more readily assessed. The subcatchments may"
+"Correlationcoefﬁcientsbetweencatchmentattributesand<s>3</s>Hactivities."
+"have ﬂow paths with different geometries or different degrees of"
+"heterogeneity of hydraulic conductivity, which affects the compar-
+Catchment Attribute
+Combined<s>a</s>Yarra
+Latrobe"

@@ -1,0 +1,361 @@
+"H. Hofmann et al.","Journal of Hydrology 561 (2018) 557–572"
+"normalised following the method by Coplen (1988) and are expressed","one point in time has the same transit time. One of the most commonly"
+"σ(1
+)
+relative
+to V-SMOW.
+Precision
+based
+on
+replicate
+analysis
+is","used models is the exponential piston ﬂow model (EPM).
+It
+is a com-"
+"18
+2",""
+"δ
+δ
+O
+= ±
+0.1‰
+H
+= ±
+1‰
+and
+.","bination of
+the piston ﬂow model where the catchment has regions of"
+"Samplesfor<s>3</s>Hwerevacuumdistilledandenrichedbyelectrolysis","linear ﬂow and regions where the ﬂow paths have an exponential dis-"
+"prior
+to
+being
+analysed
+by
+liquid
+scintillation
+spectrometry
+using","tribution (Morgenstern et
+al., 2010). The
+solution to 1 for
+the
+ex-"
+"Quantulus ultra-low-level counters at
+the Institute of Geological and","ponential piston ﬂow model
+is given by Zuber et al. (2005):"
+"Nuclear Sciences
+(GNS), New Zealand. Following the
+improvements",""
+"","h τ
+for
+τ
+f
+)
+=
+0
+(1
+−
+)
+(2)
+m"
+"from (Morgenstern and Taylor, 2009)
+the
+sensitivity is now further",""
+"increased to a lower detection limit of 0.02 TU via tritium enrichment",""
+"","τ
+1
+−
+1"
+"by a factor of 95, and reproducibility of
+tritium enrichment of 1% is","⎡ ⎣⎢
+⎞ ⎠
+⎞ ⎠
+⎟
+⎟
+h τ
+fτ
+exp
+for
+τ
+τ
+f
+⩾
+−
+−⎛
++ ⎛
+− ⎤
+)
+=
+(
+)
+·
+(1
+)
+m
+m"
+"","⎦⎥
+fτ
+f"
+"","m
+(3)
+⎝
+⎝"
+"achieved via deuterium-calibration for every sample. The precision (1",""
+"sigma)
+is∼1.8%at2TU.<s>3</s>Hactivitiesareexpressedintritiumunits",""
+"","whereτ<s>m</s>isthemeanresidencetimeandftheratioofthevolumeofthe"
+"(TU)where1TUrepresentsa<s>3</s>H/<s>1</s>Hratioof1×10<s>−18</s>.<s>222</s>Rnactivities",""
+"","aquifer that exhibits exponential ﬂow to the total aquifer volume. The"
+"in stream water and pipe ﬂow were determined using a portable radon-",""
+"","EPM is widely used to estimate transit
+times in catchments where the"
+"in-air monitor (RAD-7, Durridge Co.) following methods described by",""
+"","water
+in the stream follows ﬂow paths of varying lengths but where"
+"BurnettandDulaiova(2006).Aglassﬂaskof0.5Lwasﬁlledand<s>222</s>Rn",""
+"","parts of
+the aquifer are conﬁned or where there is vertical
+recharge"
+"was degassed for 5 min into a closed air loop of ﬁxed volume (calibrated",""
+"","through
+the
+unsaturated
+zone
+above
+an
+aquifer
+that
+exhibits
+ex-"
+"by manufacturer) incorporating the RAD-7. Counting times were 1/2 h",""
+"","ponential ﬂow (Stewart et al., 2010; Cartwright and Hofmann, 2016)."
+"for stream water. Typical relative precision is 3% at 10,000 Bq m
+<s>−3</s>and",""
+"","The dispersion model
+(DM)
+is based on the one-dimensional ad-"
+"∼10% at 100 Bq m
+<s>−3</s>.Soilwatersamplesfromsuctioncupsweretoo",""
+"","vection
+dispersion
+equation
+for
+ﬂuid
+ﬂow
+in
+porous
+media"
+"smallfor<s>222</s>Rnanalysisandthevacuuminthesamplecontainerwould",""
+"","(Maloszewski, 2000; Jurgens et al., 2012). While not always considered"
+"inducedegassing.<s>222</s>Rnemanationrateswereestimatedfromthreesoil",""
+"","to be a realistic conceptualisation of the ﬂow system, it has been shown"
+"samples collected at the top of the catchment at Boundary Road, in the",""
+"","to reproduce time series of
+tracer activities
+(Stewart et al., 2010).
+It"
+"middle of
+the catchment at Eagles Nest and at
+the lower catchment at",""
+"","incorporates two parameters, a mean age and a dimensionless disper-"
+"Olinda Road. Dried soil samples of known weight were ﬁlled in airtight",""
+"","sion parameter
+(DP). DP is the inverse of
+the Peclet Number and de-"
+"containers. Distilled water was then added and the container was closed",""
+"","scribes the relative importance of dispersion and advection (DP = D/(v"
+"for5weeksbywhichtimetherateof<s>222</s>Rnproductionanddecayhave",""
+"","x) where D is
+the dispersion coeﬃcient
+inm<s>2</s>day<s>−1</s>,visvelocityin"
+"reached secular equilibrium. After 5 weeks, 40 ml of pore water was",""
+"","m day
+<s>−1</s>andxisdistanceinm)(Jurgensetal.,2012)."
+"extractedandanalysedfor<s>222</s>Rnusingthesamemethodasdescribed",""
+"","2"
+"<s>abovebutwithcountingtimesof12h.Emanationrates</s>γ<s>andequili-</s>","τ
+τ
+−
+1
+(1
+/
+)
+m"
+"","⎡ ⎣⎢
+⎤ ⎦⎥
+h τ
+exp
+−
+)
+="
+"brium<s>222</s>Rnactivitiesofthe sediments
+in the catchment were calcu-","DP τ
+τ
+4
+/
+)
+m
+τ
+πDP
+τ
+τ
+4
+(
+/
+)
+m
+(4)"
+"lated from the
+<s>222</s>Rnactivityofthe
+extracted pore water
+following",""
+"","Dispersion coefficient
+D
+(
+)"
+"","DP
+dispersion parameter
+=
+="
+"Lamontagne
+and
+Cook
+(2007),
+assuming
+a
+matrix
+density
+of","vx"
+"","Together,
+these are
+the most
+commonly used lumped parameter"
+"2800 kg m
+<s>−3</s>andaporosityof0.35,whichareappropriateforsiltysoils",""
+"","models
+for determining mean transit
+times
+(McGuire and McDonnell,"
+"with moderate clay content.",""
+"","2006). In catchments where long time-series (i.e. several years) data are"
+"","available,theyhavereproducedthemeasuredvariationin<s>3</s>Hactivities"
+"2.4. Estimating transit
+times",""
+"","over
+time (Maloszewski and Zuber, 1982; Zuber et al., 2005; Gusyev"
+"","et al., 2013; Morgenstern et al., 2015). The mean transit
+times were"
+"The time taken for water to ﬂow through a catchment from where it",""
+"","calculatedbycomparingtheobserved<s>3</s>Hactivitywiththosepredicted"
+"recharges to where it discharges into a stream (the transit time) can be",""
+"","by the transit
+timemodel(Jurgensetal.,2012).Because<s>3</s>Hactivities"
+"estimated using simpliﬁed lumped parameter models
+that
+reﬂect
+the",""
+"","are not aﬀected by reactions
+in the unsaturated zone,
+the estimated"
+"geometry and distribution of ﬂow paths within a catchment
+(Stewart",""
+"","mean transit times reﬂect both recharge through the unsaturated zone"
+"and Fahey, 2010; Jurgens et al., 2012). These models are based on",""
+"","and ﬂow through the aquifers."
+"simpliﬁed aquifer geometries and account for eﬀects of dispersion and",""
+"mixing
+of water
+that
+has
+followed ﬂow paths
+of
+diﬀerent
+lengths",""
+"","2.5. Mass balance calculations and binary mixing models"
+"(Jurgens et al., 2012). For steady-state ﬂow,
+the convolution integral",""
+"and the tracer concentration at
+<s>relatesthetracerinputovertime</s>C()
+inp",""
+"","If suﬃciently large, the diﬀerence in major ion concentration, stable"
+")
+(Maloszewski, 2000):
+<s>thecatchmentoutlet</s>C(out",""
+"","isotoperatios,<s>3</s>Hor<s>222</s>Rnactivitiesinsubsurfacewaterandrainwater"
+"","can be used to estimate the contributions of baseﬂow and storm event"
+"C
+C
+t
+τ h τ
+exp
+λτ dτ
+(
+−
+)
+(
+−
+∫<s>=</s>",""
+"out
+inp
+(1)",""
+"","water (Sklash and Farvolden, 1979; Godsey et al., 2009) via:"
+"τ(
+)<s>istheﬂowmodel</s><s>wheretisthesamplingtime,</s>τ<s>isthetransittime,h</s>",""
+"","Q
+C
+Q
+C
+Q
+C
+=
++
+(5)
+out
+out
+event
+event
+base
+base"
+"or
+response function of
+the hydrological
+<s>system,and</s>λis
+the decay",""
+"−1","CoutandQ<s>out</s>aretheﬂowandtracerconcentrationatthecatchment"
+"constant
+(0.0563 yr
+for
+<s>3</s>H).Theexponential
+term represents
+the",""
+"radioactivedecayof<s>3</s>H(Stewartetal.,2010).","are the ﬂow generated by surface runoﬀ and
+outlet,Q<s>event</s>andC<s>event</s>"
+"Lumped parameter models are most easily applied to conservative","interﬂowandtracerconcentrationsofrainfallandQ<s>base</s>andC<s>base</s>arethe"
+"tracers(suchas<s>3</s>Horthestableisotopes)thatmigratedatthesamerate","ﬂow and tracer concentration of subsurface catchment water stores."
+"as the water (Jurgens et al., 2012). The application of these models to a",""
+"speciﬁc catchment requires a conceptual understanding of the geometry","3. Results"
+"of
+the groundwater ﬂow system. The
+exponential ﬂow model
+(EM)",""
+"describes mean transit
+times in a homogeneous, unconﬁned aquifer of","The presentation of the results is split in two parts: ﬁrst the monthly"
+"constant thickness and with uniform recharge. The combined ﬂow to a","sampling that constrains general catchment behaviour, and second the"
+"stream at the outﬂow constitutes water from ﬂow paths from the entire","short-term storm event
+sampling that
+encapsulates
+catchment beha-"
+"aquifer
+that have
+an exponential
+transit
+time
+distribution
+(Stewart","viour following storm events. The distinction is made on the frequency"
+"et al., 2010). The piston ﬂow model (PFM) assumes linear ﬂow with no","occurrence
+of ﬂows where
+0
+to
+10% (Q10)
+represents
+high ﬂows"
+"mixing within the aquifer such that all water discharging to a stream at","and > 10% represents low ﬂows (Fig. 2). The equivalent ﬂow value for"

@@ -1,0 +1,384 @@
+﻿with global,sea,level,rise,(SLR),causing,seawater,intrusion,Unnamed: 0,water levels and the hydrochemical and isotopic composition of
+"(Nicholls et al., 2007), as well as a decline in recharge in areas of",,,,,,,,,"rainwater, surface waters, seawater and groundwaters to confirm"
+reduced rainfall and a subsequent decrease in the volume of fresh-,,,,,,,,,"the origin of the groundwater, the current extent of the lens and"
+"water available for utilisation (White and Falkland, 2010).",,,,,,,,,identify seawater intrusion of either modern or older seawater. It
+"These issues are intensified on islands, where groundwater is",,,,,,,,,also aims to identify temporal changes to the lens extent and vari-
+often present in the form of a shallow freshwater lens according,,,,,,,,,ations in the volume of groundwater recharge since the 1970s by
+to the Ghyben–Herzberg,,,principle,,"(Ghyben,",1889;,"Herzberg,",,comparing the results to historic hydrochemical and rainfall data.
+"1901), which involves fresh or brackish water ‘floating’ on more",,,,,,,,,This paper quantifies the effects of groundwater abstraction and
+"saline water due to density differences. On small carbonate islands,",,,,,,,,,climate variability on the freshwater lens extent and has implica-
+freshwater lenses are generally constrained to certain parts of the,,,,,,,,,tions for the sustainable management of the groundwater
+"island, with the dominant controls on lens geometry being the size",,,,,,,,,"resources on small carbonate islands, both in Australia and else-"
+"and shape of the island, as well as geologic variability (Cant and",,,,,,,,,where in the world.
+"Weech, 1986; Vacher, 1997; Ritzi et al., 2001; Schneider and",,,,,,,,,
+"Kruse, 2003). Spatial patterns of elevation, surficial geomorphol-",,,,,,,,,
+,,,,,,,,,2. Environmental setting
+"ogy, permeability and vegetation (Schneider and Kruse, 2003), as",,,,,,,,,
+"well as recharge source and tidal range (Ataie-Ashtiani et al.,",,,,,,,,,
+,,,,,,,,,Rottnest Island is a small carbonate eolianite island located
+1999) can also impact on freshwater lens geometry.,,,,,,,,,
+,,,,,,,,,"18 km off the coast of Perth, Western Australia, and is part of the"
+Freshwater lenses are particularly vulnerable to both natural,,,,,,,,,
+,,,,,,,,,"world’s longest carbonate eolianite deposit (Brooke, 2001)"
+"and anthropogenic threats, due to their heavy reliance on rainfall",,,,,,,,,
+,,,,,,,,,(Fig. 1A and B). The island is an A-Class reserve under the Land
+recharge and the potential for contamination from human activi-,,,,,,,,,
+,,,,,,,,,"Administration Act 1997, which provides the highest level of pro-"
+"ties (White and Falkland, 2010). The global threat of seawater",,,,,,,,,
+,,,,,,,,,tection for public land in Western Australia and limits all activities
+intrusion is well,,documented,,(Kinzelbach,,"et al., 2003;","Post,",,
+,,,,,,,,,which may disturb its environment. Rottnest Island is a well-
+"2005; Barlow and Reichard, 2010) and is primarily associated with",,,,,,,,,
+,,,,,,,,,"known Australian tourist destination, with approximately"
+"intensive groundwater abstraction (Yakirevich et al., 1998; Barlow,",,,,,,,,,
+,,,,,,,,,"500,000 visitors per year, which creates a significant demand for"
+"2003; Barlow and Reichard, 2010), reduced rainfall and coastal",,,,,,,,,
+,,,,,,,,,water resources on the island.
+"topography (Oude Essink et al., 2010; Ferguson and Gleeson,",,,,,,,,,
+2012). Methods to,,investigate saltwater,,,intrusion range from,,,,
+"hydrochemical (Stuyfzand, 1999; Andersen et al., 2005; Appelo",,,,,,,,,2.1. Climate
+"and Postma, 2005; Sivan et al., 2005) to geophysical (Fretwell",,,,,,,,,
+"and Stewart,",1981;,Fitterman,,and,"Deszcz-Pan,",1998;,"Paine,",,Rottnest Island has a Mediterranean type climate characterised
+"2003), with a recent review of seawater intrusion processes and",,,,,,,,,"by hot, dry summers and mild, wet winters. The island has a long"
+investigations provided by Werner et al. (2013).,,,,,,,,,term average rainfall of 691 mm/year (1880–2015) and an annual
+While the occurrence and principles of saltwater intrusion is,,,,,,,,,reference evapotranspiration (ETo) of 1694 mm (Station Number
+"well known, the number of well-characterised examples of saltwa-",,,,,,,,,"9038 and 9193) (BOM, 2016b). Rainfall in the south-west Western"
+"ter intrusion remains small,",,,,limiting our understanding of its,,,,,Australian region has been below average since the mid 1960s
+dynamics on,real-world,,scales,(Werner,et,"al., 2013).",Well-,,"(Smith et al., 2000), with the cumulative rainfall residual (see"
+documented cases of salt water intrusion therefore provide an,,,,,,,,,Fig. 2 caption for a description) on Rottnest Island reflecting this
+important contribution to the body of literature surrounding the,,,,,,,,,trend (Fig. 2A). This has the potential to impact on the volume of
+topic due to the uniqueness and complexities that surround each,,,,,,,,,"freshwater available on Rottnest Island, as rainfall is the sole"
+"incidence of saltwater intrusion (Werner et al., 2013). Determining",,,,,,,,,source of freshwater recharge to the aquifer.
+the causes of seawater intrusion is imperative for the sustainable,,,,,,,,,
+utilisation and management of vulnerable groundwater resources.,,,,,,,,,2.2. Land use and vegetation
+This study investigates a freshwater lens on a small carbonate,,,,,,,,,
+island in south-west Western Australia which has been utilised,,,,,,,,,Rottnest Island has been used for various purposes since Euro-
+as a potable water source since 1977. Groundwater abstraction,,,,,,,,,"pean settlement in the 1830s including as an aboriginal prison, for"
+on the Island peaks in the summer months (December-February),,,,,,,,,"military training and agricultural purposes. In recent decades, as"
+"due to demand for water over the tourist season, which coincides",,,,,,,,,"mentioned, it is primarily a tourist destination. The vegetation of"
+with a period of little to no rainfall in the region. The long term via-,,,,,,,,,"Rottnest Island, which once covered an estimated 65% of the Island,"
+bility of the lens has come into question due to declining rainfall in,,,,,,,,,"has been heavily depleted by human activities and fire, with native"
+"the region since the mid 1960s (Smith et al., 2000; Barria et al.,",,,,,,,,,forest and woodland cover reduced to 23% by 1941 and 5% by 1997
+2015). Recent high-resolution global climate modelling suggests,,,,,,,,,"(Playford, 1997). The vegetation has also been impacted by native"
+that rainfall will continue to decline in the region by approximately,,,,,,,,,marsupials known as quokkas (Setonix brachyurus) (Rippey and
+40% from the 1911 to 1970 average by the late twenty-first century,,,,,,,,,"Hobbs, 2003). The native flora of Rottnest Island consists of around"
+"(Delworth and Zeng, 2014). Despite early studies which investi-",,,,,,,,,"140 species, with the coast dominated by grasses including Spinifex"
+"gated the dimensions of the freshwater lens (Playford and Leech,",,,,,,,,,"sericeus and Westringia fruticosa (Gouramanis et al., 2012). Acacia"
+"1977; Smith, 1982; Davidson and Mory, 1990; Hirschberg and",,,,,,,,,"rostelifera shrubs and three tree species (Melaleuca lanceolata,"
+"Smith, 1990; Davidson, 1991; Playford, 1997), no further studies",,,,,,,,,Callitris preissii and Pittosporum ligustrifolium) dominate the inland
+"regarding the impacts of abstraction, a drying climate or tidal",,,,,,,,,"areas of the island (Rippey and Hobbs, 2003). Salt lakes that occur"
+effects have been conducted to assess whether active salt water,,,,,,,,,on the island are surrounded by various salt tolerant plants
+"intrusion is impacting the geometry of the freshwater lens, and if",,,,,,,,,"including species of Chenopodiaceae, Cyperaceae, Juncacaeae and"
+so its exact causes. Understanding these aspects of the lens is vital,,,,,,,,,"Templetonia retusa (Gouramanis et al., 2012). Revegetation has"
+for the effective utilisation and management of available water,,,,,,,,,"commenced around the Island, however the area above the fresh-"
+"resources, particularly in light of the decreasing rainfall in the",,,,,,,,,water lens has been left generally free of trees to ensure maximum
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,90000 No Data,Unnamed: 4
+,,A,,B80000,
+4500,,1000,,,1880
+,,,,70000,
+,,,,,1890
+3500,,800,,60000,1900
+,,,,50000,1910
+2500,,600,,,
+,,,,40000,1920
+1500,,400,,30000,1930
+,,,,20000,1940
+500,,200,,,
+,,,,10000,1950
+-500,,0,,0,1960
+,,,,,1970
+,,,,,1980
+,,,,,1990
+,Year,,,Year,
+,,,,,2000
+,Annual Rainfall,Long Term Annual Average,,Cumulative Rainfall Residual Abstraction,2010
+,Above Average Rainfall,Average Rainfall,,Below Average Rainfall,
+"Fig. 2. (A) Annual rainfall and annual cumulative rainfall residual for Rottnest Island from 1880 to 2013, showing a period of below average rainfall from the mid 1960s to",,,,,
+"present (BOM, 2016b). The cumulative rainfall residual curve is calculated by subtracting the long term average annual rainfall from the recorded rainfall for a single year, and",,,,,
+"adding the difference to a rolling sum. A rising slope indicates a period of higher than average rainfall, while a falling slope indicates a period of lower than average rainfall;",,,,,
+and (B) annual groundwater abstraction from the freshwater lens on Rottnest Island. Data is unavailable for the period 1987–2000.,,,,,
+"Undulating hills and sand dunes characterise most of the Island,",,,"turned brackish to saline on pumping (Playford, 1997). We hypoth-",,
+with an absence of water courses due to the highly permeable nat-,,,esise that fresh groundwaters on the Rottnest Island have a young,,
+ure of the Tamala limestone. A number of permanent hypersaline,,,"meteoric origin, however the source of brackish and saline samples",,
+,,,,,1977/78
+lakes at or slightly below mean sea level are present and cover,,,is less certain due to the various possible endmembers on Rott1n9e7st9/80,,
+approximately 10% of,the Island’s,surface area (Playford and,"Island (hypersaline lakes, modern seawater or older seawater)1.981/82",,
+"Leech, 1977), as well as many lower salinity inter-dunal swamps",,,,Production wells have been utilised since 1977 to extract w1a9te8r3/84,
+"(Edward and Watson, 1959; Edward, 1983). The lakes are believed",,,from the freshwater lens (Figs. 1A and 2B). They supply around12958%5/86,,
+"1987/88to be partially filled remnants of ‘‘blue holes”, which resulted from",,,of the island’s potable water and supplement water supplied by a,,
+,,,,,1989/90
+repeated carbonate deposition and dissolution cycles controlled by,,,"desalination plant (Department of Water, 2014), which was c1o9m9-1/92",,
+"Quaternary sea level fluctuations (Mylroie et al., 1995), and closely",,,missioned,"in 1995 and upgraded in 2006,",to meet grow1i9n9g3/94
+resemble those of the Houtman Abrolhos reefs located 450 km,,,demand. A number of observation wells were also installed aro1u9n9d5/96,,
+north of Rottnest,"Island (Playford, 1988; Collins et al., 1991,",,both freshwater lenses in the 1990s to monitor possible salin1i9sa9-7/98,,
+,,,,,1999/00
+"1993). Repeated evaporation of the lakes during summer, which",,,tion (Fig. 1A). Water resource use on Rottnest Island is adminis-,,
+,,,,,2001/02
+"were once connected to the sea, intensifies the observed hyper-",,,tered by,"the Western Australian Government, Departmen2t0o0f3/04",
+saline conditions,(pre-summer 2014,"TDS: 85,146 mg/L; post-",Water in accordance with the Rights in Water and Irrigation2A0c0t5/06,,
+"summer 2014 TDS: 336,610 mg/L (unpublished research)). While",,,1914.,The Rottnest Island Authority manages,groundw2a0te0r7/08
+algal-cyanobacterial mats and mud sediments act as seals on the,,,abstraction on Rottnest Island and is licensed by the departm2e0n0t9/10,,
+lake floors and prevent interaction with groundwater from below,,,"to abstract up to 120,000 m",3 per year from the freshwater lens,2011/12
+,,,,,2013/14
+"(Playford, 1997), limited discharge from the freshwater lens via",,,for public drinking water supply.,,
+seeps is observed around the perimeter of some lakes.,,,,,
+The freshwater lens on the Island is located within the upper,,,,,
+"section of the Tamala Limestone, with a mixing zone below",,,3. Materials and methods,,
+"reported to be more than 10 m thick (Edward and Watson, 1959;",,,,,
+"Playford and Leech, 1977) (Fig. 1B). Although there are no standard",,,3.1. Field procedures,,
+"practices for defining the mixing zone, for the purpose of this paper",,,,,
+the mixing zone is characterised by TDS values between 1000 mg/L,,,,During two field campaigns in September 2014 and March,
+"and 35,000 mg/L (Barlow, 2003). The water table was previously",,,"2015, twenty-nine samples were collected from production and",,
+"suggested to be at a maximum of 0.5 m above sea level, with the",,,monitoring wells throughout the study area. Monitoring well sam-,,
+freshwater extending to,8.5 m below sea level (Playford and,,ples were collected using a plastic submersible centrifugal pump,,
+"Leech, 1977).",The spatial extent of,the freshwater lens was,"(Supernova 120), while production well samples were collected",,
+reported to have contracted significantly by the late 1970s due to,,,using permanently installed production pumps. Samples were col-,,
+a decline in precipitation,since the mid-1960s,(Playford and,"lected at, or just above the well screen, which are located at the",,
+"Leech, 1977), which occurred prior",,to the commencement of,"bottom of each well, and measure a maximum of 1.5 m in length.",,
+"groundwater abstraction in 1977. A second, smaller freshwater",,,"One swamp, four lake and an ocean sample were also collected",,
+"lens is also present on the island, however it is not utilised for",,,from around the study site using a peristaltic pump (Masterflex,,
+groundwater abstraction (Fig. 1A). Early investigations into the,,,"E/S portable sampler). In-field measurements including pH, tem-",,
+prevalence of fresh groundwater outside the lens perimeter and,,,"perature, electrical conductivity (EC) and dissolved oxygen (DO)",,
+across the island found a thin layer of potable water which quickly,,,were measured (YSI 556 Multiparameter Instrument). After stand-,,
+analysis were filtered through 0.45 lm filters and collected in,at a reference level zr across the freshwater lens to correct for den-
+"60 mL, 30 mL and 1 L high density poly-ethylene (HDPE) bottles,","sity effects according to the following formula (Post et al., 2007):"
+"respectively, with no further treatment. Samples for cations were",qi qa
+collected in 60 mL HDPE bottles and acidified with nitric acid,hf ;r 1⁄4 zr þ qf ðhi ziÞ q fðz r z Þ ið1Þ
+(HNO3). Dissolved Inorganic Carbon (DIC) and stable isotopes of,
+"DIC (13CDIC) samples were filtered through 0.2 lm filters, collected","where qi is groundwater sample density, qf is freshwater density, qa"
+d18Analysis Ca,K,Mg,Na,Cl,2 SO4,Unnamed: 0,a HCO3,Unnamed: 1,d2 H,Unnamed: 2,O,Unnamed: 3,d-excess
+Units mmol/L,mmol/L,mmol/L,mmol/L,mmol/L,mmol/L,,mmol/L,,‰,,‰,,‰
+Average 0.12,0.05,0.20,1.78,1.98,0.13,,0.06,,10.2,,3.2,,15.6
+S.D. 0.09,0.04,0.15,1.30,1.62,0.11,,0.06,,11.2,,1.5,,3.5
+Minimum 0.03,0.01,0.03,0.28,0.34,0.03,,0.00,,48.7,,7.4,,4.1
+Maximum 0.39,0.14,0.60,5.35,7.33,0.52,,0.20,,3.3,,1.0,,22.9
+Number 25,25,25,25,52,52,,25,,52,,52,,52
+jID Sample,Sample date,Screen elevation,c T,( C),pH,d DO,Unnamed: 0,Density,e TDS,Unnamed: 1,Historic,Unnamed: 2,2+ Ca,Unnamed: 3,2+ Mg,Unnamed: 4,+ Na,Unnamed: 5,+ K,Unnamed: 6,Cl,2 SO4,Unnamed: 7,HCOs,2+ Sr,Unnamed: 8,g CBE,Unnamed: 9,Water type,h fsea,Unnamed: 10,d H 2,Unnamed: 11,d 18,O,Unnamed: 12,i d-excess,Unnamed: 13,3 H (TU),Unnamed: 14,d 13,C,Unnamed: 15,DIC
+ftype a,,b (m AHD),,,,(mg/L),,3 (g/cm ),(mg/L),,TDS (mg/L),,(mmol/L),,(mmol/L),,(mmol/L),,(mmol/L),,(mmol/L),(mmol/L),,(mmol/L),(mmol/L),,(%),,,,,(‰),,(‰),,,(‰),,,,(‰),,,(mmol/L)
+2-77 Prod,29/09/2014,0.11,18.5,,7.6,1.8,,0.9988,672,,,,1.02,,1.66,,4.25,,0.14,,4.55,0.47,,4.49,0.03,,1.0,,Na-Mg-Ca-Cl-HCO3,0.0,,18.2,,,4.31,,16.28,,,,,7.0,,4.72
+3-77 Prod,29/09/2014,0.01,15.9,,7.5,1.5,,0.9989,776,,870,,1.25,,2.05,,4.53,,0.13,,5.06,0.65,,5.21,0.03,,1.3,,Na-Mg-Ca-HCO3-Cl,0.0,,19.5,,,4.23,,14.34,,0.89,,,8.2,,5.59
+1-83 Prod,28/09/2014,0.09,16.5,,7.5,1.6,,0.9989,789,,560,,1.35,,1.84,,4.92,,0.13,,6.13,0.64,,4.65,0.04,,2.5,,Na-Mg-Ca-Cl-HCO3,0.0,,17.4,,,3.82,,13.21,,0.96,,,8.6,,4.96
+4-83 Prod,30/09/2014,0.11,16.8,,7.8,4.2,,0.9988,674,,650,,1.05,,1.95,,3.78,,0.13,,4.44,0.66,,4.29,0.04,,0.6,,Mg-Na-Ca-Cl-HCO3,0.0,,18.2,,,3.96,,13.48,,1.11,,,5.9,,4.47
+1-90 Prod,29/09/2014,0.90,15.9,,7.5,2.5,,1.0003,2461,,490,,1.88,,3.84,,26.42,,0.62,,35.06,1.04,,5.07,0.05,,4.6,,Na-Cl,0.06,,17.2,,,3.98,,14.64,,0.67,,,6.7,,5.39
+2-90 Prod,29/09/2014,0.50,18.5,,7.8,3.6,,0.9987,605,,539,,1.02,,1.54,,3.57,,0.10,,4.24,0.41,,4.00,0.02,,1.4,,Na-Mg-Ca-Cl-HCO3,0.0,,17.7,,,4.21,,15.98,,,,,6.5,,4.16
+6-90 Prod,29/09/2014,0.64,18.6,,7.7,3.4,,0.9988,799,,401,,1.47,,1.63,,5.36,,0.13,,6.75,0.46,,4.61,0.02,,2.5,,Na-Mg-Ca-Cl-HCO3,0.0,,19.6,,,4.29,,14.72,,0.62,,,8.6,,4.83
+8-90 Prod,29/09/2014,0.59,18.8,,7.4,1.9,,0.9992,1144,,528,,1.45,,2.57,,8.89,,0.26,,9.24,0.97,,6.19,0.03,,0.5,,Na-Mg-Cl-HCO3,0.01,,16.3,,,4.11,,16.58,,,,,7.3,,6.67
+16-90 Prod,28/09/2014,0.28,16.8,,7.4,1.3,,0.9989,812,,434,,1.57,,1.90,,4.71,,0.14,,5.91,0.54,,5.24,0.04,,1.6,,Na-Mg-Ca-Cl-HCO3,0.0,,16.6,,,3.92,,14.76,,0.96,,,9.8,,5.65
+17-90 Prod,30/09/2014,0.06,16.7,,7.9,3.5,,0.9989,787,,533,,1.17,,2.02,,5.05,,0.15,,5.93,0.74,,4.52,0.04,,1.4,,Na-Mg-Cl-HCO3,0.0,,17.9,,,3.87,,13.06,,,,,8.6,,4.68
+3-93 Prod,29/09/2014,0.27,18.7,,7.6,2.9,,0.999,833,,698,,1.17,,2.02,,6.06,,0.13,,7.52,0.66,,4.17,0.03,,1.6,,Na-Mg-Cl-HCO3,0.01,,20.0,,,4.28,,14.24,,,,,5.9,,4.41
+6-93 Prod,29/09/2014,0.22,16.6,,7.6,4.0,,0.9988,713,,745,,1.17,,1.68,,4.33,,0.12,,5.48,0.42,,4.57,0.02,,3.5,,Na-Mg-Ca-Cl-HCO3,0.0,,19.1,,,4.47,,16.66,,,,,5.8,,4.81
+5-90 Mon,27/09/2014,6.90,17.3,,7.3,0.4,,1.0043,6868,,860,,3.93,,10.52,,93.34,,1.95,,97.02,3.31,,7.51,0.13,,5.5,,Na-Cl,0.17,,17.7,,,3.76,,3.80,,0.12,,,2.3,,8.13
+7-90 Mon,12/03/2015,7.06,22.3,,7.4,3.3,,1.014,"20,676",,2310,,6.81,,31.48,,275.43,,5.64,,320.86,16.35,,3.65,0.06,,0.0,,Na-Cl,0.57,,5.6,,,1.58,,7.04,,0.67,,,3.1,,3.86
+11-90 Mon,26/09/2014,6.19,18.6,,7.5,0.5,,1.0254,"29,675",,6150,,9.58,,41.75,,383.69,,8.04,,473.24,23.01,,3.57,0.13,,2.8,,Na-Cl,0.84,,1.4,,,0.36,,0.36,,0.09,,,7.3,,3.75
+13-90 Mon,11/03/2015,3.55,20.1,,7.2,0.5,,1.002,4997,,920,,2.50,,7.59,,59.33,,1.19,,74.12,2.86,,6.42,0.08,,3.3,,Na-Cl,0.13,,17.7,,,4.08,,14.94,,0.21,,,4.1,,7.23
+15-90 Mon,26/09/2014,14.92,19.4,,7.5,0.2,,1.0154,"22,977",,5550,,7.14,,32.89,,282.81,,6.55,,380.99,16.16,,3.04,0.26,,6.4,,Na-Cl,0.68,,9.1,,,2.12,,2.12,,0.03,,,2.9,,3.21
+18-90 Mon,27/09/2014,11.16,17.8,,7.4,0.3,,1.0175,"25,267",,6700,,7.44,,37.90,,311.96,,7.67,,409.13,20.45,,3.78,0.06,,5.6,,Na-Cl,0.73,,5.1,,,1.3,,1.30,,0.07,,,5.9,,4.01
+21-90 Mon,26/09/2014,4.04,19.1,,7.4,0.3,,1.0012,3584,,740,,2.90,,5.61,,38.46,,1.06,,46.38,3.76,,6.47,0.03,,3.3,,Na-Cl,0.08,,18.1,,,3.94,,3.94,,,,,9.0,,7.00
+24-90 Mon,26/09/2014,3.47,19.4,,7.6,0.4,,0.9993,1211,,740,,1.48,,2.62,,9.02,,0.28,,11.87,1.11,,5.48,0.04,,5.6,,Na-Mg-Cl-HCO3,0.01,,18.5,,,3.98,,3.98,,,,,7.4,,5.81
+25-90 Mon,27/09/2014,,17.5,,7.5,0.3,,1.01,"14,489",,970,,4.86,,22.19,,187.87,,3.93,,224.96,11.19,,4.11,0.10,,1.2,,Na-Cl,0.4,,11.2,,,2.46,,2.46,,,,,2.2,,4.33
+27-90 Mon,26/09/2014,4.98,19.0,,7.3,0.9,,1.0159,"20,824",,650,,6.99,,32.33,,288.46,,6.12,,308.92,17.47,,4.85,0.10,,3.3,,Na-Cl,0.55,,5.8,,,1.43,,1.43,,,,,3.0,,5.22
+28-90 Mon,26/09/2014,1.52,20.0,,7.5,1.1,,0.9999,1986,,420,,2.20,,2.60,,20.61,,0.53,,27.36,0.67,,4.89,0.04,,4.4,,Na-Cl,0.04,,16.9,,,3.81,,3.81,,0.95,,,9.8,,5.23
+31-90 Mon,28/09/2014,9.20,18.4,,7.6,0.3,,1.0122,"16,344",,5860,,7.69,,25.58,,217.12,,4.55,,244.19,14.22,,4.01,0.06,,2.0,,Na-Cl,0.43,,8.9,,,2.32,,2.32,,0.07,,,9.4,,4.20
+1-94 Mon,28/09/2014,0.53,18.7,,7.7,4.6,,0.9989,667,,130,,1.52,,1.34,,3.73,,0.11,,4.55,0.37,,4.58,0.01,,1.6,,Na-Ca-Mg-HCO3-Cl,0.0,,19.1,,,4.34,,4.34,,,,,9.7,,4.79
+2-94 Mon,28/09/2014,1.00,19.2,,7.6,7.1,,0.9987,474,,230,,1.45,,0.70,,2.27,,0.08,,2.68,0.29,,3.52,0.01,,1.0,,Ca-Na-Mg-HCO3-Cl,0.0,,17.7,,,4.2,,4.20,,1.35,,,11.0,,3.72
+3-94 Mon,27/09/2014,0.72,17.6,,7.6,3.0,,0.9993,1244,,160,,1.80,,2.03,,10.81,,0.25,,13.68,0.73,,4.99,0.01,,3.7,,Na-Mg-Cl-HCO3,0.02,,16.5,,,4.13,,4.13,,,,,11.4,,5.29
+4-94 Mon,27/09/2014,1.83,17.5,,7.6,2.4,,0.9992,1075,,175,,1.40,,2.79,,7.32,,0.20,,8.90,1.04,,5.69,0.05,,2.3,,Na-Mg-Cl-HCO3,0.01,,18.2,,,4.27,,4.27,,0.67,,,6.7,,5.99
+5-94 Mon,27/09/2014,1.87,18.6,,7.7,1.1,,0.9992,1040,,,,1.28,,2.64,,7.54,,0.24,,8.85,1.17,,5.01,0.06,,1.7,,Na-Mg-Cl-HCO3,0.01,,19.5,,,4.38,,4.38,,0.42,,,4.1,,5.24
+LV Lake,30/09/2014,,16.7,,8.4,4.4,,1.0872,"102,355",,,,24.60,,175.08,,1555.00,,34.03,,1524.00,74.85,,2.18,0.26,,8.4,,Na-Cl,2.73,,9.1,,1.68,,,4.34,,,,,2.8,,2.91
+LS Lake,30/09/2014,,15.4,,9.0,2.4,,1.0566,"69,331",,,,28.04,,107.06,,986.51,,20.33,,1025.30,66.30,,0.81,0.36,,4.8,,Na-Cl,1.84,,13.9,,2.40,,,5.27,,,,,11.2,,1.58
+PL Lake,30/09/2014,,16.5,,8.6,5.2,,1.0745,"85,146",,,,25.96,,146.31,,1313.90,,27.13,,1196.80,76.66,,1.53,0.39,,10.9,,Na-Cl,2.14,,9.4,,1.52,,,2.72,,,,,3.2,,2.19
+LB Lake,12/03/2015,,28.0,,7.5,1.7,,1.1246,"186,692",,,,30.05,,298.15,,2572.60,,54.79,,3216.30,150.87,,3.36,0.37,,3.6,,Na-Cl,5.77,,,,,,,,,,,,3.0,,3.87
+BS Swamp,29/09/2014,,23.1,,10.1,14.6,,1.0138,"17,833",,,,4.71,,33.13,,234.93,,5.21,,258.25,20.07,,0.43,0.20,,2.1,,Na-Mg-Cl,0.46,,15.9,,2.66,,,5.39,,,,,11.1,,2.41
+SW SW,12/03/2015,,21.2,,8.1,6.7,,1.0216,"35,780",,,,10.12,,54.23,,480.74,,10.48,,560.56,31.35,,1.95,0.07,,0.5,,Na-Cl,1.0,,5.2,,0.70,,,0.40,,,,0.9,,,2.11
+0,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,0.1,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21
+-4,,,,,,,,,,,-4,,,,,,,,,,,,
+-8,,,,,,,,,,,-8,,,,,,,,,,,,
+-12,,,,,,,,,,,-12,,,,,,,,,,,,
+,,,,,,,,,A,,,,,,,,,,,,B,,
+-16,,,,,,,,,,,-16,,,,,,,,,,,,
+0,100,,200,300,400,,500.0,,600,,0,,2,,4,6,,8,,10,,12.0,
+,,,-,,,,,,,,,,,,2+,,,,,,,,
+,,,Cl (mmol/L),,,,,,,,,,,,Ca,(mmol/L),,,,,,,
+0,,,,,,,,,,,0,,,,,,,,,,,,
+-4,,,,,,,,,,,-4,,,,,,,,,,,,
+-8,,,,,,,,,,,-8,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,ANOXIC,,,
+-12,,,,,,,,,,,-12,,,,,,,,,,,,
+,,,,,,,,,C,,,,,,,,,,,,D,,
+-16,,,,,,,,,,,-16,,,,,,,,,,,,
+0,,2.0,,4,6,,,,,8,0,1,,2.0,3,4 5,,,6,7,,8.0,
+,,,-,,,,,,,,,,,,,,,,,,,,
+,,,HCO (mmol/L),,,,,,,,,,,,DO (mg/L),,,,,,,,
+,,,3,,,,,,,,,,,,,,,,,,,,
+,,,,TDS,Fresh,,,,Brackish,,,Saline,,,Seawater,,,,,,,,
+,,,,Sample Type,,,,Groundwater,,,,Seawater,,,Rainfall,,,,,,,,
+"2+Fig. 5. Bivariate plots showing elevation compared to (A) Cl , (B) Ca",,,,,,,,,,", (C) HCO3 and (D) Dissolved Oxygen (DO) for groundwaters and seawater.",,,,,,,,,,,,,
+All fresh and brackish groundwaters fall on the Perth LMWL and,,,,,,,,,,,11.0‰,to,2.3‰,,and from,9.4‰,,to,2.2‰,,respectively,,
+are isotopically similar to rainfall samples collected on Rottnest,,,,,,,,,,,"(Table 2). All samples are depleted compared to seawater (0.9‰),",,,,,,,,,,,,
+Island. These results support the assumption that fresh groundwa-,,,,,,,,,,,and show some enrichment with decreasing depth (data not,,,,,,,,,,,,
+"ters have a predominantly rainfall origin, with the saline portion of",,,,,,,,,,,shown).,Surface water,,,d13CDIC,values,range,,from,,11.1‰,,to
+brackish samples resulting from either seawater mixing or salts,,,,,,,,,,,2.8‰. Groundwater d13CDIC values do not show any correlation,,,,,,,,,,,,
+dissolved by rainfall derived from dry deposition. Saline ground-,,,,,,,,,,,"with DIC concentrations, which range from 3.21 to 8.13 mmol/L.",,,,,,,,,,,,
+water values are more enriched relative to rainfall and deviate,,,,,,,,,,,Groundwater,,"3H concentrations range from 0.03 to 1.35 TU,",,,,,,,,,,
+away from both the Rottnest and Perth LMWL and towards the sur-,,,,,,,,,,,with most saline samples showing 3H concentrations close to or,,,,,,,,,,,,
+"face seawater sample, which suggests that simple mixing is the",,,,,,,,,,,below the detection limit (0.06 TU) (Fig. 8). Measurable 3H concen-,,,,,,,,,,,,
+predominant influence on the isotopic composition of these saline,,,,,,,,,,,trations indicate that fresh and brackish groundwaters have been,,,,,,,,,,,,
+waters. Surface waters are further enriched in d18O and d2H com-,,,,,,,,,,,"recharged in the last 60 years, while deeper saline groundwaters",,,,,,,,,,,,
+"pared to groundwater samples and seawater, with the enrichment",,,,,,,,,,,without 3H may indicate older seawater below the freshwater lens,,,,,,,,,,,,
+trend associated with increasing Cl,,,,concentration.,,,,,,,(Fig. 8). 3H concentrations and elevation are positively correlated,,,,,,,,,,,,
+"The deuterium excess (d-excess), given by d = d2H-8 ⁄ d18O, pro-",,,,,,,,,,,"(r2 = 0.83; excluding the outlier), however one sample, 7-90, does",,,,,,,,,,,,
+vides information regarding precipitation sources and evaporative,,,,,,,,,,,not fit within the observed trend of declining 3H concentration,,,,,,,,,,,,
+"processes occurring within the system (Dansgaard, 1964). Ground-",,,,,,,,,,,with decreasing elevation (Fig. 8). Well 7-90 is located in close,,,,,,,,,,,,
+"water d-excess values range from 1.5‰ to 16.7‰, while surface",,,,,,,,,,,"proximity to the coast (110m; Fig. 4), with the likely cause of the",,,,,,,,,,,,
+water d-excess values range from,,,5.4‰ to,,0.4‰. A comparison,,,,,,elevated tritium concentration being modern seawater intrusion,,,,,,,,,,,,
+of d-excess and Cl,further emphasises the isotopic enrichment,,,,,,,,,,"during the last decade, or mixing of older seawater (>60 years)",,,,,,,,,,,,
+"trend occurring in increasingly saline samples, with a linear trend",,,,,,,,,,,with fresh rainfall recharge.,,,,,,,,,,,,
+observed between fresh groundwaters and seawater (r2 =,,,,,,,,0.63).,,,,,,,,,,,,,,,
+Surface waters do not follow this trend and show more varied iso-,,,,,,,,,,,4.5. Lens area and recharge estimates,,,,,,,,,,,,
+topic values (Fig. 7B).,,,,,,,,,,,,,,,,,,,,,,,
+Fresh groundwater d13CDIC values range from,,,,,11.0‰ to,,,"5.8‰,",,,The extent of the freshwater lens was investigated using a,,,,,,,,,,,,
+while brackish,and saline,,groundwater,,samples range,,,from,,,"hydrochemical and isotopic approach, with fresh groundwater",,,,,,,,,,,,
+"across the lens area in 2014, which equates to 37% of rainfall, while",ting towards the isotopic composition of seawater (Fig. 7A and B).
+the simple water balance approach (Eq. (7)) estimates a maximum,"The presence of saline (16,334–29,675 mg/L TDS), anoxic waters"
+"recharge volume of 428,160 m3 in 2014, which represents 59% of",(<0.05 mg/L DO) below the freshwater lens without measurable
+rainfall in that year. Groundwater abstraction over the same period,tritium suggests that the saline water is older seawater (>60 years)
+"was 21,366 m3, which corresponds to between 5% and 9% of",that has mixed with older fresh waters recharged >60 years ago.
+gen (3.26 mg/L) and has measurable 3H (0.67 TU) which does not,"water could be present above the screened interval, with further"
+follow the trend observed in all other saline groundwaters.,investigation required to determine if abstraction from these pro-
+Weighted annual average tritium values in Perth rainfall have ran-,duction wells has exacerbated saltwater intrusion in the northern
+ged between 1.29 TU and 33.7 TU since 1960 and reached back-,area. While the extent of the freshwater lens has been reduced
+"ground levels ( 2 TU) by 2006 (Tadros et al., 2014, and","since 1977, saltwater intrusion has not significantly affected the"
+previously unpublished data collected by ANSTO for GNIP) after,salinity of fresh groundwater abstracted by production wells at
+the bomb pulse peak in the 1960s. Since then weighted annual,the centre of the lens at this point in time (Fig. 4). The absence
+averages have ranged from 1.29 TU to 2.10 TU. This groundwater,of detectable salt water intrusion into the centre of the freshwater
+"value (0.67 TU) is significantly lower than rainfall 3H, but higher",lens is likely due to the position of production wells at the centre
+"than all other saline groundwaters (0.03–0.09 TU), which may",of the lens and the location of their screens (Table 2) just below
+result frommodern seawater intrusion in this area due to the prox-,"the water table, which rises to a maximum of 0.51 m AHD during"
+"imity of the well to the coast (110 m), as seen in other studies",the current study and reduces the risk of seawater entering the
+"(Sivan et al., 2005). The value could also result frommixing of older","wells (Barlow, 2003)."
+saline groundwater (>60 years) with fresh rainfall recharge. Cur-,The lens was previously suggested to be around 9 m thick in the
+"rent tritium data for seawater in the study region is not available,","centre of the aquifer (Playford and Leech, 1977; Smith, 1994), with"
+however tritium values of 2 TU were measured in the oceans,a mixing zone greater than 10 m thick below. Based on the fresh-
+"around southern Australia by Tamuly (1974) in 1969/70, while a",water head value (0.51 m) of a single deep monitoring well located
+value of 3.4 TU was reported by Kakiuchi et al. (1999) off the,"at the centre of the lens area (15-90; Fig. 1A), the Ghyben-Herzberg"
+Perth coast in 1996/97. Delineation of the contribution of modern,relationship predicts a freshwater lens thickness of 20.5 m. The
+"seawater, rainfall or an older seawater source is the subject of fur-",Ghyben-Herzberg relationship is for a sharp interface and it pro-
+"39ther research, where noble gas isotopes such as Ar are being",vides a better estimate of the 50% seawater contour (Izuka and
+measured and will be used to estimate the contribution of these,"Gingerich, 1998; Masciopinto, 2006), rather than the definition of"
+end-members to the groundwater. Without such an approach,the freshwater lens as less than <1000 mg/L TDS used in this and
+these contributions cannot be accurately calculated. While the,previous estimates. This well reveals highly saline groundwater
+"contributions are yet to be determined, it can be deduced from this","(TDS = 22,977 mg/L) at a screen elevation of 15 m AHD, with a"
+study that older saline groundwaters (>60 years) below the fresh-,"seawater fraction of 0.68, which suggests that the screen samples"
+water lens have mixed with older fresh groundwaters (>60 years),the mixing zone below the freshwater lens. Despite a stable water
+"that were not previously saline, which has resulted in a general","table across the island over the last twenty-five years, an increase"
+thinning of the lens in the northern section of the aquifer (Fig. 4).,"in TDS from 5550 mg/L TDS in 1990 to 22,977 mg/L in 2014 was"
+The hypersaline lakes are characterised by high concentrations,"observed in this central well (15-90), which indicates that the"
+"of major ions (69,282 mg/L–186,613 mg/L TDS), reaching more","thickness of the freshwater lens in this area is also thinning, caused"
+"than five times seawater composition (35,768 mg/L) due to",by the upwards migration of older saltwater. Whether this is
+"repeated evaporation cycles (Playford, 1997; Boulton et al.,",caused by localised upconing of saltwater or a more widespread
+"2014), and is the subject of further investigation. The d18O and",shrinking of the lens thickness requires further investigation due
+d2H values of lake waters show that they do not provide any nota-,to the general absence of deeper wells.
+"ble contribution to the groundwater (Fig. 7A and B), with lake iso-",
+18topic values (d O mean: 1.79‰; S.D.: 0.77 ‰; n = 5) being highly,5.3. Impacts of variations in rainfall and abstraction on the lens
+enriched compared to groundwater values (d18O mean: 3.51‰;,
+"S.D.: 1.13‰; n = 29). As a result, the end-members which con-",Three recharge estimates were applied to Rottnest Island in an
+"tribute to the groundwater system on Rottnest Island are rainfall,",attempt to deduce the impact of both abstraction and rainfall
+"which recharges the system and older seawater, which mixes with",decline on the freshwater lens extent and their relationship to
+fresh water to produce groundwaters of increasing salinity. Further,the observed saltwater intrusion on Rottnest Island. Each method
+research is required to confirm the modern seawater endmember.,"is based on a number of assumptions, which are likely to influence"
+The lakes therefore represent a zone of groundwater discharge,the recharge value estimates to varying degrees. The renewal rate
+rather than a source of potential recharge.,approach assumes a well-mixed reservoir and complete mixing of
+,"successive recharge events occurs within the lens, while the Cl"
+5.2. Reduction in lens extent,mass balance approach is likely to underestimate recharge due to
+,an underestimation of Cl from dry deposition captured by rainfall
+"Analysis of hydrochemical, isotopic and water level results pro-","collectors compared to natural vegetation (Appelo and Postma,"
+vided information to approximate the minimum spatial extent of,"2005), which may be significant in a coastal area such as Rottnest"
+"the freshwater lens on Rottnest Island, which was determined to",Island. The water balance approach is a highly simplified approach
+"be 1.6 km2. This equates to a reduction of 1 km2 since 1977, when",and does not consider soil moisture or corrections to potential
+the lens area was estimated to be approximately 2.6 km2,evaporation values due to the absence of vegetation crop factors
+"(Playford and Leech, 1977). The reduced lateral extent is sup-","for Rottnest Island. Assumptions aside, the three methods are in"
+ported by a comparison of historic and present day TDS values,general agreement and provide relatively similar approximations
+"(Table 2; Fig. 4), which show increased groundwater salinity in","of recharge across the lens, which increases confidence in their use."
+most monitoring wells located around the perimeter of the fresh-,"As the recharge estimates suggest, effective recharge on Rot-"
+"water lens, from a maximum TDS value of 6700 mg/L in 1990 to","tnest Island ranges from 37 to 59% of rainfall, with an average of"
+"30,000 mg/L in 2014/15. A 3000% increase in TDS in the northern",45%. To provide a rough estimate of recharge before the decline
+section of the freshwater lens (Well 27-90; Fig. 4) since 1990,"in rainfall commenced in the late 1960s, this effective recharge"
+highlights the large salinity changes in this area in particular.,value was applied to the long term rainfall average (757 mm) from
+"Two production wells in the vicinity (1-90, 8-90) show slightly","1911 to 1970, which suggests an average recharge volume of"
+"of water within the lens, and supports the observed reduction in",and Chris Dimovski and Stuart Hankin for their assistance with
+both the lateral extent and thickness of the lens on the island.,"field trip preparation. Finally we would like to thank Gabriel Rau,"
+"While groundwater abstraction has occurred since 1977, the small","from the Connected Waters Initiative, UNSW, for his assistance"
+volume of groundwater removed from the system compared to the,with preparing for and processing data from an elevation survey
+"Department of Water, 2014. Rottnest Island Water Reserve: Drinking Water Source","Playford, P.E.,",1997.,Geology,and,hydrogeology,of,Rottnest,"Island, Western"
+"Protection Plan. Report No. WRP 148. Department of Water, Government of","Australia. In: Vacher, L.H., Quinn, T.M. (Eds.), Geology and Hydrogeology of",,,,,,,
+"Western Australia, pp. 75.",Carbonate,Islands.,Developments,,"in Sedimentology,",,vol.,"54. Elsevier,"
+"Edward, D., 1983. Inland waters of Rottnest Island. J. R. Soc. West. Austr. 66(Parts 1","Amsterdam, pp. 783–810.",,,,,,,
+"and 2), 41–47.","Playford, P.E.,","Leech, R.E.J.,",1977. Geology and Hydrology of Rottnest,,,,,Island.
+"Edward, D., Watson, J., 1959. Fresh water and brackish water swamps of Rottnest","Geological Survey of Western Australia, pp. 113.",,,,,,,
+"Island. J. R. Soc. West. Austr. 42, 85–86.","Plummer, L., 1975. Mixing of sea water with calcium carbonate ground water. Geol.",,,,,,,
+"Falkland, A., 1991. Hydrology and Water Resources of Small Islands: A Practical","Soc. Am. Memoirs 142, 219–236.",,,,,,,
+Guide. UNESCO Press.,"Post, V., 2005. Fresh and saline groundwater interaction in coastal aquifers: is our",,,,,,,
+"Feng, M. et al., 2013. La Niña forces unprecedented Leeuwin Current warming in","technology ready for the problems ahead? Hydrogeol. J. 13 (1), 120–123.",,,,,,,
+2011. Sci. Rep. 3.,"Post, V. et al., 2007. Using hydraulic head measurements in variable-density ground",,,,,,,
+"Feng, M. et al., 2003. Annual and interannual variations of the Leeuwin Current at","water flow analyses. Groundwater 45 (6), 664–671.",,,,,,,
+"32 S. J. Geophys. Res. 108 (C11), 3355.","Rippey, M., Hobbs, R., 2003. The effects of fire and quokkas (Setonix brachyurus) on",,,,,,,
+"Ferguson, G., Gleeson, T., 2012. Vulnerability of coastal aquifers to groundwater use","the vegetation of Rottnest Island, Western Australia. J. R. Soc. West. Austr. 86",,,,,,,
+"and climate change. Nat. Clim. Change 2 (5), 342–345.","(2), 49–60.",,,,,,,
+"Fetter, C.W., 2001. Applied Hydrogeology. Macmillan College Publishing Inc., New","Ritzi, R.W. et al., 2001. Explaining the thinness of the fresh water lens in the",,,,,,,
+York.,"Pleistocene carbonate aquifer on Andros Island, Bahamas. Groundwater 39 (5),",,,,,,,
+"Fitterman, D.V., Deszcz-Pan, M., 1998. Helicopter EM mapping of saltwater",713–720.,,,,,,,
+"intrusion in Everglades National Park, Florida. Explor. Geophys. 29 (1/2), 240–","Schneider, J.C., Kruse, S.E., 2003. A comparison of controls on freshwater lens",,,,,,,
+243.,morphology of small carbonate and siliciclastic islands: examples from barrier,,,,,,,
+"Fretwell, J.D., Stewart, M.T., 1981. Resistivity study of a coastal karst terrain, Florida.","islands in Florida, USA. J. Hydrol. 284 (1), 253–269.",,,,,,,
+"Ground Water 19 (2), 156–162.","Seth, B. et al., 2006. Improved reliability of oxygen isotopic analysis of water using",,,,,,,
+"Ghyben, W.B., 1889. Nota in verband met de voorgenomen putboring nabij",the Finnigan GasBench II periphery of a continuous flow isotope ratio mass,,,,,,,
+Amsterdam (Notes on the Probable Results of the Proposed Well Drilling near,spectrometer by backflushing of the sampling line. Rapid Commun. Mass,,,,,,,
+"Amsterdam). Tijdschrift het Koninklijk Instituut voor Ingenieurs, The Hague, pp.","Spectrom. 20 (6), 1049–1051.",,,,,,,
+8–22.,"Sivan, O. et al., 2005. Geochemical evolution and timescale of seawater intrusion",,,,,,,
+"Gouramanis, C. et al., 2012. Holocene palaeoclimate and sea level fluctuation","into the coastal aquifer of Israel. Geochim. Cosmochim. Acta 69 (3), 579–592.",,,,,,,
+"recorded from the coastal Barker Swamp, Rottnest Island, south-western","Small, C., Nicholls, R.J., 2003. A global analysis of human settlement in coastal zones.",,,,,,,
+"Western Australia. Quatern. Sci. Rev. 54, 40–57.","J. Coastal Res., 584–599",,,,,,,
+"Gozzard, J., 2011. WA Coast: Rottnest Island. Geological Survey of Western","Smart, P. et al., 1988. Carbonate dissolution in a modern mixing zone. Nature 335",,,,,,,
+"Australia, Digital Data Product.","(6193), 811–813.",,,,,,,
+"Gröning, M. et al., 2012. A simple rain collector preventing water re-evaporation","Smith, A. et al., 2012. Geohydrology of the Tamala Limestone Formation in the Perth",,,,,,,
+2dedicated for d 18 O and d H analysis of cumulative precipitation samples. J.,Region: Origin and Role of Secondary Porosity. CSIRO: Water for a Healthy,,,,,,,
+"Hydrol. 448, 195–200.","Country National Research Flagship, Perth, WA, pp. 74.",,,,,,,
+"Herzberg, D., 1901. Die Wasserversorgung einiger Nordseebäder (The water supply","Smith, I. et al.,",2000.,Southwest Western Australian winter,,,,,rainfall and its
+on parts of the North Sea coast). J. Gasbeleuchtung Wasserversorgung.,"association with Indian Ocean climate variability. Int. J. Climatol. 20 (15),",,,,,,,
+"München 44, 815–819.",1913–1930.,,,,,,,
+"Hirschberg, K.J., Smith, R.A., 1990. A Reassessment of the Shallow Groundwater","Smith, R.A., 1982. An Assessment of the Rottnest Island Fresh Groundwater Supply.",,,,,,,
+Resources of Rottnest Island (Unpublished). Hydrogeology Report 1990/61.,"Hydrogeology Report No. 2292. Western Australia Geological Survey, Perth, pp.",,,,,,,
+"Western Australia Geological Survey, pp. 27.",69.,,,,,,,
+"IAEA/WMO, 2016. Global Network of Isotopes in Precipitation. <http://www.iaea.","Smith, R.A., 1985.",Effect of,Pumping on,,‘‘Freshwater”,,"Seeps,",Rottnest Island
+org/water> (accessed 15/02/2015).,(Unpublished).,Hydrogeology,,Report,2623. Western,,Australia,Geological
+"Izuka, S.K., Gingerich, S.B., 1998. Estimation of the depth to the fresh-water/salt-","Survey, pp. 14.",,,,,,,
+water interface from vertical head gradients in wells in coastal and island,"Smith, R.A., 1994. Groundwater Exploitation and Management on a Small Semiarid",,,,,,,
+"aquifers. Hydrogeol. J. 6 (3), 365–373.","Island. Water Down Under ’94, Adelaide, Australia, pp. 473–478.",,,,,,,
+"Kakiuchi, H. et al., 1999. Tritium concentration in ocean. J. Radioanal. Nucl. Chem.","Smith, R.L. et al., 1991. The Leeuwin current off Western Australia, 1986–1987. J.",,,,,,,
+"239 (3), 523–526.","Phys. Oceanogr. 21 (2), 323–345.",,,,,,,
+"Keywood, M. et al., 1997. The accession of chloride to the western half of the","Stoessell, R. et al., 1989. Water chemistry and CaCO3 dissolution in the saline part of",,,,,,,
+"Australian continent. Aust. J. Soil Res. 35 (5), 1177–1189.","an open-flow mixing zone, coastal Yucatan Peninsula, Mexico. Geol. Soc. Am.",,,,,,,
+"Kinzelbach, W. et al., 2003. Sustainable groundwater management-problems and","Bull. 101 (2), 159–169.",,,,,,,
+"scientific tool. Episodes-Newsmag. Int. Union Geol. Sci. 26 (4), 279–284.","Stuyfzand, P.J.,",1999.,Patterns,in,groundwater,chemistry,,resulting from
+"La Salle, C.L.G. et al., 2001. Renewal rate estimation of groundwater based on","groundwater flow. Hydrogeol. J. 7 (1), 15–27.",,,,,,,
+"14radioactive tracers ( H, 3 C) in an unconfined aquifer in a semi-arid area,","Tadros, C.V. et al., 2014. Tritium in Australian precipitation: a 50 year record. J.",,,,,,,
+"Iullemeden Basin, Niger. J. Hydrol. 254 (1), 145–156.","Hydrol. 513, 262–273.",,,,,,,
+"Małoszewski, P., Zuber, A., 1982. Determining the turnover time of groundwater","Tamuly, A., 1974. Dispersal of tritium in southern ocean waters. Arctic, 27–40.",,,,,,,
+systems with the aid of environmental tracers: 1. Models and their,"Taylor, R.G. et al., 2013. Ground water and climate change. Nat. Clim. Change 3 (4),",,,,,,,
+"applicability. J. Hydrol. 57 (3), 207–231.",322–329.,,,,,,,
+"Masciopinto, C., 2006. Simulation of coastal groundwater remediation: the case of","Vacher, H.L., 1997. Introduction: varieties of carbonate islands and a historical",,,,,,,
+"Nardò fractured aquifer in Southern Italy. Environ. Model. Softw. 21 (1), 85–97.","perspective. In: Vacher, H.L., Quinn, T.M. (Eds.), Geology and Hydrogeology of",,,,,,,
+"Mylroie, J.E. et al., 1995. Blue holes: definition and genesis. Carbonates Evapor. 10","Carbonate Islands. Developments in Sedimentology. Elsevier, Amsterdam, pp.",,,,,,,
+"(2), 225–233.",1–33.,,,,,,,
+"Nicholls, R.J. et al., 2007. Coastal systems and low-lying areas. In: Climate Change","Vacher, H.L., Mylroie,",,"J.E., 2002.",Eogenetic,karst,from the perspective,,of an
+"2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II","equivalent porous medium. Carbonates Evapor. 17 (2), 182–196.",,,,,,,
+to the Fourth Assessment Report of the Intergovernmental Panel on Climate,"Visscher, P.T., Stolz, J.F., 2005. Microbial mats as bioreactors: populations, processes,",,,,,,,
+"Change. Cambridge University Press, Cambridge, UK, p. 987.","and products. Palaeogeogr. Palaeoclimatol. Palaeoecol. 219 (1), 87–100.",,,,,,,
+"Oude Essink, G. et al., 2010. Effects of climate change on coastal groundwater","Werner, A.D.","et al.,",2013. Seawater,,intrusion,"processes,",investigation,and
+systems: a modeling study in the Netherlands. Water Resour. Res. 46 (10).,"management: recent advances and future challenges. Adv. Water Resour. 51,",,,,,,,
+"Paine, J.G., 2003. Determining salinization extent, identifying salinity sources, and",3–26.,,,,,,,
+"estimating chloride mass using surface, borehole, and airborne electromagnetic","White, I., Falkland, T., 2010. Management of freshwater lenses on small Pacific",,,,,,,
+induction methods. Water Resour. Res. 39 (3).,"islands. Hydrogeol. J. 18, 227–246.",,,,,,,
+"Parkhurst, D.L., Appelo, C.A.J., 2013. Description of Input and Examples for PHREEQC","Wigley, T., Plummer, L., 1976. Mixing of carbonate waters. Geochim. Cosmochim.",,,,,,,
+"Version 3-A Computer Program for Speciation, Batch-reaction, One-","Acta 40 (9), 989–995.",,,,,,,
+"Dimensional Transport, and Inverse Geochemical Calculations. U.S. Geological","WIN, 2015. Water INformation (WIN) Database – Discrete Sample Data. Water",,,,,,,

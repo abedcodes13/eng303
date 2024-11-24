@@ -1,0 +1,222 @@
+"467
+C. Wood et al. / Journal of Hydrology 519 (2014) 465–475"
+"between 1 and 2 m with a gravel pack (5–7 mm aggregate gravel)
+gas phase. We have constrained diffusive transport through mea-"
+"around the screen. Bentonite was used to seal the borehole annulus
+surement and modelling of CFCs. CFCs are trace gases of anthropo-"
+"above the gravel pack and the remainder of the borehole was back
+genic origin, which were introduced into the atmosphere in the"
+"1950s. Their atmospheric concentration increased until the 1990s
+ﬁlled to the surface with sand. Unsaturated zone gas
+sampling"
+"when they were phased out of production (owing to their ozone
+tubesconsistedof<s>1</s>=4’’nylontubingﬁttedwithastainlesssteelﬁlter"
+"on the end. These were taped to the outside of the piezometers dur-
+depleting qualities). Atmospheric concentrations have been mea-"
+"ing installation and a connection port was attached to the tubing at
+sured
+in
+several
+locations,
+including
+Australia,
+over
+the
+past"
+"the ground surface. The ﬁlter ends of the gas sampling tubes served
+60 years, hence input concentrations to the unsaturated zone over"
+"to prevent any soil particulate matter entering and potentially clog-
+time are known. Therefore CFCs can be used to indicate timescales"
+"ging the tubing, and were ‘screened’ in the backﬁll material (sand).
+of unsaturated zone gas transport (Cook and Solomon (1995)) and"
+"At each site up to six gas sampling tubes of different length were
+help determine parameters related to the effective diffusion coefﬁ-"
+"attached to the outside of
+the piezometer, so that samples could
+cient in a soil (e.g. porosity and tortuosity, Weeks et al., 1982)."
+"be taken at multiple depths.
+ToreproduceourdatawemodelledCFC-12,<s>12</s>CO<s>2</s>and<s>14</s>CO<s>2</s>"
+"using HYDRUS 1-D (Šimunek et al., 2013). HYDRUS uses the Rich-
+Samples of unsaturated zone gas were collected for analysis of"
+"ards equation to model variably saturated ﬂow:
+CO<s>2</s>(percentbyvolume),<s>14</s>C(pMC),d<s>13</s>C(‰),CFC-11andCFC-12"
+"(cid:2)
+(cid:2)
+(cid:3)
+(cid:3)
+(pptv). Sampling was conducted in 2011 for sites A to E (Fig. 1)."
+"@h
+@h"
+"@ @
+K
+¼
+(cid:2) S
+ð1Þ
+<s>þcos</s>a"
+"Unsaturated zone gas samples were collected by attaching a small"
+"@t
+x
+@x"
+"air pump to the sampling ports at the surface. The pump was run"
+"wherehisvolumetricwatercontent(m<s>3</s>m<s>(cid:2)3</s>),histhewaterpressure"
+"forﬁveminutesataﬂowrateof(cid:3)500mLmin<s>(cid:2)1</s>toﬂushthesam-"
+"head (m), t is time (y), x is the spatial coordinate (m), K is the unsat-"
+"pling tube then a sample was collected into either 110 ml Isotubes"
+"uratedhydraulicconductivity(my<s>(cid:2)1</s>),aistheanglebetweenthe(<s>14</s>Candd<s>13</s>Canalysis)or330mlstainlesssteelcanisters(CFCand"
+"ﬂow direction and the vertical axis (0(cid:3) for vertical ﬂow in our case)"
+"CO<s>2</s>analysis).Groundwaterwassampledfromthepiezometersto"
+"and S is the sink term. Solute transport is modelled with an advection"
+"which the gas samplers were attached, using a Grundfos MP1 sub-"
+"dispersion equation in which transport may occur in the liquid and"
+"mersible pump. Samples were collected for carbon isotope analysis"
+"gas phases. Exchange between the liquid and gas phase is assumed"
+"after approximately three bore volumes had been purged and ﬁeld"
+"to be instantaneous and determined by the partition coefﬁcient:"
+"parameters
+(electrical conductance, pH,
+temperature) had stabi-"
+"c<s>w</s>lised, and stored in 1 L high density polyethylene plastic bottles."
+"ð2Þ
+k<s>g</s>¼"
+"c<s>g</s><s>14</s>Candd<s>13</s>CwasperformedongroundwaterandAnalysis of"
+"unsaturated zone gas using the method described by Meredith"
+"in the liquid and gas phase
+wherec<s>w</s>andc<s>g</s>areconcentrations"
+"etal.(2012),howeveracidevolution(toconvertDICtoCO<s>2</s>)was"
+"(mmolm<s>(cid:2)3</s>).WeassumethatsorptionisnegligibleforbothCFCs"
+"not
+required in the case of unsaturated zone gas. The analysis"
+"(CookandSolomon,1995)andCO<s>2</s>,hencethereisnopartitioning"
+"was performed using AMS facilities at the Australian Nuclear Sci-"
+"betweenthesolidandliquidphases.Sorptionof<s>14</s>CO<s>2</s>maybecome"
+"enceandTechnologyOrganisation(ANSTO,Finketal.,2004).<s>14</s>C"
+"important as water content increases (Striegl and Armstrong, 1990),"
+"activities of unsaturated zone gas and groundwater are reported"
+"however preliminary modelling showed our results to be insensi-"
+"(respectively)
+relative
+as
+theratio<s>14</s>CO<s>2</s>:<s>12</s>CO<s>2</s>and<s>14</s>C<s>DIC</s>:<s>12</s>C<s>DIC</s>"
+"tive to sorption at the low water contents we model. Thus the solute"
+"to the international standard (Stuiver and Pollach, 1977)
+in units"
+"transport equation can be written as:"
+"are
+reported in per mil
+of pMC.
+Stable
+isotope ratios
+(<s>13</s>C:<s>12</s>C)"
+"(cid:2)
+(cid:3)
+(cid:2)
+(cid:3)"
+"@hc<s>w</s>@qc<s>w</s>@avc<s>g</s>"
+"(‰) relative to the international standard (Craig, 1957).
+hD<s>w</s>@ðc<s>w</s>ÞavD<s>g</s>@c<s>g</s>"
+"@ @
+@ @
+þ
+¼
+þ
+(cid:2)"
+"x
+@x
+x
+@t
+@t
+@x
+@x"
+"analysis was
+performed
+at
+Flinders University,
+South
+CO<s>2</s>"
+"ð3Þ
+Australia,usingaQuibitS-151CO<s>2</s>analyser.Giventherelatively(cid:2)khc<s>w</s>(cid:2)kavc<s>g</s>þcc<s>g</s>av"
+"lowrangeoftheCO<s>2</s>analyser(0–2000ppm),sampleswerediluted"
+"whereqisthevolumetricﬂux(my<s>(cid:2)1</s>);kisthedecayconstantfor"
+"in a closed loop of known volume using ultra high purity (UHP)"
+"<s>14</s>C(y<s>(cid:2)1</s>),represents
+production
+of
+in
+the
+gas
+phase
+c
+CO<s>2</s>"
+"nitrogen and appropriate corrections applied to give an accurate"
+"(mmolm<s>(cid:2)3</s>y<s>(cid:2)1</s>),a<s>v</s>istheaircontent(m<s>3</s>m<s>(cid:2)3</s>),D<s>w</s>isthedispersion"
+"concentration. CFCs were analysed by gas
+measurementofCO<s>2</s>"
+"coefﬁcientintheliquidphase(m<s>2</s>y<s>(cid:2)1</s>)andD<s>g</s>isthediffusioncoef-"
+"chromatography
+at CSIRO Land
+and Water
+in Adelaide,
+South"
+"ﬁcientinthegasphase(m<s>2</s>y<s>(cid:2)1</s>).Thediffusioncoefﬁcientsarecal-"
+"Australia, using a setup similar
+to that described by Busenberg"
+"culated as follows:"
+"and Plummer (1992). Only CFC-12 data is presented in this paper,"
+"jqj"
+"as the trends in both tracers are well correlated."
+"ð4Þ
+þhD<s>W</s>D<s>W</s>¼D<s>L</s><s>0</s>s<s>W</s>"
+"h"
+"3.2. Methods – modelling"
+"ð5Þ
+D<s>g</s>¼a<s>V</s>D<s>g</s><s>0</s>s<s>g</s>"
+"Basedonpreviousstudies,dilutionofunsaturatedzone<s>14</s>Ccan"
+"whereD<s>L</s>islongitudinaldispersivity(m),jqjistheabsolutevalueof"
+"belinkedtoproductionofCO<s>2</s>relativelydevoidof<s>14</s>C,henceouris
+the molecular diffusion
+thevolumetricwaterﬂux(my(cid:2)1),D<s>W</s>"
+"0"
+"modellingapproachistomodelboth<s>14</s>CO<s>2</s>and<s>12</s>CO<s>2</s>production"
+"coefﬁcientofthesoluteinfreewater(m<s>2</s>y<s>(cid:2)1</s>)ands<s>w</s>istortuosity"
+"andtransportintheunsaturatedzone.Modelling<s>12</s>CO<s>2</s>and<s>14</s>CO<s>2</s>is the molecular diffusions coefﬁcient
+fortheliquidphase(–);D<s>g</s>"
+"0"
+"separatelyinidenticalunitsallowsustoconsidertheratio<s>14</s>C:<s>12</s>C"
+"infreeairands<s>g</s>istortuosityinthegasphase(–).Tortuosityiscal-"
+"insoilgasfordirectcomparisontoourmeasuredunitsof<s>14</s>Cactivity"
+"culated within the model based on water and air content
+in the"
+"(pMC).
+Following
+the work
+of
+Thorstenson
+et
+al.
+(1983), we"
+"liquid and gas phase using the relationships derived by Millington"
+"converted<s>14</s>CactivityinpMCtoconcentrationunitsof<s>14</s>CO<s>2</s>inand Quirk (1961):"
+"and
+estimated
+concentration
+mass/volume
+(mmolm<s>(cid:2)3</s>),<s>12</s>CO<s>2</s>"
+"73
+h"
+"(mmolm<s>(cid:2)3</s>)basedonmeasurementsofCO<s>2</s>(ppm)andthecalcu-ð6Þ
+s<s>W</s>¼"
+"h<s>2</s>"
+"S
+lated<s>14</s>CO<s>2</s>concentrations(knowingthat<s>14</s>CinpMCdirectlyrelates"
+"totheratio<s>14</s>C:<s>12</s>C)."
+"<s>73</s>VOur model considers advective and diffusive transport
+in the"
+"a"
+"ð7Þ
+s<s>g</s>¼"
+"in the gaseous phase. Given
+liquid phase and diffusive transport"
+"h<s>2</s>S"
+"the arid environment
+transport
+is predominantly diffusive in the"

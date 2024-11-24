@@ -1,0 +1,157 @@
+"W. Howcroft et al. / Chemical Geology 451 (2017) 154–168
+165"
+"Table 4
+by calcite dissolution to DIC in groundwater (i.e. q values of 0.83 to 1.0)"
+"Hydraulic conductivity estimates for the Newer Volcanic basalt based upon groundwater"
+"from non-carbonate aquifers in southeast Australia were made by Love"
+"elevations and distances between bore pairs and groundwater residence times deter-"
+"et al. (1994), Cartwright et al. (2010, 2012), Atkinson et al. (2014) and"
+"minedusinga<s>14</s>CandEquation1.K<s>x</s>=horizontalhydraulicconductivity,K<s>z</s>=verticalhy-"
+"Raiber et al. (2015). In keeping with those studies, q values of between
+draulic conductivity."
+"0.85 and 0.95 are adopted here. A q value of 0.85 is frequently cited as"
+"Bore
+Distance
+GW
+Hydraulic
+Residence
+K<s>x</s>K<s>z</s>"
+"typical for non-carbonate aquifers (e.g., Clark and Fritz, 1997) and the"
+"pair
+elevation
+gradient
+time"
+"groundwater chemistry data indicate that at least some calcite dissolu-
+(m)
+(m AHD)
+(Years)
+(m/day)
+(m/day)"
+"tion is occurring,
+implying that q is less than 1.0. For these q values,"
+"–
+111787
+2860
+102.15
+0.005
+1664
+2×10<s>−2</s>"
+"groundwater residence times calculated using Eq. (1) vary from modern"
+"110534
+88.47
+5656"
+"–
+at bores 26683, 110193 and 110533 to 21,860 years at bore 110705
+111787
+2850
+102.15
+0.004
+1664
+5×10<s>−2</s>"
+"110535
+89.70
+3461
+(Table 3)."
+"–
+110191
+1760
+78.23
+0.001
+2518
+3×10<s>−2</s>"
+"The mean residence time (MRT) of groundwater was also estimated"
+"110194
+75.76
+8403"
+"using the Piston Flow Model (PFM) and the Dispersion Model (DM)"
+"–
+110700
+2530
+78.52
+0.002
+10,849
+2×10<s>−2</s>"
+"within TracerLPM. The PFM, which assumes that no hydrodynamic dis-
+110705
+73.00
+20,940"
+"–
+110979
+39
+78.63
+0.003
+863
+2×10<s>−4</s>persion occurs between the recharge area and the sampling point, is"
+"110700
+78.52
+10,849"
+"similartotheuseofEq.(1)exceptthatA<s>0</s>canbevariedwithtime.In"
+"–
+110706
+31
+73.37
+0.012
+442
+2×10<s>−5</s>"
+"contrast, the DM allows for variable degrees of dispersion through use"
+"110705
+73.00
+20,940"
+"ofthedispersionparameterD<s>p</s>.Thedispersionparameterrepresents"
+"the ratio of dispersion to advection and, as its value approaches zero, ad-"
+"times determined using the three methods demonstrates the uncer-
+vection becomes the dominant process controlling tracer transport. The"
+"tainties in using radioactive tracers to determine groundwater resi-
+DM can apply to a variety of aquifer conﬁgurations and is considered to"
+"dence times.
+best represent the ﬂow system within the study area. In this study, two"
+"The residence times of groundwater, in combination with ground-
+values of the dispersion parameter were employed, 0.05 and 0.5, as the"
+"water elevations and distances between the bores, allow the horizontal
+range deﬁned by these values applies to most ﬂow systems of this scale"
+"and vertical hydraulic conductivities of the Newer Volcanics basalt to be
+(ZuberandMaloszewski,2001;Gelharetal.,1992).The<s>14</s>Crecordfor"
+"estimated using Darcy's Law. In these calculations, an effective porosity
+thesouthernhemisphereinJurgensetal.(2012)wasusedforA<s>0</s>.As"
+"of 5% was assumed, which is at the upper end of the range (1–5%) sug-
+with the calculations above, it was assumed that there was a contribu-"
+"gested by Finegan (1996) for the Newer Volcanics basalt near Mel-
+tionofbetween5and15%<s>14</s>C-freecarbontotheDIC."
+"bourne.
+Hydraulic
+conductivity
+values
+were
+calculated
+using
+MRTs estimated using the PFM varied from modern at bores 26683,"
+"groundwater ages derived from Eq. (1). However, these estimates do
+110193 and 110533 to 25,165 years at bore 110705 (Table 3, Fig. 9). At"
+"not change appreciably if MRTs from the Piston Flow Model or Disper-
+most locations, MRTs calculated using the PFM exceeded those deter-"
+"sion Model are utilised instead. Horizontal hydraulic conductivities for
+mined using Eq. (1) by less than 10%, with the relative difference in-"
+"creasingasresidencetimeincreased.Forgroundwaterwitha<s>14</s>CN~70thebasaltrangefrom2×10<s>−2</s>to5×10<s>−2</s>m/daywhileverticalhori-"
+"pMC, MRTs calculated using the PFM were shorter than those deter-
+zontalconductivitiesarebetween2×10<s>−5</s>and2×10<s>−4</s>m/day"
+"(Table 4). An inherent assumption in these calculations is that the hy-
+minedusingEq.(1).Thisisduetothefactthatatmospherica<s>14</s>C(A<s>0</s>)"
+"draulic gradient has not changed appreciably with time. The calculated
+within the southern hemisphere has often been below 100 pMC,"
+"horizontal hydraulic conductivity values are more than two orders of
+which Eq. (1) does not account for. MRTs estimated using the DM varied"
+"magnitude lower than that (8.6 m/day) estimated by Coram (1996)
+from modern at bores 26683, 110193 and 110533 to 57,510 years at"
+"for the younger-phase basalts. However, those estimates were based
+bore 110705 (Table 3, Fig. 9). MRTs calculated using the DM were typi-"
+"on slug tests, which typically examine a very small area around a bore,
+cally longer, but not signiﬁcantly so,
+than those determined using"
+"whereas the estimates from this study are regional in scale. In addition,
+Eq.(1)orthePFMwhenD<s>p</s>wassetequalto0.05.Signiﬁcantdifferences"
+"it is possible that the bores were screened across fractures to ensure
+betweenMRTestimatesonlybecomeapparentwhenD<s>p</s>wassetequal"
+"groundwater entry or that drilling may have disturbed the adjacent ba-
+to 0.5, leading to relative differences in MRTs as high as 90% (in ground-"
+"salt. Lastly, lack of detailed geologic mapping in the area does not allow
+waterwitha<s>14</s>Cb10pMC).Thevariabilityingroundwaterresidence"

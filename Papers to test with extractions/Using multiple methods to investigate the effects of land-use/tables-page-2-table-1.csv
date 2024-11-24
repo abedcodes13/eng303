@@ -1,0 +1,166 @@
+"90
+S. Barua et al.: Effects of land-use changes on groundwater recharge in a semi-arid area"
+"1.1
+Cl mass balance
+water and surface water systems, estimates of
+recharge are"
+"required. Estimation of
+recharge rates is also important
+for"
+"The Cl mass balance (CMB) approach yields average re-
+groundwater modelling, because recharge represents the wa-"
+"gional net recharge rates (Bazuhair and Wood, 1996; Scan-
+ter ﬂux used as a boundary condition at the water table."
+"lon, 2000; Scanlon et al., 2002). The assumptions of
+this
+Recharge is the water
+that
+inﬁltrates through the unsatu-"
+"method are that all Cl
+in groundwater originates from rain-
+rated zone to the water table and thus increases the volume of"
+"fall and that Cl exported in surface runoff is negligible or well
+water stored in the saturated zone (Lerner et al., 1990; Healy"
+"known. Under these conditions, the net groundwater recharge
+and Cook, 2002; Scanlon et al., 2002; Moeck et al., 2020). A"
+"inmmyr<s>−1</s>)isestimatedfrom(R<s>net</s>distinction between gross and net recharge may also be made"
+"(Crosbie et al., 2005). The total amount of water that reaches"
+"Cl<s>p</s>"
+"(1)
+the water table is the gross recharge, while the net recharge
+R<s>net</s>=P"
+"Cl<s>gw</s>"
+"accounts for the subsequent removal of water from the satu-"
+"rated zone by evapotranspiration. In areas with shallow water"
+"(Eriksson and Khunakasem, 1969), where P is mean annual"
+"tables and deep-rooted vegetation, this subsequent water loss"
+"is the weighted mean Cl con-
+precipitation(mmyr<s>−1</s>),Cl<s>p</s>"
+"can be considerable. Estimating groundwater recharge rates,
+centrationinprecipitation(mgL<s>−1</s>)"
+"con-
+andCl<s>gw</s>isCl"
+"in general, is not straightforward (Lerner et al., 1990; Healy,"
+"centration in groundwater
+(mgL<s>−1</s>).TheCMBmethodes-"
+"2010; Moeck et al., 2020), and recharge rates potentially vary"
+"timates net
+recharge rates averaged over
+the time that
+the"
+"in space and time (Sibanda et al., 2009)."
+"Cl contained within the groundwater is delivered; this may be"
+"Several
+techniques may be used to estimate groundwater"
+"several years to millennia. Uncertainties in the CMB method"
+"recharge, including Darcy’s law, measuring water inﬁltration"
+"are mainly the long-term rate of Cl delivery and the assump-"
+"using lysimeters installed in the unsaturated zone, measuring"
+"tion that runoff has remained negligible over time."
+"and modelling soil moisture contents, use of heat ﬂow calcu-"
+"1.2
+Water table ﬂuctuations
+lations, catchment water budgets, remote sensing, numerical"
+"models, water
+table ﬂuctuations, chemical
+(chloride) mass"
+"Water
+table
+ﬂuctuations may
+be
+used
+to
+estimate
+gross
+balance calculations, and/or
+the concentrations of
+radioiso-"
+"recharge rates over
+the time period for which groundwater
+topes
+such as
+<s>3</s>H(tritium),<s>14</s>C(carbon),<s>36</s>Cl(chloride),"
+"elevation data are available. Because bore hydrograph data
+or other time-sensitive tracers (e.g., chloroﬂuorocarbons) in"
+"are abundant,
+this probably is the most common method of
+groundwater (Scanlon et al., 2002, 2006; Healy, 2010; Doble"
+"estimating present-day recharge rates. The water table ﬂuc-
+and Crosbie, 2017; Cartwright et al., 2017; Moeck et al.,"
+"tuation (WTF) method strictly requires the water table to be
+2020; Gelsinari et al., 2020)."
+"located within the screened interval of the bore; however,
+it
+Different
+techniques estimate recharge over different spa-"
+"can be used in bores
+screened within a few metres of
+the
+tial and temporal scales, and they may thus yield different re-"
+"water
+table (Healy and Cook, 2002). The method assumes
+sults (Scanlon et al., 2002). Because each technique has dif-"
+"that evapotranspiration from the water table has not occurred,
+ferent uncertainties and limitations,
+it
+is recommended that"
+"the rise in the water table is solely due to recharge following
+multiple methods are used to constrain recharge (Healy and"
+"rainfall events, groundwater elevations are not inﬂuenced by
+Cook, 2002; Scanlon et al., 2006). Understanding the broader"
+"pumping and the water table falls in the absence of recharge.
+hydrogeology also helps to understand recharge. For exam-"
+"is calculated from
+R<s>gross</s>ple, areas where recharge rates are high should contain high"
+"proportions of young groundwater. Additionally,
+recharge"
+"(cid:49)h"
+"rates are likely to be low if evapotranspiration rates approach
+,
+(2)
+R<s>gross</s>=S<s>y</s>"
+"(cid:49)t"
+"rainfall totals."
+"This
+study estimates
+recharge rates using Cl mass bal-
+whereS<s>y</s>isthespeciﬁcyield(dimensionless)oftheaquifer,"
+"and (cid:49)h/(cid:49)t
+is the variation in the hydraulic head over
+the
+ance,watertableﬂuctuations,and<s>3</s>Hrenewalratemethods"
+"rechargeevent(mmyr<s>−1</s>,wherethereisanannualrechargein a semi-arid area that has undergone successive land-use"
+"event).
+changes. We evaluate the applicability and uncertainties of"
+"Despite its
+simplicity,
+there are several potential uncer-
+these commonly applied methods to determine the changes in"
+"recharge rates caused by these successive land-use changes.
+taintiesintheWTFmethod.S<s>y</s>isnotcommonlymeasured,"
+"and most studies rely on typical values based on aquifer ma-
+While based on a speciﬁc area,
+the results of
+this study,
+in"
+"terials. More importantly,
+the retention of moisture in the
+particular the comparison of present-day recharge rate esti-"
+"unsaturated zone between recharge events
+and
+mates, will be applicable to similar semi-arid areas in south-
+reducesS<s>y</s>"
+"east Australia and elsewhere. Speciﬁcally, predicting the im-
+resultsinS<s>y</s>beingspatiallyandtemporallyvariable(Gill-"
+"ham, 1984; Sophocleous, 1985; Healy and Cook, 2002; Cros-
+pacts of changes to land-use changes on recharge rates is re-"
+"bie et al., 2019). However, many recharge studies assume
+quired to understand and manage waterlogging and saliniza-"
+"is constant and close to the effective porosity. This
+tion of soils and streams. A brief description of the assump-
+thatS<s>y</s>"
+"may result
+in the WTF method signiﬁcantly overestimating
+tions and limitations of these techniques is provided below."
+"Hydrol. Earth Syst. Sci., 25, 89–104, 2021
+https://doi.org/10.5194/hess-25-89-2021"

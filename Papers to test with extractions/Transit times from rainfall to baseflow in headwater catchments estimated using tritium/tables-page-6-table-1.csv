@@ -1,0 +1,117 @@
+"Figure 2. (a) Flow of the Ovens River at Bright between 2009 and 2014, arrows show timing of sampling campaigns. (b) Flow duration",""
+"curve for Bright. Data from Department of Environment Primary Industries (2015).",""
+"using a ThermoFinnigan ICP-OES or
+ICP-MS on samples","and Zuber
+(1982, 1992), Cook and Bohlke
+(2000), Mal-"
+"that had been ﬁltered through 0.45 µm cellulose nitrate ﬁlters","oszewski
+(2000) and Zuber et al.
+(2005)
+that
+treat
+the dis-"
+"andacidiﬁedtopH<2usingdouble-distilled16MHNO<s>3</s>.","charging water
+as
+comprising numerous
+aliquots
+each of"
+"Anions were analysed on ﬁltered unacidiﬁed samples using a","which has followed a different ﬂow path and thus taken a dif-"
+"Metrohm ion chromatograph at Monash University. The pre-","ferent amount of time to pass through the aquifer. For steady-"
+"cision of anion and cation analyses based on replicate anal-","stategroundwaterﬂow,theactivityof<s>3</s>Hinwaterdischarg-"
+"yses is ±2 % and the accuracy based on analysis of certiﬁed","ing into the stream at time t
+(C<s>o</s>(t))isrelatedtotheinputof"
+"water standards is ±5 %. While a range of major ion concen-","<s>3</s>H(C<s>i</s>)overtimeviatheconvolutionintegral:"
+"trations were measured only Cl and Na, which represent the",""
+"","∞"
+"major anion and cation in surface water and groundwater,","Z"
+"","(1)
+C<s>o</s>(t)=C<s>i</s>(t−τ)g(τ)e<s>−λτ</s>dτ,"
+"are discussed here. Additional major
+ion data are from the",""
+"Department of Environment and Primary Industries (2015).","0"
+"Stable isotopes were measured at Monash University using",""
+"","t − τ
+where τ
+is the transit
+time,
+is the time that
+the water"
+"Finnigan MAT 252 and ThermoFinnigan DeltaPlus Advan-",""
+"","enteredtheﬂowsystem,λisthedecayconstant(0.0563yr<s>−1</s>"
+"tagemassspectrometers.δ<s>18</s>Ovaluesweredeterminedvia",""
+"","for<s>3</s>H),andg(τ)istheresponsefunctionthatdescribesthe"
+"equilibrationwithHe-CO<s>2</s>at32<s>◦</s>Cfor24–48hinaTher-",""
+"","distribution of ﬂow paths and transit times in the system."
+"moFinniganGasBench.δ<s>2</s>Hwasmeasuredbyreactionwith",""
+"","The
+exponential ﬂow model describes
+the mean transit"
+"Crat850<s>◦</s>CusinganautomatedFinniganMATH/Device.",""
+"","time in homogeneous unconﬁned aquifers of constant thick-"
+"δ<s>18</s>Oandδ<s>2</s>Hvaluesweremeasuredrelativetointernalstan-",""
+"","ness that receive uniform recharge and where ﬂow paths from"
+"dards calibrated using IAEA SMOW, GISP and SLAP. Data",""
+"","the entire aquifer
+thickness discharge to the stream. Piston"
+"were normalized following (Coplen, 1988) and are expressed",""
+"","ﬂow assumes linear ﬂow with no mixing within the aquifer,"
+"relative to V-SMOW. Precision (1σ ) based on replicate anal-",""
+"","such that all water discharging to the stream at any one time"
+"ysis
+isδ<s>18</s>O=±0.1‰andδ<s>2</s>H=±1‰.<s>3</s>Hactivitiesare",""
+"","has the same transit time. The exponential-piston ﬂow model"
+"expressed in tritium units
+(TU) where 1 TU represents
+a",""
+"","describes mean transit
+times
+in aquifers
+that have regions"
+"<s>3</s>H/<s>1</s>Hratioof1×10<s>−18</s>.Samplesfor<s>3</s>Hwerevacuumdis-",""
+"","where ﬂow paths have an exponential distribution and re-"
+"tilled and electrolytically enriched prior to being analysed by",""
+"","gions where ﬂow paths have a linear distribution. For
+the"
+"liquid scintillation spectrometry using Quantulus ultra-low-",""
+"","exponential-piston ﬂow model g(τ ) in Eq. (1) is given by:"
+"level counters at GNS, New Zealand. Following from Mor-",""
+"genstern and Taylor (2009) the sensitivity is now further in-",""
+"","(2a)
+g(τ)=0forτ<τ<s>m</s>(1−f)"
+"creased to a lower detection limit of 0.02 TU via tritium en-",""
+"richment by a factor of 95, and reproducibility of tritium en-","(2b)
+g(τ)=(fτm)−1e−τ/fτ<s>m</s>+1/f−1forτ>τm(1−f),"
+"richment of 1 % is achieved via deuterium-calibration for ev-",""
+"","time and f
+is the proportion
+whereτ<s>m</s>isthemeantransit"
+"ery sample. The precision (1σ ) is ∼ 1.8 % at 2 TU (Table 1).",""
+"","of the aquifer volume that exhibits exponential ﬂow. Where"
+"3.4
+Estimatingmeantransittimesusing<s>3</s>H","f = 1, Eqs.
+(1) and (2) describe the distribution of
+transit"
+"","times
+resulting from exponential ﬂow while where f = 0,"
+"Water ﬂowing
+through
+an
+aquifer
+follows ﬂow paths
+of","Eqs. (1) and (2) describe the distribution of transit
+times re-"
+"varying length, which results in the water discharging into","sulting from piston ﬂow. The calculations utilised the Ex-"
+"streams having a range of
+transit
+times
+rather
+than a dis-","cel workbook TracerLPM (Jurgens et al., 2012)
+that spec-"
+"crete
+age. The mean transit
+times may be
+calculated us-","iﬁes the ratio of exponential
+to piston ﬂow as an EPM ra-"
+"ing the lumped parameter models described by Maloszewski","tio which is equivalent
+to 1/f − 1. The dispersion model
+is"

@@ -1,0 +1,16 @@
+0,1,2,3,4
+Table 1,,,,
+Sample ID,Li (μM),Sr (μM),δ7Li (‰),Source
+Autumn (MAM),0.10,0.33,+16.9,This study
+Winter (JJA),0.07,0.34,+31.5,This study
+Spring (SON),0.05,0.59,+30.3,This study
+Summer (DJF),0.12,1.22,+30.2,This study
+Rottnest Island – average,0.09,n/a,+27.2 ± 6.9,This study
+Hawaii,0.01,n/a,+14.3,Pistiner and Henderson (2003)
+Icelanda,2.12,n/a,+33.3,
+Azores Archipelago,0.02,n/a,+32.8,
+"Guadelope, Lesser Antilles",b0.01 to 0.01,n/a,+11.2 to +26.4,Clergue et al. (2015)
+"Brest, France 2003–2004",0.06,n/a,+22.5 ± 4.3,Millot et al. (2010)
+"Dax, France 2003–2004",0.07,n/a,+22.8 ± 4.3,Millot et al. (2010)
+"Orleans, France 2003–2004",0.05,n/a,+16.1 ± 4.8,Millot et al. (2010)
+Clermont-Ferrand 1994–1995,0.06,n/a,+26.2 ± 29.7,Millot et al. (2010)
